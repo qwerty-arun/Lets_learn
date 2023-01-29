@@ -7,3 +7,10 @@
 - vim plugins for auto-indentation and text color 
 - Pascal's triangle
 - makefiles
+
+# 29/1/23
+- Testing a program and finding a point where the program fails. Display proper message when input is wrong and terminating the execution. 
+- Makefile Tutorial and some of its syntaxes.
+- Changing a.out file name to something else. A source code can have multiple executable binary files and they are all the same.
+- Breaking a program into seperate files(called modules) each containing a function of the original combined program.
+- How to compile these so called 'modules'. Example:- `gcc main.c bin.c` will combine both these files and then it will execute the entire program. 
