@@ -17,7 +17,7 @@
 
 # 05/2/23
 - The problem with global declaration of variables.
--  ```# include <stdio.h>``` and ```# include "pascals_triangle.h"```. What's the difference? Well ```<>``` are used for system header files. For example:- ```stdio.h```. By using ```<>``` you are telling the compiler to go look for a header file in the current directory you are working in. ```" "``` are used for user-defined header files.
+-  ```# include <stdio.h>``` and ```# include "pascals_triangle.h"```. What's the difference? Well ```<>``` are used for system header files. For example:- ```stdio.h```. By using ```<>``` you are telling the compiler to go look for a header file in the current directory you are working in. ```""``` are used for user-defined header files.
 - Introduction to storage classes. Difference between stack and heap.
 - Introduction to MATLAB.
 
