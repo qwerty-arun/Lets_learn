@@ -28,7 +28,7 @@
 - A Brief Introduction on how to Debug a program in Ubuntu(Linux) using `gdb`. 
 - `gdb` is a very powerful, very vast but not so user friendly tool. 
 - command `gdb <binaryfile>` will debug the binary file. 
-- There are two modes of execution:- 1)Debug mode where additional information required for debugging is added by including `-g` in the command. 2) Release mode is just normal execution and the binary file doesn't contain any additional information about debugging. `gcc -g main.c` 
+- There are two modes of execution:- </br>1)Debug mode where additional information required for debugging is added by including `-g` in the command.</br> 2) Release mode is just normal execution and the binary file doesn't contain any additional information about debugging. `gcc -g main.c` 
 - type `ls -lrth` after each mode of execution and see the difference in sizes of two binary files created. 
 - Certain commands in gdb:- `run` to run the program, `break` or `b` are used to add a breakpoint, `quit` to exit gdb, `layout` to view program in different layout. For example: `layout src` will display the source code, `layout asm` will display assembly code, `layout regs` to display different registers used. 
 - Shortcuts in gdb and their meaning: 'n' for next-> Goes to the next instruction in the program, 'r' for restart-> Runs the program the beginning, 'p' for printing value that a variable has stored-> 'p sum' will print the value of sum.  
