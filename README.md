@@ -25,7 +25,7 @@
 - [Click here](https://graphics.stanford.edu/~seander/bithacks.html) to solve challenging programs in C.
 - Try writing all sorting programs like Bubble Sort, Quick Sort etc.
 - Learn more about Memory Management and Storage Classes.
-- A brief Introduction on how to Debug a program in Ubuntu using gdb. 
+- A Brief Introduction on how to Debug a program in Ubuntu(Linux) using `gdb`. 
 - `gdb` is a very powerful, very vast but not so user friendly tool. 
 - command `gdb <binaryfile>` will debug the binary file. 
 - There are two modes of execution:- 1)Debug mode where additional information required for debugging is added by including `-g` in the command. 2) Release mode is just normal execution and the binary file doesn't contain any additional information about debugging. `gcc -g main.c` 
