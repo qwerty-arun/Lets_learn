@@ -6,6 +6,8 @@
 
  Space complexity: Total amount of memory space needed to store the algorithm, run it and complete the task. It included a fixed part and a variable part. Fixed part:- Includes space for the code given, space for variables used, fixed size component variables, space for some other variables if needed etc. Variable part:- Includes the space needed by component variable whose size depends on a particular problem and the space required for other procedures like methods, recursion, object etc.
 
+- Initialising all variables in your code is very important because when you don't, they will posses garbage values and compiler will assume something else.
+
 # 19/2/23
 - [Click here](https://graphics.stanford.edu/~seander/bithacks.html) to solve challenging programs in C.
 - Try writing all sorting programs like Bubble Sort, Quick Sort etc.
