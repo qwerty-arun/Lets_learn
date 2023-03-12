@@ -1,3 +1,12 @@
+# 12/3/23
+## When you are building a product, ask yourself these questions:-
+1) Who are you selling this product to and what are their expectations? If you don't know, you are the one who is supposed to ask them.
+2) Does this project make any sense and will it be of any use?
+3) Do I have the datasheets of all the components which we are using in this project?
+4) How much do I have to invest for building one such product?(it should be as minimal as possible). </br>
+5) How much information is fine to be known to customers?
+- Scope of a function (public, private, protected).
+- Advantages of using a private function. </br>
 # 5/3/23
 - A brief introduction to Time complexity, Space Complexity and Big-O-Notation.</br>
  Time complexity: Total amount of time take to run an algorithm as a function of length of the input. It represents the number of times a statement is executed. However, time complexity of an algorithm is NOT the actual time required to a execute a particular code, since that depends on other factors like programming language, operating software, disc usage, specialised hardware(Graphic card etc.) . </br>
