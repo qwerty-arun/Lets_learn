@@ -5,7 +5,7 @@
 3) Do I have the datasheets of all the components which we are using in this project?
 4) How much do I have to invest for building one such product?(it should be as minimal as possible). </br>
 5) How much information is fine to be known to customers?
-- Scope of a function (public, private, protected).
+- Scope of a function (public, private).
 - Advantages of using a private function. </br>
 # 5/3/23
 - A brief introduction to Time complexity, Space Complexity and Big-O-Notation.</br>
