@@ -1,9 +1,9 @@
 # 30/4/23
 ## Discussion on topics like:- 
-1) How to build an emulator for old microcontrollers using C programming?
-2) Can one build a compiler for a programming language in the programming language for which he is building the compiler for? For example, building a compiler for C programs in C programming language. YES, but it is extremely difficult.
-3) While building an application or website, you need to use multiple programming languages. How do they run simultaneously? How do they work? How do they communicate with themselves?
-4) A simple introduction to SWIFT programming language. What compiler does it use and so on.
+- How to build an emulator for old microcontrollers using C programming?
+- Can one build a compiler for a programming language in the programming language for which he is building the compiler for? For example, building a compiler for C programs in C programming language. YES, but it is extremely difficult.
+- While building an application or website, you need to use multiple programming languages. How do they run simultaneously? How do they work? How do they communicate with themselves?
+- A simple introduction to SWIFT programming language. What compiler does it use and so on.
 
 
 # 12/3/23
