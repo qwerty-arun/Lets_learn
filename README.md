@@ -1,3 +1,11 @@
+# 30/4/23
+## Discussion on topics like:- 
+1) How to build an emulator for old microcontrollers using C programming?
+2) Can one build a compiler for a programming language in the programming language for which he is building the compiler for? For example, building a compiler for C programs in C programming language. YES, but it is extremely difficult.
+3) While building an application or website, you need to use multiple programming languages. How do they run simultaneously? How do they work? How do they communicate with themselves?
+4) A simple introduction to SWIFT programming language. What compiler does it use and so on.
+
+
 # 12/3/23
 ## When you are building a product, ask yourself these questions:-
 1) Who are you selling this product to and what are their expectations? If you don't know, you are the one who is supposed to ask them.
