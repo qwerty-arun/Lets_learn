@@ -1,3 +1,10 @@
+# 21/5/23
+## Pointers
+- Brief introduction to pointers.
+- Advantages and Disadvantages of pointers.
+- Security issues.
+- Passing pointers to functions. 
+
 # 30/4/23
 ## Discussion on topics like:- 
 - How to build an emulator for old microcontrollers using C programming?
