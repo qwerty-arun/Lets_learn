@@ -1,3 +1,6 @@
+# 28/5/23 & 29/5/23
+- reading man pages for each and every function(in-built) in C. For example, man strcmp.
+- structures 
 # 21/5/23
 ## Pointers
 - Brief introduction to pointers.
