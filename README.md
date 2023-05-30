@@ -4,7 +4,7 @@
 - Security Vulnerability: Unless we reset the values in stack, it retains the values even after pop operation.
 - What are tracefiles? 
 - What are core files? How do you backtrace core files? 
-- What is Stack smashing?
+- What is Stack smashing? It's a defence mechanism against buffer overflows.
 
 
 # 21/5/23
