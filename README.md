@@ -1,6 +1,11 @@
 # 28/5/23 & 29/5/23
 - reading man pages for each and every function(in-built) in C. For example, man strcmp.
-- structures 
+- structures and concept of "Stack Canary Operation".
+- Security Vulnerability: Unless we reset the values in stack, it retains the values even after pop operation.
+- What are tracefiles? 
+- What are core files? How do you backtrace core files? 
+
+
 # 21/5/23
 ## Pointers
 - Brief introduction to pointers.
