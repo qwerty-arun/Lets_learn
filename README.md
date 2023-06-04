@@ -1,3 +1,8 @@
+# 4/6/23
+- Concept of Variable Shadowing and how does a compiler know which variables to use? The compiler goes from innermost to the outermost(from innermost braces, say a for loop of if statement, then a function, then it checks for global variables).
+- How do you restrict a user from changing a value of a variable. By using 'const', you are making the variable a "read only" object, that is, you can just use the value stored but cannot manipulate it. Suppose you are building an open source API, these constant variables are very important so that other users don't change the value stored in them.
+- `struct student *n1` ,how do you read this? What does it mean.
+- 
 # 28/5/23 & 29/5/23
 - reading man pages for each and every function(in-built) in C. For example, man strcmp.
 - structures and concept of "Stack Canary Operation".
