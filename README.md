@@ -1,3 +1,13 @@
+# 18/6/23
+- How is malloc different from calloc? Allocating memory to array of structures using calloc in one go whereas if we use malloc, we need to use a loop.
+- How to dereference a double pointer of type structure?
+- `cp <file1> <file2>` command copies content of file1(source) to file2 which is the destination.
+- What is a packed struct?
+- `ulimit -a` is a command used to print details of cpu and memory allocation to all programs which we write.
+Assignment : 
+- Write a program which uses the realloc() function.
+- Write a program on Stack. Use heap memory allocation, do operations on stack like `push,pop,top` with proper testing conditions.</br>
+
 # 4/6/23
 - Concept of Variable Shadowing and how does a compiler know which variables to use? The compiler goes from innermost to the outermost(from innermost braces, say,a `for` loop or an `if` statement, then the compiler checks the entire function for the local variables, then it checks for global variables).
 - How do you restrict a user from changing a value of a variable. By using 'const', you are making the variable a "read only" object, that is, you can just use the value stored but cannot manipulate it. Suppose you are building an open source API, these constant variables are very important so that other users don't change the value stored in them.
