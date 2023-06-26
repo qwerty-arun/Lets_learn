@@ -1,3 +1,10 @@
+# 25/6/23
+- Realizing the importance of CAD drawing and its implementation in 3D printing.
+- `while(1)` in C will create an infinite loop where 1 denotes "TRUE".
+- Killing the program(Ctrl+C) v/s Exiting gracefully using return. By killing the program, you don't erase the values that variables hold, after some time, kernel goes and cleans up memory. This creates a vulnerability(security issue) for a short period of time. When you exit a program gracefully(return 0), the compiler will erase the memory right after exiting.
+Assignment :
+- Write a program using realloc function.
+- Learn about linked lists. What is linked list? What is the most simplest form. Try implementing stack using this.</br>
 # 18/6/23
 - How is malloc different from calloc? Allocating memory to array of structures using calloc in one go whereas if we use malloc, we need to use a loop.
 - How to dereference a double pointer of type structure?
