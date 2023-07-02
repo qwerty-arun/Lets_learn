@@ -1,3 +1,9 @@
+# 2/7/23
+- Debugging the stack program(linked lists).
+- It's a bad practice to use global variables. To eliminate this problem, we can declare it in the `main` function and the pass the value(it can be a pointer or a structure) to a function that requires it for a purpose.
+- `Ctrl + r` in vim is for reverse searching in the terminal.
+- In Escape mode of vim, `Shift + 8` which is `*` jumps to next occurance of the word under which the cursor is. The cursor can be anywhere in the word.
+- `%s/<old_word>/<new_word>/gc` inside vim is used to substitute every `old_word` with `new_word` and vim will ask whether to replace each word or not by jumping to the next word.</br>
 # 25/6/23
 - Realizing the importance of CAD drawing and its implementation in 3D printing.
 - `while(1)` in C will create an infinite loop where 1 denotes "TRUE".
