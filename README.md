@@ -1,9 +1,13 @@
 # 16/7/23
-- Find the middle element of the linked list.
+- Find the middle element of the linked list and print it.
 - Insert a node at a particular position.
 - Delete a node at a particular position.
 - Sorting the linked list.
 - Print stack properly.
+- Merge two linked lists.
+- Forking repos in Github.
+- `gd` stands for `go to definition` goes to a function definition, to come back to caller function, press `Ctrl+o`.
+- Check out `libsox` library in C which is related to audio processing. Find resources, find the source code for it. Build the source code for it in linux environment.
 # 2/7/23
 - Debugging the stack program(linked lists).
 - It's a bad practice to use global variables. To eliminate this problem, we can declare it in the `main` function and the pass the value(it can be a pointer or a structure) to a function that requires it for a purpose.
