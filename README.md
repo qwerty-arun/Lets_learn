@@ -1,3 +1,8 @@
+#16/7/23
+- Find the middle element of the linked list.
+- Insert a node at a particular position.
+- Delete a node at a particular position.
+- Sorting the linked list.</br>
 # 2/7/23
 - Debugging the stack program(linked lists).
 - It's a bad practice to use global variables. To eliminate this problem, we can declare it in the `main` function and the pass the value(it can be a pointer or a structure) to a function that requires it for a purpose.
