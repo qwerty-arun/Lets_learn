@@ -1,3 +1,9 @@
+# 30/7/23
+- Why learning simulation softwares are important? It can help you analyse and design circuits before you actually try to build one in real life. This saves a lot of expenses.
+- Try to build a constant current circuit in the simulation software.
+- Optimize the stack program in the following way:
+  - Imagine you don't know the no. of elements in the stack, how would you traverse and find out the middle element?
+  - Without knowing the no. of elements, how would you insert and delete elements in the stack?</br>
 # 16/7/23
 - Find the middle element of the linked list and print it.
 - Insert a node at a particular position.
