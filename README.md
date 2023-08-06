@@ -1,3 +1,9 @@
+# 6/8/23
+- Update the current stack prgm such that the topmost element in the stack now points to NULL.
+- Downloading clang compiler.
+- Debugging core files using lldb.
+- How to backtrace? Use: `bt` command.
+- Install virtual box with Ubuntu 22 LTS. </br>
 # 30/7/23
 - Why learning simulation softwares are important? It can help you analyse and design circuits before you actually try to build one in real life. This saves a lot of expenses.
 - Try to build a constant current circuit in the simulation software.
