@@ -1,7 +1,7 @@
 # 20/8/23
-- A review of my team project on "E-nose (Electronic nose)", its challenges and how to overcome.
+- A review of my team project on "E-nose (Electronic nose)", its challenges and how to overcome. Suggestions:- Try using ESP-8266 which has inbuilt wifi module for data tranmission. For integrating two or more sensors, you will need to use a multiplexing device. Gaussian data would be better for our data collection. 
 - A discussion on configurations of robots. For example, a robot of cylindrical work volume is very useful parking lots to automate the process of parking in a cylindrical building.
-- 
+- Bee-keeping tutorial.</br>
 # 6/8/23
 - Update the current stack prgm such that the topmost element in the stack now points to NULL.
 - Downloading clang compiler.
