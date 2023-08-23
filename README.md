@@ -8,7 +8,7 @@
   - Struct and C++ class
   - Abstract class
   - Copy constructor
-  - Move schematics
+  - Move semantics
   - Assigning an object to another</br>
 # 6/8/23
 - Update the current stack prgm such that the topmost element in the stack now points to NULL.
