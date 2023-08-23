@@ -1,7 +1,15 @@
 # 20/8/23
 - A review of my team project on "E-nose (Electronic nose)", its challenges and how to overcome. Suggestions:- Try using ESP-8266 which has inbuilt wifi module for data tranmission. For integrating two or more sensors, you will need to use a multiplexing device. Gaussian data would be better for our data collection. 
 - A discussion on configurations of robots. For example, a robot of cylindrical work volume is very useful parking lots to automate the process of parking in a cylindrical building.
-- Bee-keeping tutorial.</br>
+- Bee-keeping tutorial.
+- An overview on concepts like classes and objects. Object being an instance of a class. Think of 'class' being a cookie cutter which defines shape and size of a cookie, when you make a cookie, it is an object which we can eat which has the properties of the class. But, we can't eat the class(cookie cutter) itself. There class doesn't have physical existence but an object doesn't.
+- Learn the following concepts:
+  - MACRO v/s Inline
+  - Struct and C++ class
+  - Abstract class
+  - Copy constructor
+  - Move schematics
+  - Assigning an object to another</br>
 # 6/8/23
 - Update the current stack prgm such that the topmost element in the stack now points to NULL.
 - Downloading clang compiler.
