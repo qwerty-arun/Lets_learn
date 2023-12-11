@@ -1,6 +1,8 @@
 # 10/12/23
 - `sox --help` to find out more about libsox.</br>
-- 
+- [Click here](https://fossies.org/dox/sox-14.4.2/index.html) to view source code of libsox functions. Using this as a reference, you can build your own tool.</br>
+- [Click here](https://github.com/dmkrepo/libsox) to view some examples of tools which is built using basic functions.</br>
+- Test each function to know about their details like, thier parameters, return value etc.</br>
 # 7/12/23
 - Introduction to libsox library.
 - Dowloading libsox library in linux using the command: `sudo apt-get install -y libsox-dev`, `sudo apt install pkg-config`, `sudo apt-get install sox libsox-fmt-all bc`.</br>
