@@ -1,3 +1,14 @@
+# 14/01/24
+- Learn about applications of op-amp, every possible circuit, understand it deeply.</br>
+- Learn basic electronics. Learn how to debug circuit connections. Don't be scared to try! What happens if we remove one component? How to measure accurate voltages in the circuit? How to read data sheets of every components? [Click here](https://www.youtube.com/@LearnElectronicsRepair) to watch videos based on these topics.</br>
+- LIBSOX: `play --h`, `play --h | grep <effect_name>`, `play --help` are some commands with which we learn about various effects.</br>
+- Create line numbers in the libsox programs to traverse better.</br>
+- Every command can be converter into a program. Try that. For example, the effect `remix` can be converted to a program written by you.</br>
+- In every libsox program, do a `NULL` pointer checking always before using it. </br>
+- Keep in mind the time and space complexity of each and every program, it matters. </br>
+- Research about no. of channels in an audio file.</br>
+- Learn about spatial audio.</br>
+- Try to visualize 3 files on `sonic visualizer` simultaneously and also try to run the waves in real time.</br>
 # 10/12/23
 - `sox --help` to find out more about libsox.</br>
 - [Click here](https://fossies.org/dox/sox-14.4.2/index.html) to view source code of libsox functions. Using this as a reference, you can build your own tool.</br>
