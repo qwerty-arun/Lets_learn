@@ -1,3 +1,10 @@
+# 28/1/23
+- How do you design a CNC machine using OnShape? A simple one which can cut wood, aluminium. What all components should be made of metal and other of which material?</br>
+- Research about MPCNC.</br>
+- Implement Arduino grbl in arduino microcontroller.</br>
+- Use desmos to plot different graphs on the same sheet. Analyse different waveforms.</br>
+- Handwriting font generator. yourfonts website.</br>
+- Learn about ttf and otf formats.</br>
 # 14/01/24
 - Learn about applications of op-amp, every possible circuit, understand it deeply.</br>
 - Learn basic electronics. Learn how to debug circuit connections. Don't be scared to try! What happens if we remove one component? How to measure accurate voltages in the circuit? How to read data sheets of every components? [Click here](https://www.youtube.com/@LearnElectronicsRepair) to watch videos based on these topics.</br>
