@@ -1,4 +1,14 @@
-# 28/1/23
+# 03/03/24
+- About ISRO visit. </br>
+- Comparing outputs of filters on Audacity and SoX.</br>
+- What about cascading filters?</br>
+- Neighbouring frequencies, why are they still present in output? Because of filter response and low roll-off rate.</br>
+- How I assembled a CPU? How I could identify different components.</br>
+- Check out Audacity open source software. Check if they use SoX library.</br>
+- Try out Nyquist plot on Audacity.</br>
+- What is kerning? Kerning is the spacing between individual letters or characters.</br>
+- Some ideas on CNC machines, 3-D printing and so on.</br>
+# 28/1/24
 - How do you design a CNC machine using OnShape? A simple one which can cut wood, aluminium. What all components should be made of metal and other of which material?</br>
 - Research about MPCNC.</br>
 - Implement Arduino grbl in arduino microcontroller.</br>
