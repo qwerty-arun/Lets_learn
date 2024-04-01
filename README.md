@@ -1,3 +1,10 @@
+# 24/3/24
+- A review on Harmonics project</br>
+- What's the difference between plugins and app?</br>
+- GNU systems.</br>
+- How to write academic papers? What font to use? What color? etc.</br>
+- Making your own circuit diagram for your project and its importance.</br>
+- Don't make local files.Bring everything online.</br>
 # 03/03/24
 - About ISRO visit. </br>
 - Comparing outputs of filters on Audacity and SoX.</br>
