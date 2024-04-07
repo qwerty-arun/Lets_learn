@@ -1,3 +1,13 @@
+# 7/4/24
+- A review on the line following robot. What challenges did you face? </br>
+- Problems in the circuit diagram. How to make it more optimised? Why was there a voltage issue. </br>
+- Replace boards, drivers etc. with resistances to visualize series or parallel connection.</br>
+- Why did I even use 2 batteries? One was way more than enough. </br>
+- Don't use Arduino UNO as voltge supplier from now on. Make sure components get their own supply from external source. And from that external source, tap the voltage and step it down using voltage divider circuit. This is a better approach. </br>
+- Read data sheet of IR sensor module. Note down the operating conditions. </br>
+- Write down own code for sensor. Just use Arduino UNO and one sensor, read the sensor data. Vary the voltage supplied by the Arduino UNO using a potentiometer. With corresponding voltages, note the readings of the sensor. Plot a graph. </br>
+- Read about optocouplers and how they are used to isolate ciruits. </br>
+- Ideal measurements for the robot: 4 x 2 x 1 cm and not more than 25 grams. </br>
 # 24/3/24
 - A review on Harmonics project</br>
 - What's the difference between plugins and app?</br>
