@@ -1,3 +1,8 @@
+# 5/5/24
+- Draw a graph for the sensor caliberation thing.
+- Harmonics: compare a filtered square wave with a sine wave in one time period and see how deviation in present.
+- Learn C programming from the start for the next 2 months.
+- Review on bezier curve. 
 # 7/4/24
 - A review on the line following robot. What challenges did you face? </br>
 - Problems in the circuit diagram. How to make it more optimised? Why was there a voltage issue. </br>
