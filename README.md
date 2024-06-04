@@ -1,3 +1,22 @@
+# 4/6/24
+- Makefiles
+- C programming workspace setup.
+- Bufnr
+- Split window in neovim
+# 2/6/24
+- Neovim tutorial
+- Mason command
+- Everything which I learn in college, how do you code for every topic? This is a nice way of thinking.
+- How to change colorschemes on neovim.
+- `e $MYVIMRC` command in nvim.
+- Document everything from now on.
+- A broad idea about vimwiki, second brain and LaTex in github.
+- https://linuxconfig.org/install-npm-on-linux for installing npm on linux
+- https://github.com/nvim-lua/kickstart.nvim for nvim kickstart
+- https://github.com/nvim-tree/nvim-tree.lua
+- installed `curl` in linux
+- https://www.nerdfonts.com/ for downloading different fonts
+- https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script 
 # 5/5/24
 - Draw a graph for the sensor caliberation thing.
 - Harmonics: compare a filtered square wave with a sine wave in one time period and see how deviation in present.
