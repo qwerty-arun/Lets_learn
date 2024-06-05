@@ -1,3 +1,12 @@
+# 5/6/24
+- HW: Create custom keymap for closing the buffer.
+- HW: Debug the C program
+- Introduction to SSH keys: creating one, linking with github. `ssh-keygen` creates a pair of ssh keys: one private and another public.
+- Using SSH keys, it is possible to git push in local system but not with https links.
+- Commands and shortcuts learnt today: `spacebargcb` , `g;` takes you to previous change that has been made , `di'` deletes contents within the single quotes , `Shift-d` deletes till end of line, `Shift-insert` is copy pasting , `vnew` for creating buffer, 'Crun' for finding out buffer number, `terminal` to open a new terminal, `Spacebar` opens up a dialogue of what all we can search , `tabnew` creates a buffer.
+- Basics about Makefiles.
+- Shift for tabs and Ctrl for windows.
+- Actual meaning of `return 0` and its significance. `man error` for man pages for error, `man errno` to see values associated with different errors. '0' means you know there is no error. After writing a program, if you anticipate a particular error, then you return a value associated with that error. So that people reading your code understand what is going on.
 # 4/6/24
 - Makefiles
 - C programming workspace setup.
