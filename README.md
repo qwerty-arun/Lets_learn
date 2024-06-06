@@ -1,3 +1,6 @@
+# 6/6/24
+- Visualisation of amplitude modulation and frequency modulation waves on desmos graphing calculator.
+- Think and Grow Rich book: Chapter 1. Desire for riches, having a success conscious mind, think broad, having nothing to lose attitude (buring all bridges behind one). DEFINITE DESIRE IS EVERYTHING. 
 # 5/6/24
 - HW: Create custom keymap for closing the buffer.
 - HW: Debug the C program
