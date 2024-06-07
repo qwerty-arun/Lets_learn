@@ -1,3 +1,6 @@
+# 7/6/24
+- Rich Dad, Poor Dad Summary. Understanding the difference between assets and liability.
+- Phase Lock Loops introduction.
 # 6/6/24
 - Visualisation of amplitude modulation and frequency modulation waves on desmos graphing calculator.
 - Think and Grow Rich book: Chapter 1. Desire for riches, having a success conscious mind, think broad, having nothing to lose attitude (buring all bridges behind one). DEFINITE DESIRE IS EVERYTHING. 
