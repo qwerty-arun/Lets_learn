@@ -4,10 +4,23 @@
 - How to open a bash rc file? `nvim ~/.bashrc`
 - Adding path variables in environment on linux just like you do in windows.
 - C assignment: A question on arrays.
-- xdf-open command
 - LaTeX LSP: https://github.com/valentjn/ltex-ls/releases
 - Convert md file into pdf file.
 - Try setting up environment for LaTeX on neovim.
+## Commands used for setup:
+- `wget https://github.com/valentjn/ltex-ls/releases/download/16.0.0/ltex-ls-16.0.0-linux-x64.tar.gz` for installing
+- `tar -xvzf ltex-ls-16.0.0-linux-x64.tar.gz` for unzipping
+- `cd ltex-ls-16.0.0/` and `./ltex-ls` for getting into the directory and executing the binary. To know about the path, type  `which ls`. How do you make a command accessible across entire system? By editing bashrc file. To edit bashrc file, type `nvim ~/.bashrc`. `nvim` is an editor.
+- `source ~/.bashrc` for sourcing the bashrc file.
+- You can use the .bashrc file to set environment variables, define aliases, and source other shell scripts. It is a great way to customize your Bash shell and make it work how you want it to.
+- `echo $PATH` to find out the current path.
+- `ltex-ls` is run to see if we get any error, we didn't which means everything is set now.
+- `sudo apt install pandoc texlive-latex-base texlive-fonts-recommended texlive-extra-utils texlive-latex-extra` for installing a document converter tool.
+- `pandoc -h` for more info.
+- `xdg-open <filename.pdf>` for opening the pdf.
+- `pandoc -o trial.pdf trials.md` for converting markdown file into a pdf.
+- `pandoc -f markdown -o trial.pdf trials.md`
+- `pdflatex trials.tex -o trial.pdf`  
 # 7/6/24
 - Rich Dad, Poor Dad Summary. Understanding the difference between assets and liability.
 - Phase Lock Loops introduction.
