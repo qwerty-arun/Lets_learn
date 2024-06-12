@@ -1,3 +1,13 @@
+# 12/6/24
+- Turning a wifi router into a repeater and the advantages of it.
+- Set of latex on neovim. Search for latex in Mason.
+- How to open a bash rc file? `nvim ~/.bashrc`
+- Adding path variables in environment on linux just like you do in windows.
+- C assignment: A question on arrays.
+- xdf-open command
+- LaTeX LSP: https://github.com/valentjn/ltex-ls/releases
+- Convert md file into pdf file.
+- Try setting up environment for LaTeX on neovim.
 # 7/6/24
 - Rich Dad, Poor Dad Summary. Understanding the difference between assets and liability.
 - Phase Lock Loops introduction.
