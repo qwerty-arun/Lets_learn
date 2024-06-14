@@ -1,3 +1,10 @@
+# 14/6/24
+- Some tips on how to drastically improve your typing speed. How to correct your mistakes if you type wrong? Make use of Ctrl and Shift keys to traverse easily.
+- Search algorithms in C : Linear Search and Binary Search
+- Sorting algorithms in C: Selection Sort
+- Reading Books on C. 
+# 13/6/24
+- Day-32 challenge. Arrange array elements in a particular way.
 # 12/6/24
 - Turning a wifi router into a repeater and the advantages of it.
 - Set of latex on neovim. Search for latex in Mason.
