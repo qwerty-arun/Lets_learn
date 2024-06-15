@@ -1,3 +1,10 @@
+# 15/6/24
+- Importance of having a fixed schedule. Get everything online usign Google Calender.
+- Ghostwriter installation both on windows and linux: https://ghostwriter.kde.org/
+- Ghostwriter editor is mainly used for editing .md files. No distractions what so ever. 
+- Making git use the editor of my choice: `git config --global core.editor "nvim"`. To learn more: https://stackoverflow.com/questions/2596805/how-do-i-make-git-use-the-editor-of-my-choice-for-editing-commit-messages
+- Commiting from a different directory and also copying files from different directory.
+- Buffer in neovim doesn't support acceptance of values from user. So assume values directly and just save the file, it will automatically run it for you.
 # 14/6/24
 - Some tips on how to drastically improve your typing speed. How to correct your mistakes if you type wrong? Make use of Ctrl and Shift keys to traverse easily.
 - Search algorithms in C : Linear Search and Binary Search
