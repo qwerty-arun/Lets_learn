@@ -3,6 +3,10 @@
 - Call by reference in arrays.
 - Passing 2D array as an argument.
 - Transpose of a matrix program. 
+- Day 72 challenge.
+- Adding an alias definition. 
+- Navigating through nvim using search command. 
+- We can search for keymaps, definitions and much more.
 # 15/6/24
 - Fix the 3D printer bed: Use the paper technique, then adjust the bed while printing the first layer. 
 - Importance of having a fixed schedule. Get everything online usign Google Calender.
