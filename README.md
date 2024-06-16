@@ -1,4 +1,10 @@
+# 16/6/24
+- Having a `return 0` in between a program can halt it without you knowing. So be careful.
+- Call by reference in arrays.
+- Passing 2D array as an argument.
+- Transpose of a matrix program. 
 # 15/6/24
+- Fix the 3D printer bed: Use the paper technique, then adjust the bed while printing the first layer. 
 - Importance of having a fixed schedule. Get everything online usign Google Calender.
 - Ghostwriter installation both on windows and linux: https://ghostwriter.kde.org/
 - Ghostwriter editor is mainly used for editing .md files. No distractions what so ever. 
