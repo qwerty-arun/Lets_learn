@@ -1,3 +1,7 @@
+# 17/6/24
+- Completed bubble sort program.
+- Completed insertion sort program.
+- There are some errors in the buffer output. When the same program is run on terminal, it gives correct output. Especially when the inputs are 1 and 0. 
 # 16/6/24
 - Having a `return 0` in between a program can halt it without you knowing. So be careful.
 - Call by reference in arrays.
