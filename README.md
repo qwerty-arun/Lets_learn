@@ -1,3 +1,5 @@
+# 18/6/24
+- Advantage of array of pointers of strings over 2D strings. Memory saved.
 # 17/6/24
 - Completed Heap sort program.
 - Completed bubble sort program.
