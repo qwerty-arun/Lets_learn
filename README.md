@@ -1,3 +1,6 @@
+# 19/6/24
+- 0/1 Knapsack Problem. For more info, [Click here](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
+- All permutations of a string using backtracing method.
 # 18/6/24
 - Advantage of array of pointers of strings over 2D strings. Memory saved.
 # 17/6/24
