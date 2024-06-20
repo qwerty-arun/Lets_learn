@@ -1,3 +1,5 @@
+# 20/6/24
+- Creating a collapsible section: [more info](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
 # 19/6/24
 - 0/1 Knapsack Problem. For more info, [Click here](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
 - All permutations of a string using backtracing method.
