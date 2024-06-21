@@ -1,6 +1,8 @@
 # 21/6/24
 - Learnt about PCB designing on EasyEDA. 
 # 20/6/24
+- Bitwise operators challenge
+- Pivot Integer challenge
 - Project Counter.
 - How to identify knowledge gap? How to track your status? How to set deadline? How to document everything?
 # 19/6/24
