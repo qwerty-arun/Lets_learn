@@ -1,3 +1,8 @@
+# 21/6/24
+- Learnt about PCB designing on EasyEDA. 
+# 20/6/24
+- Project Counter.
+- How to identify knowledge gap? How to track your status? How to set deadline? How to document everything?
 # 19/6/24
 - 0/1 Knapsack Problem. For more info, [Click here](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
 - All permutations of a string using backtracing method.
