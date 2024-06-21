@@ -1,5 +1,9 @@
 # 21/6/24
 - Learnt about PCB designing on EasyEDA. 
+- Learnt about git branches. 
+- If you already have a directory in remote, you commmit online, then you come to remote and then commit, it will show an error.
+- https://phoenixnap.com/kb/git-list-remote-branches
+- https://stackoverflow.com/questions/3404294/merging-2-branches-together-in-git
 # 20/6/24
 - Bitwise operators challenge
 - Pivot Integer challenge
