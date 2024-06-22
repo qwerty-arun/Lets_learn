@@ -1,3 +1,8 @@
+# 22/6/24
+- Entropy is not a state of disorder, but a measure of number of states a system can take. Its a tendency to move towards possible configurations. [Learn more](https://www.youtube.com/watch?v=LBRBB6D8SdY)
+- Battery Management System on EasyEDA and an audio amplifier.
+- [YT video](https://www.youtube.com/watch?v=1e4lOJeqAc8)
+- You can draw tracks both on top layer and bottom layer.
 # 21/6/24
 - Learnt about PCB designing on EasyEDA. 
 - Learnt about git branches. 
