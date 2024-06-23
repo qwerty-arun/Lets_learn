@@ -1,6 +1,7 @@
 # 23/6/24
 - moreutils: a package which comes with handy tools. Command for installing: `sudo apt install moreutils`. [Click here](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/)
 - Various Processes involved in making of PCBs etc. and Soldering Factory where pick and place robots, drilling robots, manual soldering, inspection etc.
+- Improving on typing speed. [Typing test](https://10fastfingers.com/typing-test/english) and [Typing practice](https://www.keybr.com/).
 # 22/6/24
 - Entropy is not a state of disorder, but a measure of number of states a system can take. Its a tendency to move towards possible configurations. [Learn more](https://www.youtube.com/watch?v=LBRBB6D8SdY)
 - Battery Management System on EasyEDA and an audio amplifier.
