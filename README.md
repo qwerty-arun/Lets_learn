@@ -1,3 +1,13 @@
+# 1/7/24
+- Different types of cables (coaxial, CAT, telephone wire, optical fibre)
+- USB has four wires (D+,D-,V,G). Sometimes, you will not be able to transmit data through a USB cable, why? Because D+ and D- are not connected/supported.
+- Coaxial cable and its faraday caging.
+- Digital Clock Working.
+- Plasma Cutting Machine idea.
+- Hardwork in the wrong direction brings nothing! Don't waste your time.
+- You have a 3D printer at home, utilise it! Solve your own problems with it.
+- Counter Project: Research about simulation tools and displays. 
+- C programming: 3 programs.
 # 23/6/24
 - moreutils: a package which comes with handy tools. Command for installing: `sudo apt install moreutils`. [Click here](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/)
 - Various Processes involved in making of PCBs etc. and Soldering Factory where pick and place robots, drilling robots, manual soldering, inspection etc.
