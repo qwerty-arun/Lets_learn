@@ -1,3 +1,19 @@
+# 2/7/24
+- Visualised Pulse-Amplitude Modulation on Desmos and tried to increase the frequency of the carrier wave. But how do I reduce the T(on) period? Can I visualise PAM on MATLAB? If T(on) period is reduced enough, it becomes sampling. 
+- [PAM graph link](https://www.desmos.com/calculator/wufizmdq9d) 
+- PAM GRAPH: <iframe src="https://www.desmos.com/calculator/hclgglsbw7?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+- The carrier wave used was not a perfect square wave, it just approximation of fourier series upto 6 harmonics of sin(10x).
+- Common techniques used to protect data during transmmission on public clouds are cryptography, steganography and compression.
+- Properties of Public Cloud:- Transperancy, Availability, Security, Authentication, Privacy and Integrity. 
+- Generally, text messages require lossless conversion as it is very sensitive visually. Images and videos usally use lossy compression and changes are not easily noticeable to the eye.
+- Object that carries secret info is called stego object and the technique: steganography. 
+- There are many different proposed methods for data compression and hiding.
+
+## C-programming: 
+> 1) Why constant time in accessing array elements? The address of an element is computed as an offset from the base. Size of data type is multiplied with index value an then added to base, we get the address of the element. So, only one multiplication and one addition operation which takes same time.</br> 
+> 2) Disadvantages of array: Fixed size, preallocates size of array and sometimes even this is not possible due to large size and complex position based insertion (we may need to shift existing elements).</br>
+> 3) Disadvantages of Linked Lists: Access of elements takes time. Complexity: O(n)
+
 # 1/7/24
 - Different types of cables (coaxial, CAT, telephone wire, optical fibre)
 - USB has four wires (D+,D-,V,G). Sometimes, you will not be able to transmit data through a USB cable, why? Because D+ and D- are not connected/supported.
