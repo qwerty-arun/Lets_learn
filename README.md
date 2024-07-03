@@ -1,3 +1,9 @@
+# 3/7/24
+- College Stuff: Learnt Nyquist Sampling Theorem. Fourier Tranform of an impulse train is an impulse train itself. Why does aliasing effect occur? Why does sampling rate have to be greater than twice the frequency? 
+## C programming:-
+> 1) Finding maximum or minimum of two integers without branching (bit twiddle hacks.)
+> 2) size_t in C programming.
+> 3) Finding all duplicates in a string and also the number of occurances. 
 # 2/7/24
 - Visualised Pulse-Amplitude Modulation on Desmos and tried to increase the frequency of the carrier wave. But how do I reduce the T(on) period? Can I visualise PAM on MATLAB? If T(on) period is reduced enough, it becomes sampling. 
 - [PAM graph link](https://www.desmos.com/calculator/wufizmdq9d) 
