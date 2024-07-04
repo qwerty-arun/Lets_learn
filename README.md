@@ -1,3 +1,6 @@
+# 4/7/24
+- College Stuff: Flat-top sampling, aperture effect in Communication Engineering. Poisson's equation and Laplace's equation, laws of refraction in Electromagnetism.
+- C programming:- Singly linked list program with operations such as traversing, insertion of element.
 # 3/7/24
 - College Stuff: Learnt Nyquist Sampling Theorem. Fourier Tranform of an impulse train is an impulse train itself. Why does aliasing effect occur? Why does sampling rate have to be greater than twice the frequency? 
 ## C programming:-
