@@ -3,7 +3,7 @@
 - C programming: 
 > 1) Singly linked list program understanding.
 > 2) Read about doubly linked lists.
-> 3) 
+> 3) Bash Script to automate git commit all the work which I do.
 # 4/7/24
 - College Stuff: Flat-top sampling, aperture effect in Communication Engineering. Poisson's equation and Laplace's equation, laws of refraction in Electromagnetism.
 - C programming:- Singly linked list program with operations such as traversing, insertion of element.
