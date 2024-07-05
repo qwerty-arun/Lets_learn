@@ -1,3 +1,9 @@
+# 5/7/24
+- College Stuff: Pre-emphasis and de-emphasis experiment in Communication Engineering Lab. Math: Sampling distribution of means.
+- C programming: 
+> 1) Singly linked list program understanding.
+> 2) Read about doubly linked lists.
+> 3) 
 # 4/7/24
 - College Stuff: Flat-top sampling, aperture effect in Communication Engineering. Poisson's equation and Laplace's equation, laws of refraction in Electromagnetism.
 - C programming:- Singly linked list program with operations such as traversing, insertion of element.
