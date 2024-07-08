@@ -1,3 +1,14 @@
+# 8/7/24
+- College stuff: Cadence software tutorial in linux environment, introduction to cmos and nmos. 
+- Learnt about ssh keys.
+- Revised Communication Engineering.
+- Got to know how to access research papers online through college portal.
+- C programming:
+> 1) Circular Linked List program (not fully complete)
+> 2) Using static keyword to retain value even after control reaches caller function. 
+> 3) Don't truncate float values to integer using %d operator in print statements and even for the other way around.
+> 4) NULL's size is of 8 bytes.
+> 5) "" is of 1 byte because of '\0'.
 # 5/7/24
 - College Stuff: Pre-emphasis and de-emphasis experiment in Communication Engineering Lab. Math: Sampling distribution of means.
 - C programming: 
