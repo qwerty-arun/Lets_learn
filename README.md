@@ -4,6 +4,7 @@
 - Full Adder design using CMOS technology. Analyzed truth table, drew conclusions. Simplified expressions so that we need less no. of transistors to realize the circuit. 
 - Parallel configuration for addition operation and series configuration for multiplication operation. 
 - A overview on my project: Counter
+- GDB basics tutorial: breakpoints and source code layout. `gdbtui` , `break main` are new terms which I learnt.
 # 8/7/24
 - College stuff: Cadence software tutorial in linux environment, introduction to cmos and nmos. 
 - Learnt about ssh keys.
