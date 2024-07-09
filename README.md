@@ -1,3 +1,9 @@
+# 9/7/24
+- What to do in case of server down? How do you know the stats or status of a server? We used `lmstat -f 111`, what is that?
+- CMOS inverter design on Cadence Software. Creating symbol, analyzing graph and more. [Click here](https://youtu.be/64c4djOzam8?feature=shared). 
+- Full Adder design using CMOS technology. Analyzed truth table, drew conclusions. Simplified expressions so that we need less no. of transistors to realize the circuit. 
+- Parallel configuration for addition operation and series configuration for multiplication operation. 
+- A overview on my project: Counter
 # 8/7/24
 - College stuff: Cadence software tutorial in linux environment, introduction to cmos and nmos. 
 - Learnt about ssh keys.
