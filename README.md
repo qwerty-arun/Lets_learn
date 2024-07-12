@@ -4,6 +4,7 @@
 - Linux File Permissions: https://www.youtube.com/watch?v=LnKoncbQBsM
 - Skills that a programmer should know: https://www.youtube.com/watch?v=S2GfjaTbJa4
 - GDB tutorial for simple programs. Learnt simple commands like info, disable, enable, clear, next, step and display.
+- C programming: negating without using branching program, pointer arithmetic program, structure padding.
 # 9/7/24
 - What to do in case of server down? How do you know the stats or status of a server? We used `lmstat -f 111`, what is that?
 - CMOS inverter design on Cadence Software. Creating symbol, analyzing graph and more. [Click here](https://youtu.be/64c4djOzam8?feature=shared). 
