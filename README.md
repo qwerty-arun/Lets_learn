@@ -1,3 +1,7 @@
+# 14/7/24
+- C programming: Some basic pointer programs, Length of loop in linked list, Start of loop in linked list and insert a node in sorted list.
+# 13/7/24
+- C programming: Skip List, Finding nth node from the last, Finding if a list has a loop in it. 
 # 12/7/24
 - Important tricks in Linux to know: https://www.youtube.com/watch?v=RwQSUa1CHQM
 - Linux File Systems: https://www.youtube.com/watch?v=995-SYn6960&t=163s
