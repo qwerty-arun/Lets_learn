@@ -1,6 +1,6 @@
 # 15/7/24
 - College Stuff: Communication Engineering: Problems on Nyquist Sampling rate, important results on rectangular pulse and sinc function, illustrating the effect of aliasing, sampling of bandpass signals (quadrature sampling) and Time Division multiplexing (TDM-PAM). Electromagnetism: Application fo boundary conditions using laplace equation. Finding capacitance of various capacitors: parallel plate, cylindrical and spherical. Math: Sampling distribution problem, Sampling distribution of differences of means.
-- DATABASE MANAGEMENT SYSTEM: Levels of abstraction, schema and instances, physical data independence, data models, Data Definition Language (DDL), Data Manipulation Language (DML) and basics of SQL.
+- DATABASE MANAGEMENT SYSTEM: Levels of abstraction, schema and instances, physical data independence, data models, Data Definition Language (DDL), Data Manipulation Language (DM)
 # 14/7/24
 - C programming: Some basic pointer programs, Length of loop in linked list, Start of loop in linked list and insert a node in sorted list.
 # 13/7/24
