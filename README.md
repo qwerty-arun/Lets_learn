@@ -2,6 +2,7 @@
 > ## College Stuff
 > Communication Engineering: Quantization after Sampling, Mid-rise quantizer and Mid-Tread quantizer, quantisation error, Signal-to-quantisation Noise Ratio(SNR), Area under curve of uniform distribution is always 1.
 > Electromagnetism: Capacitance of Spherical Capacitor using boundary conditions and laplace equation, Magnetostatics: Biot-Savart's law, Basic terminology: Magnetic flux, magnetic field intensity and magnetic flux density, Magnetic field due to infinitely long straight current carrying conductor and some problems based on magnetic field.
+- C programming: Finding merging node of the two lists using multiple approaches.
 # 15/7/24
 - College Stuff: Communication Engineering: Problems on Nyquist Sampling rate, important results on rectangular pulse and sinc function, illustrating the effect of aliasing, sampling of bandpass signals (quadrature sampling) and Time Division multiplexing (TDM-PAM). Electromagnetism: Application fo boundary conditions using laplace equation. Finding capacitance of various capacitors: parallel plate, cylindrical and spherical. Math: Sampling distribution problem, Sampling distribution of differences of means.
 - DATABASE MANAGEMENT SYSTEM: Levels of abstraction, schema and instances, physical data independence, data models, Data Definition Language (DDL), Data Manipulation Language (DML) and basics of SQL.
