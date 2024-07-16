@@ -3,6 +3,10 @@
 > Communication Engineering: Quantization after Sampling, Mid-rise quantizer and Mid-Tread quantizer, quantisation error, Signal-to-quantisation Noise Ratio(SNR), Area under curve of uniform distribution is always 1.
 > Electromagnetism: Capacitance of Spherical Capacitor using boundary conditions and laplace equation, Magnetostatics: Biot-Savart's law, Basic terminology: Magnetic flux, magnetic field intensity and magnetic flux density, Magnetic field due to infinitely long straight current carrying conductor and some problems based on magnetic field.
 - C programming: Finding merging node of the two lists using multiple approaches.
+- Neovim tricks: gd (go to definition) and Ctrl+o to get back, `!sort` to sort the selected text in visual mode [but be in the outermost directory so that it is easier to search]. Markers in vim for easy navigation through source code.
+- Export files (obj) of pcb design and you can open it in cura. Same can be open in Onshape.
+- Project Counter: Finish One tutorial on easyEDA, do exactly what's done on the video. Goal is to know the tool very well. 
+- Onshape: Visit the course: 'Master Model'. 
 # 15/7/24
 - College Stuff: Communication Engineering: Problems on Nyquist Sampling rate, important results on rectangular pulse and sinc function, illustrating the effect of aliasing, sampling of bandpass signals (quadrature sampling) and Time Division multiplexing (TDM-PAM). Electromagnetism: Application fo boundary conditions using laplace equation. Finding capacitance of various capacitors: parallel plate, cylindrical and spherical. Math: Sampling distribution problem, Sampling distribution of differences of means.
 - DATABASE MANAGEMENT SYSTEM: Levels of abstraction, schema and instances, physical data independence, data models, Data Definition Language (DDL), Data Manipulation Language (DML) and basics of SQL.
