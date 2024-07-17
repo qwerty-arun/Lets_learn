@@ -1,3 +1,10 @@
+# 17/7/24
+- Project Counter: Learnt to design circuitry on EasyEDA online which is free. Learnt how to add components, naming, search specifically for what one wants. Was working on USB-C Power Supply Design. [Click here](https://www.youtube.com/watch?v=8RiLKnczvxs)
+- How did Enzo Ferrari build one of the greatest car company in the world? Despite all the setbacks which he faced, what decisions did he take? What are the lessons to learn from him? [Click here](https://www.youtube.com/watch?v=CaM10wZT4p0)
+- Determination and Persistance is the key. Talent alone, education alone can't do anything. It's the passion and hunger to learn.
+- Education is not a result of a great university, its the unwavering skill to learn and master a skill.
+- When excellence and brand positioning are done right, they turn a symbol to a badge of honour and a commodity into a precious collectible. Enzo Ferrari turned his logo into a badge of honour, Montezello took this badge of honour and placed Ferrari in a very position in the lifestyle market. 
+- Enzo had to go out of his box from making race cars which he was extremely passionate about to making cars luxury even from the exterior. 
 # 16/7/24
 > ## College Stuff
 > Communication Engineering: Quantization after Sampling, Mid-rise quantizer and Mid-Tread quantizer, quantisation error, Signal-to-quantisation Noise Ratio(SNR), Area under curve of uniform distribution is always 1.
