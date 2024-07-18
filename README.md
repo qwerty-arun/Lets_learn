@@ -1,3 +1,10 @@
+# 18/7/24
+- Started reading "Deep Work" by Cal Newport.
+- USB-C Power supply design for 1/2 hr. Learnt how to make a footprint our own, even the datasheets which are automatically generated.
+- College Stuff: Communication: Signal to noise ratio formulas and PCM (transmission and regenerative repeater). Electromagnetism: Some problems on magnetic field. 
+- Learnt how to calculate cumulative distribution on my calci.
+- DBMS: Object-relational data models, XML, Database engine (storage manager, query processing, transaction management).
+- Math: Problems on sampling distribution of means.
 # 17/7/24
 - Project Counter: Learnt to design circuitry on EasyEDA online which is free. Learnt how to add components, naming, search specifically for what one wants. Was working on USB-C Power Supply Design. [Click here](https://www.youtube.com/watch?v=8RiLKnczvxs)
 - How did Enzo Ferrari build one of the greatest car company in the world? Despite all the setbacks which he faced, what decisions did he take? What are the lessons to learn from him? [Click here](https://www.youtube.com/watch?v=CaM10wZT4p0)
