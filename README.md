@@ -1,3 +1,11 @@
+# 20/7/24
+- Biosafety: FSSAI and HACCP principles. 
+- Project Counter: changing reference designators, I came across the problem of not having the footprint mapped for my components which I created, viewing out PCB design in 3D to get an idea of how our board look like, autorouting possible, bottom layer copper fill, via ducts for connecting upper and lower layers, we may want to use more vias for power source, Use CTRL+left shift to select other components as well.
+- Ways to increase typing speed: short burst typing for 15 secs because that's how long you'll focus on typing whether typing out an essay or whatever, try typing out by syllables and not letter by letter, type out real sentences on 'typeracer' so that you type faster in real application, accuracy first speed later, know all the shortcuts (use mouse very less).
+- Revision of Angle Modulation (FM).
+# 19/7/24
+- Ampere's Ciruital Law and some problems. 
+- Communication Engineering: Lab work. Visualized AM on LabVIEW along with DSBSC. A boolean variable was used to denote whether carrier signal was suppressed or not. Visualized spectrum of DSBSC for both the cases, one without supressing the carrier wave and the other with supressing the carrier wave.
 # 18/7/24
 - Started reading "Deep Work" by Cal Newport.
 - USB-C Power supply design for 1/2 hr. Learnt how to make a footprint our own, even the datasheets which are automatically generated.
