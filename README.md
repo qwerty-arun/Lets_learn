@@ -1,3 +1,15 @@
+# 21/7/24
+- Revised Math: Geometric, Normal, Uniform and Weibull distributions.
+- Microcontroller: Learnt ADC and DAC programming.
+- Deep Work for 1/2 hr.
+## Project Counter: 
+> 1) Making changes in schematic and transferring them to PCB.</br>
+> 2) Working with polygons(updating, thermal relief), rebuilt copper regions by selecting the board itself.</br>
+> 3) Making a wider connection between hole and the ground plane. Design->design rules->copper region->multilayer pad and change the numbers. </br>
+> 4) Connecting the +5V (copper region->polygon). Design rules->copper region, single layer->direct connection.</br>
+> 5) Prohibited region -> drawing rectangles(removes inwanted copper region).</br>
+> 6) Placing reference designators (editing the silkscreen).</br>
+>7) Even the text which you put on the silk screen needs to be verified with the manufacturer: its width, height etc.</br>
 # 20/7/24
 - Biosafety: FSSAI and HACCP principles. 
 - Project Counter: changing reference designators, I came across the problem of not having the footprint mapped for my components which I created, viewing out PCB design in 3D to get an idea of how our board look like, autorouting possible, bottom layer copper fill, via ducts for connecting upper and lower layers, we may want to use more vias for power source, Use CTRL+left shift to select other components as well.
