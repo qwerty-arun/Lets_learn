@@ -1,3 +1,6 @@
+# 22/7/24
+- Finally found a good website for microcontroller and programming: [Click here](https://cpulator.01xz.net/)
+- For the youtube tutorial on ARM programming:  [click here](https://www.youtube.com/watch?v=gfmRrPjnEw4&t=331s)
 # 21/7/24
 - Revised Math: Geometric, Normal, Uniform and Weibull distributions.
 - Microcontroller: Learnt ADC and DAC programming.
