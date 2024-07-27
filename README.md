@@ -1,3 +1,8 @@
+# 27/7/24
+- Microcontroller: Addressing modes, meaning of LDR
+- Some important tips for increasing productivity in deep study: Have a pre-determined goal, develop deep focus (summarize frequently, set a time limit). Refocus meditation of at least 13 mins. 
+- 80% info from 20% topics prepare them, active recall and spaced repitition, slow detail and add some extra detail, focus on your weakness by relating current concept with other topics, do the assignments immediately as soon as you get it. 
+- Electromagnetism: Probl
 # 22/7/24
 - Finally found a good website for microcontroller and programming: [Click here](https://cpulator.01xz.net/)
 - For the youtube tutorial on ARM programming:  [click here](https://www.youtube.com/watch?v=gfmRrPjnEw4&t=331s)
