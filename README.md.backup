@@ -11,7 +11,7 @@
 - Just a slight introduction to elliptical integrals. 
 - The simulation software they used was: ANSYS Maxwell Simulation platform. 
 - Project Counter: Adding text on bottom silkscreen, flipping board view, add custom logos on bottom solder mask layer (we can import svg files too) and will look gold in colour, placing colour image on silkscreen. Settings -> PCB/footprint -> general -> using JLC color silkscreen tech enable it. Import the image and you can view it in 3D -> "colorful silk screen". 
-- Enclosure: Placing 3D sheel outline. Push cover design is also available and radius of corners are customizable.
+- Enclosure: Placing 3D sheel outline. Push cover design is also available and radius of corners are customisable.
 # 27/7/24
 - Microcontroller: Addressing modes, meaning of LDR
 - Some important tips for increasing productivity in deep study: Have a pre-determined goal, develop deep focus (summarize frequently, set a time limit). Refocus meditation of at least 13 mins. 
