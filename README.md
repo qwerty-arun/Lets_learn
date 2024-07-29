@@ -1,3 +1,15 @@
+# 28/7/24
+- PCB desing tutorial: Various measurement units like 'thou' and 'mm' are used where 'thou' is '1/1000 th of an inch'.
+- General rule: Use thous for tracks, pads, spacing and grids, which are most of your basic "design and layout" requirements. Use 'mm' only for "mechanical and manufacturing" requirements like hole sizes and board dimensions. 
+- 100 thou (0.1 inch) = 2.54mm
+- 200 thou (0.2 inch) = 5.08mm
+- Use fixed/snap grids. Makes editing, dragging, movement and alignment of our tracks easier as our layout grows. Bad design -> many of tracks will not line up exactly in the centre of pads. Little bits of tracks will be "tacked" on to fill in the gaps. Start with 50 thou grid and then go finer like 25, 20, 10, 5 and nothing else. 
+- Visible grid -> Solid or dashed lines which is usually of 100 thou. 
+- Electrical grid -> Makes your cursor snap onto the center of electrical objects like tracks and pads when close enough. Useful for manual, routing, editing and moving objects.
+- Research papers of Instrumentation journal: VLSI testing: Normally test power conumption is 2 to 4 times the normal comsumption which in turn add costs in making. They had used shift registers and XOR gates.
+- Wireless charging of EVs is achieved by a resonance-enhanced inductive power transfer technique (IPT). What if misalignment of the coils happen? If affects the mutual inductance in turn the resonant frequency. 
+- Just a slight introduction to elliptical integrals. 
+- The simulation software they used was: ANSYS Maxwell Simulation platform. 
 # 27/7/24
 - Microcontroller: Addressing modes, meaning of LDR
 - Some important tips for increasing productivity in deep study: Have a pre-determined goal, develop deep focus (summarize frequently, set a time limit). Refocus meditation of at least 13 mins. 
