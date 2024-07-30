@@ -2,6 +2,8 @@
 - Learnt about leaf spring suspension and other types. Comparision videos on YT.
 - Almanack of Naval Ravikant revisit, read the starting chapter.
 - DSA book: reversing the list, splitting a circular linked list into two.
+- [Super heterodyne radio](https://www.youtube.com/watch?v=x1wnE8_bAeE) 
+- ARM programming: Arithmetic and CPSR flags, logical operations.
 # 29/7/24
 - PCB desing tutorial: Various measurement units like 'thou' and 'mm' are used where 'thou' is '1/1000 th of an inch'.
 - General rule: Use thous for tracks, pads, spacing and grids, which are most of your basic "design and layout" requirements. Use 'mm' only for "mechanical and manufacturing" requirements like hole sizes and board dimensions. 
