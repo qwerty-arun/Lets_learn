@@ -1,4 +1,8 @@
-# 28/7/24
+# 30/7/24
+- Learnt about leaf spring suspension and other types. Comparision videos on YT.
+- Almanack of Naval Ravikant revisit, read the starting chapter.
+- DSA book: reversing the list, splitting a circular linked list into two.
+# 29/7/24
 - PCB desing tutorial: Various measurement units like 'thou' and 'mm' are used where 'thou' is '1/1000 th of an inch'.
 - General rule: Use thous for tracks, pads, spacing and grids, which are most of your basic "design and layout" requirements. Use 'mm' only for "mechanical and manufacturing" requirements like hole sizes and board dimensions. 
 - 100 thou (0.1 inch) = 2.54mm
