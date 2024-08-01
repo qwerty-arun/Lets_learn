@@ -1,3 +1,7 @@
+# 1/8/24
+- Microcontroller: Conditional statements: BGT,BLT,BLE,BGE,BEQ,BNE and so on. The importance of control flow of programs in ARM, we can add a default case. But under certain circumstances, even the default case will be executed even if a specific case is executed. Introduction to logical shift operations and rotations. 
+- Communication Engineering: Delta modulation and errors associated with it.
+- [Robots and their shapes](https://www.youtube.com/watch?v=eLVAMG_3fLg). Why shouldn't they be of human shape?
 # 30/7/24
 - Learnt about leaf spring suspension and other types. Comparision videos on YT.
 - Almanack of Naval Ravikant revisit, read the starting chapter.
