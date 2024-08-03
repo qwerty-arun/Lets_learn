@@ -1,7 +1,11 @@
+# 3/8/24
+- Microcontroller: Conditional instructions like ADDLT, MOVGE. Introductions to sub-routines and functions. Calling of a function and returning a value. Concept of preserving value even after function calls by using push and pop operations on the stack memory.
+- Project Counter: EasyEDA tutorial on youtube. Opening for the connectors. Placing a side datum line, then a side slot region and moving them to accurately locate the hole. There was a collision b/w box and the connector. We added another slot region and adjusted its depth to get rid of it. Layer-> edit the multi-layer. To place holes: place -> 3D shell->top/bottom slot region. Making a small opening for the LED. Place 3D shell -> Top/bottom entity -> circle. Dpeth of the entity is important or else it will touch the LED. Now make a slot region within the circular entity. This makes the hole look smaller and also we will not be able to see much of the other components present in the PCB. Found out about the open-source hardware lab (OSHWLab). There are many example circuits there!
 # 1/8/24
 - Microcontroller: Conditional statements: BGT,BLT,BLE,BGE,BEQ,BNE and so on. The importance of control flow of programs in ARM, we can add a default case. But under certain circumstances, even the default case will be executed even if a specific case is executed. Introduction to logical shift operations and rotations. 
 - Communication Engineering: Delta modulation and errors associated with it.
 - [Robots and their shapes](https://www.youtube.com/watch?v=eLVAMG_3fLg). Why shouldn't they be of human shape?
+- C programming: 1 linked list problem and implementation of stack using arrays.
 # 30/7/24
 - Learnt about leaf spring suspension and other types. Comparision videos on YT.
 - Almanack of Naval Ravikant revisit, read the starting chapter.
