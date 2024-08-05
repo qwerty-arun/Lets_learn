@@ -3,6 +3,7 @@
 - Even the stepper driver worked! It drove the big motors when we changed the dip switch setting. All switches were turned off. One more issue was the micro-stepping. For the amount of current supplied, it wasn't matching with the configuration of the code also. 
 - Communication Engineering: Digital Modulation schemes: ASK, FSK and PSK. Modulator and De-modulator diagrams. 
 - Microcontroller: Introduction to stepper motors. Determining the number of teeth in the rotor, determing how many times the sequences should be sent in order for the rotor to turn a certain amount of degrees.
+- LAB: generation of sine wave and sawtooth waves using the stm32 board. Changing the pin configuration using GPIO.
 # 4/8/24
 - Building a jig for testing stepper motors which we brought.
 - Key Learnings: Testing ground connection for the SMPS module, usage of connectivity mode in multimeter, considering airflow to the jig and where are the places prone to heat up faster (doesn't matter so much in this test jig, but at industrial scale, it does) , checking the polarity of coils in the stepper motor (wiring), importance of ferrules and proper crimping tools, heat shrinks for insulation.
