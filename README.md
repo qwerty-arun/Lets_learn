@@ -2,6 +2,7 @@
 - Electromagnetism: Questions based on charges moving in uniform magnetic field, magnetic boundary conditions.
 - Communication Engineering: Frequency Shift Keying (FSK) and Differential Phase Shift Keying (DPSK) modulator and demodulation.
 - Database Management System: Advanced SQL.
+- Microcontroller: Implemented Linear Search on CPUlator.
 # 5/8/24
 - Spooling of 100m cables manually! Yes, manually. Was really a pain. Need to build a automatic wire spooler machine. We need a motor to rotate the bobbin and one linear actuator to guide the wire to be in the right place. 
 - Even the stepper driver worked! It drove the big motors when we changed the dip switch setting. All switches were turned off. One more issue was the micro-stepping. For the amount of current supplied, it wasn't matching with the configuration of the code also. 
