@@ -1,3 +1,7 @@
+# 8/8/24
+- Deep Work Book for 1hr.
+- Tried visualizing bubble sort on CPUlator, but didn't work, the two consecutive values weren't getting exchanged. 
+- Electromagnetism: EL topic: Improving the magnetic field uniformity in MRI(Magnetic Resonance Imaging) in MATLAB and Simulink.
 # 7/8/24
 - Communication Engineering: Questions based on DPSK, non-coherent detection for FSK. My question: Why do we need two Band-pass filters when only one is required. Track any one signal and trace amplitude using envelope detector, then when that frequency is not being transmitted, it is automatically zero. Terms: Energy/bit , correlation coefficient , correlation reciever(2-path) , probability error for the modulation schemes: ASK, FSK and PSK. Question: What are orthogonal signals? What is AWGN - Additive White Gaussian Noise?
 - Microcontroller: Visualized binary search program on CPUlator.
