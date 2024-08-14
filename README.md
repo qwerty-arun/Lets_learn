@@ -1,3 +1,8 @@
+# 14/8/24
+- CNC Plasma Cutter Machine: Assembly of parts. We kept losing parts frequently. So, it's important to keep things organized in a workshop. We were using wrong tools for a particular operation. Desings of 3D printed parts were off.
+- ASK experiment: The demodulated output's frequency doesn't match the input message signal's frequency.
+- Microcontroller: Interrupts, generating time delays etc.
+
 # 8/8/24
 - Deep Work Book for 1hr.
 - Tried visualizing bubble sort on CPUlator, but didn't work, the two consecutive values weren't getting exchanged. 
