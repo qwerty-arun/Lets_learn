@@ -1,3 +1,8 @@
+# 15/8/24
+- Psychology of Money: No one's crazy. Judging your own failures v/s others' failures. We prefer simple stories. We gotta be careful who we praise/admire, focus on broad patterns rather than individuals. 
+- RAM by Amish: 1 chapter.
+- Built a simple website for food-additives. It displays basic information like origin, risks involved, daily intake etc. For now, it works on local host. Learnt how to add more information to '.json' files. Need to learn how to change colours, fonts, font size, spacing, centre texts and collapsible tables using css.
+- Learnt basic vim commands. 
 # 14/8/24
 - CNC Plasma Cutter Machine: Assembly of parts. We kept losing parts frequently. So, it's important to keep things organized in a workshop. We were using wrong tools for a particular operation. Desings of 3D printed parts were off.
 - ASK experiment: The demodulated output's frequency doesn't match the input message signal's frequency.
