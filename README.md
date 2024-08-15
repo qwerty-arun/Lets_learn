@@ -3,6 +3,7 @@
 - RAM by Amish: 1 chapter.
 - Built a simple website for food-additives. It displays basic information like origin, risks involved, daily intake etc. For now, it works on local host. Learnt how to add more information to '.json' files. Need to learn how to change colours, fonts, font size, spacing, centre texts and collapsible tables using css.
 - Learnt basic vim commands. 
+- C programming: First and last occurance of target in an array: two approaches.
 # 14/8/24
 - CNC Plasma Cutter Machine: Assembly of parts. We kept losing parts frequently. So, it's important to keep things organized in a workshop. We were using wrong tools for a particular operation. Desings of 3D printed parts were off.
 - ASK experiment: The demodulated output's frequency doesn't match the input message signal's frequency.
