@@ -1,3 +1,8 @@
+# 16/8/24
+- Food Additives Website: Added information about more food additives. Added the collapsible table feature. Problems that occured: 1) Search bar dissapeared when too much information was being displayed. So I made changes in such a way that only search bar should be visible when the website is opened and information should only be displayed only when I enter the INS code. 2) We could only search for the food additive only by its INS code and not by its name. Search by name feature is added now. What to add now? College logo, some important links (references), github link, some information about us (team members), I need to host the website on github.
+- RAM book till chapter 6.
+- The psychology of money.
+- 
 # 15/8/24
 - Psychology of Money: No one's crazy. Judging your own failures v/s others' failures. We prefer simple stories. We gotta be careful who we praise/admire, focus on broad patterns rather than individuals. 
 - RAM by Amish: 1 chapter.
