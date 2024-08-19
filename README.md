@@ -1,3 +1,6 @@
+# 19/8/24
+- RAM book till chapter 7.
+- Da vinci resolve: I know basic editing now. But why importing media (audio or video) is a pain? I tried changing file formats yet it doesn't work. So i had to switch to mobile app and edit my video.
 # 18/8/24
 - Electromagnetics EL - installed python and needed libraries, executed the program and it was able to graphically represent though not accurately. MATLAB code also works. Tried Desmos 3D but I don't think it matters. Report to be made.
 - Math EL- compiled all the results generated so far. Now yet to choose what all parameters to measure in statistics.
