@@ -1,3 +1,7 @@
+# 24/8/24
+- Revised communication engineering and mathematics.
+- Started Statistics onramp course on MATLAB.
+- RAM and The psychology of money book.
 # 22/8/24
 - RAM book till chapter 8.
 - Made my own Resume. Till a lot of changes to be made.
