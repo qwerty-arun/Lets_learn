@@ -1,3 +1,6 @@
+# 25/8/24
+- [Business Stratergies](https://www.youtube.com/watch?v=JdAavMigPjE) of some food brands.
+- Revised Math: Inferential statistics.
 # 24/8/24
 - Revised communication engineering and mathematics.
 - Started Statistics onramp course on MATLAB.
