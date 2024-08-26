@@ -1,3 +1,7 @@
+# 26/8/24
+- [Blinkit's Genius Strategy](https://www.youtube.com/watch?v=OGs2YsqvWDg)
+- Psychology of money book till chapter 17.
+- Communication Engineering revision.
 # 25/8/24
 - [Business Strategies](https://www.youtube.com/watch?v=JdAavMigPjE) of some food brands.
 - Revised Math: Inferential statistics.
