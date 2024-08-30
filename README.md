@@ -1,3 +1,6 @@
+# 30/8/24
+- Visualized Digital Pulse Code Modulation (DPCM) on MATLAB.
+- RAM book till chapter 13.
 # 26/8/24
 - [Blinkit's Genius Strategy](https://www.youtube.com/watch?v=OGs2YsqvWDg)
 - Psychology of money book till chapter 17.
