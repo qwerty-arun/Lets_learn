@@ -1,3 +1,7 @@
+# 31/8/24
+- RAM book till chapter 17.
+- Installed Keil.
+- Revised some programs from Lab Manual.
 # 30/8/24
 - Visualized Digital Pulse Code Modulation (DPCM) on MATLAB.
 - RAM book till chapter 13.
