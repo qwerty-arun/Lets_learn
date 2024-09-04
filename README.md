@@ -1,3 +1,7 @@
+# 04/9/24
+- RAM book till chapter 20.
+- Done making the pothole website.
+- [Attract Riches](https://www.youtube.com/watch?v=KMbFjoHUYbA&t=28s) 
 # 31/8/24
 - RAM book till chapter 17.
 - Installed Keil.
