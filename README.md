@@ -1,6 +1,8 @@
 # 08/9/24
 - Revised MCP lab programs for the test.
 - Studied MATLAB code: probability distributions and linear programming.
+- Finished RAM book.
+- DBMS problem solving session.
 # 04/9/24
 - RAM book till chapter 20.
 - Done making the pothole website.
