@@ -1,3 +1,7 @@
+# 09/09/24
+- MCP: Arithmetic program while debugging showed no result. The register values weren't changing at all.
+- DBMS: Week7 quiz
+- The Power of your Subconscious mind book.
 # 08/9/24
 - Revised MCP lab programs for the test.
 - Studied MATLAB code: probability distributions and linear programming.
