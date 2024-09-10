@@ -1,3 +1,6 @@
+# 10/9/24
+- The Power of your Subconscious mind - 2 chapters.
+- [Building a AAA game](https://www.youtube.com/watch?v=swE9V4otTWw)
 # 09/09/24
 - MCP: Arithmetic program while debugging showed no result. The register values weren't changing at all.
 - DBMS: Week7 quiz
