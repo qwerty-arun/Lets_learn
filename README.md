@@ -3,6 +3,7 @@
 - Electromagnetics: Wave propagation in good conductors: Concepts like skin depth.
 - DBMS: Operations on tables.
 - Building an inverted pendulum using Arduino Tutorial on YouTube.
+- DSA: Again starting from scratch. Now staring with recursion. Solved tower of hanoi problem.
 # 10/9/24
 - The Power of your Subconscious mind - 2 chapters.
 - [Building a AAA game](https://www.youtube.com/watch?v=swE9V4otTWw)
