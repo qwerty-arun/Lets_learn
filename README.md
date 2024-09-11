@@ -1,3 +1,8 @@
+# 11/9/24
+- Non-technical book: The power of your subconscious mind. It doesn't have reasoning power. It literally takes your word. What you think is what sinks down deep in your subconscious mind. So, choose your thoughts wisely.
+- Electromagnetics: Wave propagation in good conductors: Concepts like skin depth.
+- DBMS: Operations on tables.
+- Building an inverted pendulum using Arduino Tutorial on YouTube.
 # 10/9/24
 - The Power of your Subconscious mind - 2 chapters.
 - [Building a AAA game](https://www.youtube.com/watch?v=swE9V4otTWw)
