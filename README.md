@@ -3,6 +3,9 @@
 - Maths: Inferential Statistics: Z-test and hypothesis testing.
 - DBMS: Problem Solving of week-2
 - Onshape: I am starting a 100 day journey. Today is the first. I started parametric design tutorial on onshape. For the Day-1, I learnt basic extrusion and cut operations.
+- DSA Day-2: Learnt basic examples of backtracking. Permutations of a string.
+- 'eog' command to open an image file.
+- 'Alt+backspace' deletes a word on command line.
 # 11/9/24
 - Non-technical book: The power of your subconscious mind. It doesn't have reasoning power. It literally takes your word. What you think is what sinks down deep in your subconscious mind. So, choose your thoughts wisely.
 - Electromagnetics: Wave propagation in good conductors: Concepts like skin depth.
