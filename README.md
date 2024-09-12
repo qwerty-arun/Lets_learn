@@ -1,3 +1,8 @@
+# 12/9/24
+- Non-Technical book: The healing power of your subconscious mind. It created your body, so it has the power to heal any ailment. 
+- Maths: Inferential Statistics: Z-test and hypothesis testing.
+- DBMS: Problem Solving of week-2
+- Onshape: I am starting a 100 day journey. Today is the first. I started parametric design tutorial on onshape. For the Day-1, I learnt basic extrusion and cut operations.
 # 11/9/24
 - Non-technical book: The power of your subconscious mind. It doesn't have reasoning power. It literally takes your word. What you think is what sinks down deep in your subconscious mind. So, choose your thoughts wisely.
 - Electromagnetics: Wave propagation in good conductors: Concepts like skin depth.
