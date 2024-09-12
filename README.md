@@ -7,10 +7,10 @@
 - 'eog' command to open an image file.
 - 'Alt+backspace' deletes a word on command line.
 ### PCB Designing: Arduino Shield for Arduino Uno Board
-> HDR-TH_10P_P2.54-V-M means Header, throughhole, 10 pins, pitch of 2.54 mm, vertical and male headers. </br>
-> Changing no. of pins from 10 to 8 to 6 using the manufacturers name. </br>
-> Keeping arduino pinout diagram and dimensions for reference in the schematic itself. </br>
-> Orientation of the headers are imporant and to check that using official Arduino Schematic. Checking the pin numbers and then deciding whether or not to flip the header.</br>
+> 1) HDR-TH_10P_P2.54-V-M means Header, throughhole, 10 pins, pitch of 2.54 mm, vertical and male headers. </br>
+> 2) Changing no. of pins from 10 to 8 to 6 using the manufacturers name. </br>
+> 3) Keeping arduino pinout diagram and dimensions for reference in the schematic itself. </br>
+> 4) Orientation of the headers are imporant and to check that using official Arduino Schematic. Checking the pin numbers and then deciding whether or not to flip the header.</br>
 # 11/9/24
 - Non-technical book: The power of your subconscious mind. It doesn't have reasoning power. It literally takes your word. What you think is what sinks down deep in your subconscious mind. So, choose your thoughts wisely.
 - Electromagnetics: Wave propagation in good conductors: Concepts like skin depth.
