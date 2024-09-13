@@ -6,7 +6,12 @@
 > 1) Holes of the headers may be of different sizes, so select all and make all of them the same size.
 > 2) Drawing the board outline using the dimensions of arduino uno. Changing snap size when necessary.
 > 3) Problems so far: The mouse tracker is not displayed while placing the components on the PCB. It displays at the bottom part of the right panel. To check the position of the part, we have to scroll to check and if its wrong, go back and change the position manually and then again come back to see if its correct.
-> 4) 
+> 4) Exporting the file as a PDF, make sure the size is 1:1
+> 5) Print the file, place it on the arduino to see if its a correct fit.
+> 6) Placing the header on bottom layer instead of the top layer, by doing that, you need to make sure the rotation is 180 or just make PCB looks the same (orientation) after you change the layer.
+> 7) Now, for the mouse tracker problem, you don't need that, just look at where the center of the component is and then adjust the position accordingly. In this way, it is easier.
+> 8) After disabling snap, enable it enable it immediately after you have finished your work.
+> 9) Making appropriate connections and naming them accordingly.
 # 12/9/24
 - Non-Technical book: The healing power of your subconscious mind. It created your body, so it has the power to heal any ailment. 
 - Maths: Inferential Statistics: Z-test and hypothesis testing.
