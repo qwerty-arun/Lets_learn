@@ -2,6 +2,8 @@
 - Maths: Z-test and t-test problems. Problems based on proportions.
 - DBMS: Revised Week-3 stuff.
 - Non-technical book: Figure out the way you want to heal. It might be just pure faith, or blind faith etc. Decide what faith means to you and create proper plans for your desire.
+- [Business Stratergy of iD](https://www.youtube.com/watch?v=b5PmNNe3eT8)
+- [3D printing innovations: formnext (Frankfurt)](https://www.youtube.com/watch?v=TonaN-duEh4)
 ### OnShape: 2nd Day of Learning
 - Learnt how to use dimensions and constraints.
 - Draft Feature in extrude helps create tapers.
