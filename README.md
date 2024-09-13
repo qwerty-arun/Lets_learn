@@ -1,3 +1,12 @@
+# 13/9/24
+- Maths: Z-test and t-test problems. Problems based on proportions.
+- DBMS: Revised Week-3 stuff.
+- Non-technical book: Figure out the way you want to heal. It might be just pure faith, or blind faith etc. Decide what faith means to you and create proper plans for your desire. 
+### PCB Designing: Arduino Shield 
+> 1) Holes of the headers may be of different sizes, so select all and make all of them the same size.
+> 2) Drawing the board outline using the dimensions of arduino uno. Changing snap size when necessary.
+> 3) Problems so far: The mouse tracker is not displayed while placing the components on the PCB. It displays at the bottom part of the right panel. To check the position of the part, we have to scroll to check and if its wrong, go back and change the position manually and then again come back to see if its correct.
+> 4) 
 # 12/9/24
 - Non-Technical book: The healing power of your subconscious mind. It created your body, so it has the power to heal any ailment. 
 - Maths: Inferential Statistics: Z-test and hypothesis testing.
@@ -6,7 +15,7 @@
 - DSA Day-2: Learnt basic examples of backtracking. Permutations of a string.
 - 'eog' command to open an image file.
 - 'Alt+backspace' deletes a word on command line.
-### PCB Designing: Arduino Shield for Arduino Uno Board
+### PCB Designing: Arduino Shield for Arduino Uno Board ( [YT tutorial](https://www.youtube.com/watch?v=OgcWAOIHsDU&t=231s) )
 > 1) HDR-TH_10P_P2.54-V-M means Header, throughhole, 10 pins, pitch of 2.54 mm, vertical and male headers. </br>
 > 2) Changing no. of pins from 10 to 8 to 6 using the manufacturers name. </br>
 > 3) Keeping arduino pinout diagram and dimensions for reference in the schematic itself. </br>
