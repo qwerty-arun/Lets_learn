@@ -1,7 +1,11 @@
 # 13/9/24
 - Maths: Z-test and t-test problems. Problems based on proportions.
 - DBMS: Revised Week-3 stuff.
-- Non-technical book: Figure out the way you want to heal. It might be just pure faith, or blind faith etc. Decide what faith means to you and create proper plans for your desire. 
+- Non-technical book: Figure out the way you want to heal. It might be just pure faith, or blind faith etc. Decide what faith means to you and create proper plans for your desire.
+### OnShape: 2nd Day of Learning
+- Learnt how to use dimensions and constraints.
+- Draft Feature in extrude helps create tapers.
+- Revolve feature and axis selection. Importance of selecting an external line.
 ### PCB Designing: Arduino Shield 
 > 1) Holes of the headers may be of different sizes, so select all and make all of them the same size.
 > 2) Drawing the board outline using the dimensions of arduino uno. Changing snap size when necessary.
