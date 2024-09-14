@@ -2,10 +2,12 @@
 - DBMS: Revised week-4 content.
 - Non-technical book. Don't be concerned about the results, decree health and your subconscious mind will establish it for you. But, relaxation is the key. Failure happens when there is low confidence and too much effort. In sleepy state, you avoid conflict between conscious mind and subconscious mind.
 ### PCB Designing
-> Automatic increment feature of nets (labels) is amazing.
-> Power LED circuit and servo circuit added.
-> What's the difference between extended part and basic part. Basic parts: These are often used parts like chip capacitors and resistors. They are loaded onto P&P machines and occupy the same feeder, so there is no labor cost for the operator. Extended parts: These parts require manual mounting by the operator, which increases the labor cost. JLCPCB charges $3 for each extended component.
-> We purposefully choose shorter pins for the header in some case. View datasheet, check the length of the pins according to the names. Ex: 68000-103HLF, H is a dimension and LF is an option. 
+> Automatic increment feature of nets (labels) is amazing.</br>
+> Power LED circuit and servo circuit added.</br>
+> What's the difference between extended part and basic part. Basic parts: These are often used parts like chip capacitors and resistors. They are loaded onto P&P machines and occupy the same feeder, so there is no labor cost for the operator. Extended parts: These parts require manual mounting by the operator, which increases the labor cost. JLCPCB charges $3 for each extended component.</br>
+> We purposefully choose shorter pins for the header in some case. View datasheet, check the length of the pins according to the names. Ex: 68000-103HLF, H is a dimension and LF is an option. </br>
+### OnShape
+> Sweep feature: Created two different sketches and two different sweeps on the same sketch. Alignment is the key factor here. </br>
 # 13/9/24
 - Maths: Z-test and t-test problems. Problems based on proportions.
 - DBMS: Revised Week-3 stuff.
