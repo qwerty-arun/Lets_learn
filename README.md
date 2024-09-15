@@ -1,3 +1,12 @@
+# 15/9/24
+- DBMS: Week-5 problem solving.
+- Non-technical book: Wealth, Health, Prosperity, Peace and Success. Repeat these words before falling asleep everyday. You have the right to be rich. Convince you have riches, have the feeling that you already possess it because feeling of wealth creates more wealth.
+### Onshape
+- Loft and offset plane feature: Creating different sketches, but sometimes it may happen that you select a point, so onshape lofts the point and not the whole sketch, so you gotta be careful. You can loft between two points through another sketch.
+- Order of selection matters! Things can go wrong if order is not selected properly.
+- Interesting question: Can Klien Bottle be designed on Onshape.
+- Inserting/Importing image in OnShape.
+- Designing a vase using 2 face illusion picture.
 # 14/9/24
 - DBMS: Revised week-4 content.
 - Non-technical book. Don't be concerned about the results, decree health and your subconscious mind will establish it for you. But, relaxation is the key. Failure happens when there is low confidence and too much effort. In sleepy state, you avoid conflict between conscious mind and subconscious mind.
