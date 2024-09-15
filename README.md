@@ -1,6 +1,11 @@
 # 15/9/24
 - DBMS: Week-5 problem solving.
 - Non-technical book: Wealth, Health, Prosperity, Peace and Success. Repeat these words before falling asleep everyday. You have the right to be rich. Convince you have riches, have the feeling that you already possess it because feeling of wealth creates more wealth.
+- [Electronics: Resistors](https://www.youtube.com/watch?v=AK3IRq6N6x4&list=PLQ_OzNEYrepX6tZUWbq5QfGfx5a_aYc-b&index=4&t=205s). A detailed introduction to resistors and types.
+- Metal oxide film resistors: Made for high voltages, has a coil of high resistance inside it.
+- Revisiting Voltage Divider Network.
+- Why resistors fail? It means it suddenly drew more current and it burnt, which in turn means the LOAD that follows has been shorted. So find out what's wrong with the LOAD. Or High value: Faulty resistors Or Noisy: Faulty resistors. Resistors can never go low. Test resistors's value when it's open circuit, not when it's in an operating circuit. Else low value might be show because currents are involved. Reading shouldn't be more than the actual value of the resistor, if it is, then it is faulty.
+- Reasons for parallel load: To share the load, to get really low resistance.
 ### Onshape
 - Loft and offset plane feature: Creating different sketches, but sometimes it may happen that you select a point, so onshape lofts the point and not the whole sketch, so you gotta be careful. You can loft between two points through another sketch.
 - Order of selection matters! Things can go wrong if order is not selected properly.
