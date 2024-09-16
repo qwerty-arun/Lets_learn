@@ -1,3 +1,8 @@
+# 16/9/24
+- DBMS: Week-6 Problem Solving. An introduction to indexing, hast tables etc.
+### OnShape
+- Planes at an angle, text and remove feature.
+- Fillet, chamfer and active units. While copying from drawing sheet, make sure angles are correct for chamfer. Sometimes, for 30 degrees, you end up doing 60 degrees.      
 # 15/9/24
 - DBMS: Week-5 problem solving.
 - Non-technical book: Wealth, Health, Prosperity, Peace and Success. Repeat these words before falling asleep everyday. You have the right to be rich. Convince you have riches, have the feeling that you already possess it because feeling of wealth creates more wealth.
