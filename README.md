@@ -1,5 +1,6 @@
 # 16/9/24
 - DBMS: Week-6 Problem Solving. An introduction to indexing, hast tables etc.
+- Learnt to setup my GitHub Profile. Still a lot more to improve!
 ### OnShape
 - Planes at an angle, text and remove feature.
 - Fillet, chamfer and active units. While copying from drawing sheet, make sure angles are correct for chamfer. Sometimes, for 30 degrees, you end up doing 60 degrees.      
