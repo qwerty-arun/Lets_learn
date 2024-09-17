@@ -1,3 +1,7 @@
+# 17/9/24
+### Onshape
+- Designing a mug. For Sweep feature, the plane must intersect the path or touch it.
+- Learnt the shell feature. 
 # 16/9/24
 - DBMS: Week-6 Problem Solving. An introduction to indexing, hast tables etc.
 - Learnt to setup my GitHub Profile. Still a lot more to improve!
