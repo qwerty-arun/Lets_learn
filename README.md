@@ -1,3 +1,8 @@
+# 18/9/24
+- Math Exam
+###
+- Revise all OnShape parts done so far.
+- Circular patterns feature
 # 17/9/24
 ### Onshape
 - Designing a mug. For Sweep feature, the plane must intersect the path or touch it.
