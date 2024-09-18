@@ -1,8 +1,9 @@
 # 18/9/24
 - Math Exam
-###
+### OnShape
 - Revise all OnShape parts done so far.
-- Circular patterns feature
+- Circular patterns feature: Trim feature for sketches to remove excess part. You can change the centre of the pattern and the no. of times of rotation and finally the angle too, you can change how many copies need to fit a certain angle.
+- At the end, we get 2 parts which isn't necessary for something this simple as a wheel rim, we just want to have 1 single part and that's where advanced extrude features come into play. But that's for another day. 
 # 17/9/24
 ### Onshape
 - Designing a mug. For Sweep feature, the plane must intersect the path or touch it.
