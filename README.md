@@ -1,3 +1,10 @@
+# 19/9/24
+### PCB Designing
+- Using jumper for power supply: [part](https://in.element14.com/harwin/m7581-05/jumper-socket-2pos-pin-header/dp/2396303)
+- Molex 2 pin polarity header: 22272021
+- Mating part for the header pin and also crimps, crimp housing.
+- Arduino MOSFET connection. We need a through hole component. So make sure it has one.
+- Adding female headers for the Mosfet: C124411
 # 18/9/24
 - Math Exam
 ### OnShape
