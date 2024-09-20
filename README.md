@@ -1,3 +1,6 @@
+# 20/9/24
+- DBMS all day.
+- Introduction to 2-3-4 trees, B+ tree and B tree. Insertion and deletion operations.
 # 19/9/24
 ### PCB Designing
 - Using jumper for power supply: [part](https://in.element14.com/harwin/m7581-05/jumper-socket-2pos-pin-header/dp/2396303)
