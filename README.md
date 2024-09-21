@@ -1,3 +1,6 @@
+# 21/9/24
+- DBMS exam.
+- [More about B-trees](https://www.geeksforgeeks.org/insertion-in-a-b-tree/?ref=lbp)
 # 20/9/24
 - DBMS all day.
 - Introduction to 2-3-4 trees, B+ tree and B tree. Insertion and deletion operations.
