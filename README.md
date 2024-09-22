@@ -1,3 +1,11 @@
+# 22/9/24
+- Biotechnology Revision and paper solving
+- Non-Technical Book: Whom you are seeking is also seeking you. Just repeat the thought to yourself and your subconscious mind will bring it to pass. If you come across a problem and you are seeking an 'answer', leave that to your subconscious mind knowing that it will answer you even if it takes weeks. You can remember anything you want and convince your subconscious mind by saying this: "The infinite intelligence of my subconscious mind reveals to me everything I need to know at all times, everywhere". Scientists across countries use their subconscious mind to get to their answers. The answer will pop up at completely random and unexpected times, but it will. Never doubt your subconscious mind, it has all the answers. Any mental picture, backed by faith and perseverance will come to pass.
+### OnShape
+- Linear Pattern Introduction.
+- Holes and Circular pattern. Different types of holes, throughhole, counterbore and countersink.
+- Reading the nomenclature: size of hole, its depth, thread structure, class (1B,2B etc) and no. of threads per inch.
+- The thread pattern doesn't show on default. Its computed but it wont show, so create a custom helix pattern for yourself so that you know its a thread and not just a through-hole.
 # 21/9/24
 - DBMS exam.
 - [More about B-trees](https://www.geeksforgeeks.org/insertion-in-a-b-tree/?ref=lbp)
