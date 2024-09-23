@@ -1,3 +1,7 @@
+# 23/9/24
+- Biotechnology revision full day.
+- Typing practice for half an hour.
+- Non-technical book: Your right to be happy and your relationship with humans.
 # 22/9/24
 - Biotechnology Revision and paper solving
 - Non-Technical Book: Whom you are seeking is also seeking you. Just repeat the thought to yourself and your subconscious mind will bring it to pass. If you come across a problem and you are seeking an 'answer', leave that to your subconscious mind knowing that it will answer you even if it takes weeks. You can remember anything you want and convince your subconscious mind by saying this: "The infinite intelligence of my subconscious mind reveals to me everything I need to know at all times, everywhere". Scientists across countries use their subconscious mind to get to their answers. The answer will pop up at completely random and unexpected times, but it will. Never doubt your subconscious mind, it has all the answers. Any mental picture, backed by faith and perseverance will come to pass.
