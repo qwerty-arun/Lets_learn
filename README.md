@@ -1,3 +1,9 @@
+# 24/9/24
+- Biotech Exam
+- Learnt new insctructions in assembly: SXTB(signed extends sign byte data), SBFX(signed bit field extract), UMLAL(unsigned multiply and accumulate long).
+- Learnt about flags in registers (NZCV)
+- Salient features of ARM Cortex-M
+- The three cores of Cortex processor: Cortex A,R and M.
 # 23/9/24
 - Biotechnology revision full day.
 - Typing practice for half an hour.
