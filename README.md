@@ -1,3 +1,7 @@
+# 25/9/24
+- Revision for MCP exam.
+- Concepts read: RISC v/s CISC, Von-neumann and Harvard architecture, ARM processors families, ARM IP Licensing.
+- Interfacing STM32F407VG board with pushbutton, ADC, DAC, Motors, USART, SPI, analog sensor and seven segment display.
 # 24/9/24
 - Biotech Exam
 - Learnt new insctructions in assembly: SXTB(signed extends sign byte data), SBFX(signed bit field extract), UMLAL(unsigned multiply and accumulate long).
