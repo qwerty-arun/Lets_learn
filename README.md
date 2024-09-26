@@ -1,3 +1,6 @@
+# 26/9/24
+- MCP exam.
+- A few programs based on ALP.
 # 25/9/24
 - Revision for MCP exam.
 - Concepts read: RISC v/s CISC, Von-neumann and Harvard architecture, ARM processors families, ARM IP Licensing.
