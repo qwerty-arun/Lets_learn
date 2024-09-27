@@ -1,3 +1,10 @@
+# 27/9/24
+- MCP programs like USART and ADC
+- Non Technical Book: The power of your Subconscious Mind
+### OnShape
+- Extrude features and Mirror feature: In extrude feature 'add', it adds the extruded portion to the part but 'new' option creates a new part.
+- Even Mirror has the same kind of features: add, new etc.
+- If you edit appreance of part2 which is derived, it will not change the appearance of part1 but when you change the appearance of part1, it will definitely change part2 as it is derived.
 # 26/9/24
 - MCP exam.
 - A few programs based on ALP.
