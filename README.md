@@ -5,6 +5,7 @@
 - Extrude features and Mirror feature: In extrude feature 'add', it adds the extruded portion to the part but 'new' option creates a new part.
 - Even Mirror has the same kind of features: add, new etc.
 - If you edit appreance of part2 which is derived, it will not change the appearance of part1 but when you change the appearance of part1, it will definitely change part2 as it is derived.
+- Changes made to extrude features of part1 will also reflect onto part2. But if you use the 'new' option, it will create a new part and therefore the same will not reflect onto part2.
 # 26/9/24
 - MCP exam.
 - A few programs based on ALP.
