@@ -1,3 +1,20 @@
+# 28/9/24
+### Mermaid: A tool that lets you create diagrams and visualizations using text and code
+
+```mermaid
+flowchart LR
+  A --> B
+```
+```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    markdown["`This **is** _Markdown_`"]
+    newLines["`Line1
+    Line 2
+    Line 3`"]
+    markdown --> newLines
+```
+
 # 27/9/24
 - MCP programs like USART and ADC
 - Non Technical Book: The power of your Subconscious Mind
