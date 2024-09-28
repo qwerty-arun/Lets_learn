@@ -14,7 +14,8 @@ flowchart LR
     Line 3`"]
     markdown --> newLines
 ```
-
+- [Online Documentation](https://mermaid.js.org/intro/)
+- [Online Editor](https://mermaid.live/edit#pako:eNplTzEOgzAM_IrlmaWqumRtpU5MrCwWsSCliVFwhBDi701Lkajqyb4739kLNmIZDT4kxcBzHSCXOn0ylDNMEnsXWrD0ZUZu1EmAu4DKh95wgJJ6BmUycDFQ8g5nYRpGJRdHA-cjc9v2DZzeaAFX0r-MTvzRycoUdq-flMrph_xGYIGeoydn82fLW1Sjdpy90OTWUj4b67BmHSWVag4NGo2JC4yS2m4f0mBJ-eaojeQ3cH0Bd4FfnQ)
 # 27/9/24
 - MCP programs like USART and ADC
 - Non Technical Book: The power of your Subconscious Mind
