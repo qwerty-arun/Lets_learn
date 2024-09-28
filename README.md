@@ -1,4 +1,7 @@
 # 28/9/24
+### OnShape
+- For the Helix feature, if you change the start angle, after extrusion using the sweep feature, we observe that the extruded part is shifted slightly. Therefore, some part of helix is not extruded. To avoid this, the starting angle should be'0'.
+- Threaded Bolts using Helix feature: Instead of turns, we go with pitch of 1/20th of an inch. We remove instead of adding, but for the sketch of triangle, the side must be smaller than that of the pitch of the thread. Else if its equal, OnShape will create an infinite geometry, and the calculation go wrong.
 ### Mermaid: A tool that lets you create diagrams and visualizations using text and code
 
 ```mermaid
