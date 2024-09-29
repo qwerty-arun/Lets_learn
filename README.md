@@ -1,3 +1,5 @@
+# 29/9/24
+- Revised Electromagnetism: Concepts like Maxwell's equation, Poynting Theorem, Wave Propagation, Inductance and Capacitance.
 # 28/9/24
 ### OnShape
 - For the Helix feature, if you change the start angle, after extrusion using the sweep feature, we observe that the extruded part is shifted slightly. Therefore, some part of helix is not extruded. To avoid this, the starting angle should be'0'.
