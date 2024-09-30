@@ -1,3 +1,10 @@
+# 30/9/24
+### OnShape
+- Stop Sign Design: Using Draft option of the extrude feature. Its kind of like tapers.
+- Appearance of specific section of the part and not the whole. This is where editing the timeline comes in handy. Change the 'add' option to 'new' option.
+- OnShape has default geometry constraints for these texts, you can delete them anytime if you want to edit the text, resize it or whatever.
+- You can select multiple parts and edit the appearance simultaneously.
+- Design of Key: I noticed I was using more sketches and extrudes. Is there a way to reduce this? Need to see.
 # 29/9/24
 - Revised Electromagnetism: Concepts like Maxwell's equation, Poynting Theorem, Wave Propagation, Inductance and Capacitance.
 # 28/9/24
