@@ -10,6 +10,7 @@
 -  Simple programs, type conversions etc.
 -  `Shift+PrtSrc` takes a screenshot in linux.
 -  To hide the path, username on linux terminal, we need to add `export PS1="\W \$` to the bashrc file.
+-  Even better option, add `PS1='>> '` at the end. '>> ' can be anything, so you can change it.
 # 30/9/24
 ### OnShape
 - Stop Sign Design: Using Draft option of the extrude feature. Its kind of like tapers.
