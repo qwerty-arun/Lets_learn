@@ -1,3 +1,13 @@
+# 1/10/24
+## Pointers Book 
+- "Pointers can be made to work if you fiddle with them long enough. If you fiddle with anything long enough you will ultimately mess it.
+### Chapter 1: An Introduction to pointers:
+- Ran into a problem with treesitter of lua. Don't know how to fix it, now I can't edit my C programs. So I removed aliases which I created earlier. Now I am using vim only and not neovim. Need to reinstall neovim.
+- Learnt commands like `e $MYVIMRC`, `Tutor` etc.
+- `Ctrl+w+w` shifts windows in vim.
+- 'Value at' and 'Address of' operators and its usage.
+- Jargon of Pointers: `int *b`, 1) `b` points to an int , 2) `b` is an int pointer, 3) `b` contains address of an int, 4) Value at address contained in `b` is an int.
+-  Simple programs, type conversions etc.
 # 30/9/24
 ### OnShape
 - Stop Sign Design: Using Draft option of the extrude feature. Its kind of like tapers.
