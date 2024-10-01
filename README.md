@@ -11,6 +11,11 @@
 -  `Shift+PrtSrc` takes a screenshot in linux.
 -  To hide the path, username on linux terminal, we need to add `export PS1="\W \$` to the bashrc file.
 -  Even better option, add `PS1='>> '` at the end. '>> ' can be anything, so you can change it.
+### OnShape
+- Making a Globe: Base as a seperate part, holder as another and finally globe as another. For the holder, we used two concentric circles, trimmed off the excess using the 'trim' feature.
+- While extruding a sketch  through a part as 'add', will result in an error but as 'new' it won't result in an error.
+- Making an Assembly: Importing parts already made.
+- Sometimes, planes might be inverted, so you can invert the direction and fix it. Once fastened, they can move together now.
 # 30/9/24
 ### OnShape
 - Stop Sign Design: Using Draft option of the extrude feature. Its kind of like tapers.
