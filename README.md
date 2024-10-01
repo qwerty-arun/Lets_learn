@@ -8,6 +8,7 @@
 - 'Value at' and 'Address of' operators and its usage.
 - Jargon of Pointers: `int *b`, 1) `b` points to an int , 2) `b` is an int pointer, 3) `b` contains address of an int, 4) Value at address contained in `b` is an int.
 -  Simple programs, type conversions etc.
+-  `Shift+PrtSrc` takes a screenshot in linux.
 # 30/9/24
 ### OnShape
 - Stop Sign Design: Using Draft option of the extrude feature. Its kind of like tapers.
