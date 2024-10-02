@@ -1,6 +1,11 @@
 # 2/10/24
 ## Pointers Book
 - Functions passing pointers: Just like that, if we try to pass pointers, after the control reaches the main function, if we try to access the data present in that address, we can't. This is because the variable dies as soon as the control goes back. So we need to used the static keyword.
+## OnShape
+- Desing of a box: Used revolve mate and basic animation features.
+- Identifying the right planes for the revolve mate is very important. Also we need to add more constraints. There a pacman type symbol to denote the mates, one for which plane you are working on, other is the direction which is perpendicular to the plane which we are working on.
+- Here I chose 0 degrees and 180 degrees as the limits, we can choose anything. 
+- For creating the animation, we need to make the revolve mate visible, click on the mate in the assembly, right click and then finally click on animate. 
 # 1/10/24
 ## Pointers Book 
 - "Pointers can be made to work if you fiddle with them long enough. If you fiddle with anything long enough you will ultimately mess it.
