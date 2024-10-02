@@ -1,3 +1,6 @@
+# 2/10/24
+## Pointers Book
+- Functions passing pointers: Just like that, if we try to pass pointers, after the control reaches the main function, if we try to access the data present in that address, we can't. This is because the variable dies as soon as the control goes back. So we need to used the static keyword.
 # 1/10/24
 ## Pointers Book 
 - "Pointers can be made to work if you fiddle with them long enough. If you fiddle with anything long enough you will ultimately mess it.
