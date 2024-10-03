@@ -1,5 +1,7 @@
 # 3/10/24
 - Learnt about [QR Codes](https://www.youtube.com/watch?v=w5ebcowAJD8&t=19s) . QR stands for Quick Response. I learnt about orientation, masking, encoding of data. Now QR codes can handle only two colors, we need to add more colors so that it can hold more data. Learnt about Reed Solomon Encoding Algorithms using polynomials.
+## OnShape
+- Learnt the crazy feature of intersection in extrude. We can draw text on parts on different sides, extrude them and make them intersect. So when we look from one side, it looks like one letter and from other side, it looks like another. Can be 3-D printed and can be given as a simple gift.
 # 2/10/24
 ## Pointers Book
 - Functions passing pointers: Just like that, if we try to pass pointers, after the control reaches the main function, if we try to access the data present in that address, we can't. This is because the variable dies as soon as the control goes back. So we need to used the static keyword.
