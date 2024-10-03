@@ -1,5 +1,12 @@
 # 3/10/24
+- How to make a program run in backgroud in linux? Use & symbol after the command which you are using.
 - Learnt about [QR Codes](https://www.youtube.com/watch?v=w5ebcowAJD8&t=19s) . QR stands for Quick Response. I learnt about orientation, masking, encoding of data. Now QR codes can handle only two colors, we need to add more colors so that it can hold more data. Learnt about Reed Solomon Encoding Algorithms using polynomials.
+## C programming
+- Null values, non portable pointer assignment error.
+- Passing back pointers to main. Type conversion.
+- Truncating values using printf is a bad idea.
+- Size of NULL is 8 bytes.
+- ++*ptr is the same as (*ptr)++
 ## OnShape
 - Learnt the crazy feature of intersection in extrude. We can draw text on parts on different sides, extrude them and make them intersect. So when we look from one side, it looks like one letter and from other side, it looks like another. Can be 3-D printed and can be given as a simple gift.
 # 2/10/24
