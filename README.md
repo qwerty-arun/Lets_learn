@@ -1,3 +1,6 @@
+# 4/10/24
+- Revision for Communication Engineering Exam.
+- Revision of concepts like: Modulation techniques in both analog and digital communication, reandom processes, noise in AM and FM recievers, DSBSC, SSBSC, VSB modulation, types of noises.
 # 3/10/24
 - How to make a program run in backgroud in linux? Use & symbol after the command which you are using.
 - Learnt about [QR Codes](https://www.youtube.com/watch?v=w5ebcowAJD8&t=19s) . QR stands for Quick Response. I learnt about orientation, masking, encoding of data. Now QR codes can handle only two colors, we need to add more colors so that it can hold more data. Learnt about Reed Solomon Encoding Algorithms using polynomials.
