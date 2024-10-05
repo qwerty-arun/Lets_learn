@@ -2,6 +2,9 @@
 - Communication Engineering-1 Exam
 - Revision of MCP Lab Programs.
 - Started Learning Music on Duolingo.
+## OnShape
+- Creating different parts, even if it overlaps its fine, in assembly you can anyway seperate them.
+- Create drawing from assembly. Automatic creation of top view, right view and isometric view. Show shaded view of isometric view. We will later learn how to customize templates.
 # 4/10/24
 - Revision for Communication Engineering Exam.
 - Revision of concepts like: Modulation techniques in both analog and digital communication, reandom processes, noise in AM and FM recievers, DSBSC, SSBSC, VSB modulation, types of noises.
