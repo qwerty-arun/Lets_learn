@@ -1,3 +1,7 @@
+# 5/10/24
+- Communication Engineering-1 Exam
+- Revision of MCP Lab Programs.
+- Started Learning Music on Duolingo.
 # 4/10/24
 - Revision for Communication Engineering Exam.
 - Revision of concepts like: Modulation techniques in both analog and digital communication, reandom processes, noise in AM and FM recievers, DSBSC, SSBSC, VSB modulation, types of noises.
