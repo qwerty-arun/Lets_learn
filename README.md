@@ -1,4 +1,5 @@
 # 6/10/24
+[The Naval Podcast](https://www.youtube.com/watch?v=wQGOYnWHnto&t=128s)
 - Updated many MCP Lab Programs, only NVIC and data transfer, Stepper motor rotate by angle and data transfer with overlap left.
 ## OnShape
 - Additive Modeling and Drawing Dimensions. Created a part using already existing drawing sheet.
