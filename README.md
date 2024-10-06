@@ -1,3 +1,17 @@
+# 6/10/24
+- Updated many MCP Lab Programs, only NVIC and data transfer, Stepper motor rotate by angle and data transfer with overlap left.
+## OnShape
+- Additive Modeling and Drawing Dimensions. Created a part using already existing drawing sheet.
+- Got to know how scales of models work.
+- Added the drawing of the part, and also all the dimensions. Sometimes the top view is just redundant, you can remove it.
+- Also during dimensioning, if all the dimensions are already set and you try to add another one (redundancy), it will be shown in gray color indicating that it can be deleted.
+- While creating the drawing and adding dimensions for the views, some dimensions might cross over and form a cross which might look like it is a part of the view drawing. So, we need to be careful.
+- Made my own custom title block for our drawing sheets. Used our college logo, made use of text boxes and also how to customize them.
+- We can insert drawing properties directly. For example, Scale, Size, Sheet number, Drawing Name, Part Name etc.
+- Exporting the drawing sheets. The format is going to be DWT (Drawing Template).
+- After this, what next? Well after downloading the .dwt files, you can import them into a new project and use it.
+- Go to a part studio, create drawing, go to created by me, click the template which you imported and then enjoy!
+- IMPORTANT: If we change the sheet properties, since the title block is a static value, it wont condense or expand according to the sheet size.
 # 5/10/24
 - Communication Engineering-1 Exam
 - Revision of MCP Lab Programs.
