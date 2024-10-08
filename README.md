@@ -1,3 +1,9 @@
+# 8/10/24
+- [The Naval Podcast](https://www.youtube.com/watch?v=wQGOYnWHnto&t=128s) continuation.
+- MCP Lab Exam today.
+## OnShape
+- Subtractive Modelling and Dimensioning in Drawing.
+- You can edit a sketch at an angle also which I find quite useful sometimes.
 # 6/10/24
 [The Naval Podcast](https://www.youtube.com/watch?v=wQGOYnWHnto&t=128s)
 - Updated many MCP Lab Programs, only NVIC and data transfer, Stepper motor rotate by angle and data transfer with overlap left.
