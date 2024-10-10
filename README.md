@@ -1,5 +1,15 @@
 # 10/10/24
-- Atomic Habits: Revisit
+## Atomic Habits: Revisit
+- (1.01)^365 = 37%
+- Great results are delayed.
+- Its hard to change habits because we change the wrong thing.
+- You don't rise to the level of you goals, you fall to the level to your systems.
+- There is identity based change and result based change. Choose the former.
+- You improve what you measure.
+## Startup Video Continued
+- Do things that don't scale as much as possible.
+- Do everything you can to make your customers happy.
+- Talk to your users regularly, take feedback for them all the time.
 ## OnShape
 - Timeline edits, revolve feature runs into problem when it revolves into the same part again. So try splitting sketch in half and then revolve.
 - Exporting a STL file. Different slicers talk in different languages: mm, inch. Its important because when import the STL file in slicer, you run into problems like actual size of the part.
@@ -7,7 +17,7 @@
 ## C programming
 - Pointers revise previous work.
 - Important concepts regarding control flow and global variables, swapping programs using double pointers.
-# Project Based Learning in C
+## Project Based Learning in C
 ### Building a basic Memory Allocator
 - Understanding the memory layout of a program and the meaning of virtual address space.
 - Typically consists of 5 sections: Text, Data, BSS, Heap and Stack.
