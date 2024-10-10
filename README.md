@@ -1,6 +1,10 @@
 # 10/10/24
 - Atomic Habits: Revisit
-# C programming
+## OnShape
+- Timeline edits, revolve feature runs into problem when it revolves into the same part again. So try splitting sketch in half and then revolve.
+- Exporting a STL file. Different slicers talk in different languages: mm, inch. Its important because when import the STL file in slicer, you run into problems like actual size of the part.
+- Trammel Design on OnShape.
+## C programming
 - Pointers revise previous work.
 - Important concepts regarding control flow and global variables, swapping programs using double pointers.
 # Project Based Learning in C
