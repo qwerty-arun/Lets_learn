@@ -3,6 +3,17 @@
 # C programming
 - Pointers revise previous work.
 - Important concepts regarding control flow and global variables, swapping programs using double pointers.
+# Project Based Learning in C
+### Building a basic Memory Allocator
+- Understanding the memory layout of a program and the meaning of virtual address space.
+- Typically consists of 5 sections: Text, Data, BSS, Heap and Stack.
+- Stack and Heap grow in opposite directions.
+- Memory can only be released from the end of the heap.
+- To know whether our allocated memory is free or not.
+- The problem of non-contiguous memory allocation. In this case, we can track our memory allocation using linked list. We link all the allocated memory using base addresses so that continuity is maintained.
+- What is brk() and srbk()?
+- What is a stub? Stub is a function or piece of code n ot yet implemented or unavailable during testing.
+- [Reference](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
 # 9/10/24
 - [Thermite Reaction](https://www.youtube.com/watch?v=cUBz04LlLVk) In this video, he talks about history of thermite reactions: First it was used to extract pure metals. After the reaction you'd be left with lava, heavier elements settle down and lighter ones float above. Reactions like these when looked at very close, we observe that it pulses, it reacts, stops for a brief moment and then starts again. Application: Destroying information on magnetic drives. These reactions can be controlled very carefully, welding rail road tracks together.
 - Communication lab exam. End of all exams.
