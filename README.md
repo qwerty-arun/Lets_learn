@@ -1,3 +1,7 @@
+# 10/10/24
+- Atomic Habits: Revisit
+# C programming
+- Pointers revise previous work.
 # 9/10/24
 - [Thermite Reaction](https://www.youtube.com/watch?v=cUBz04LlLVk) In this video, he talks about history of thermite reactions: First it was used to extract pure metals. After the reaction you'd be left with lava, heavier elements settle down and lighter ones float above. Reactions like these when looked at very close, we observe that it pulses, it reacts, stops for a brief moment and then starts again. Application: Destroying information on magnetic drives. These reactions can be controlled very carefully, welding rail road tracks together.
 - Communication lab exam. End of all exams.
