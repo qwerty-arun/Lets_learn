@@ -12,6 +12,9 @@
 - Learnt the concept of declaring a struct inside a union.
 - We are making use of union to ensure memory alignment at the end of heap.
 - Locking mechanism to prevent concurrent access from 2 or more threads. Before any action on memory, we need to acquire a lock, and once you are done, you'll release the lock.
+- What is `pthread_mutex_t`? Its usally a struct. Its a type basically.
+- Modified our malloc function which correctly checks all cases, like if size=0, then return NULL, if we call to get memory and when a pointer is returned, it will actually be pointing to header and not to the actual memory block that we are interested in. So return `header+1`.
+- Then it needs to check if the size requested is available in the current linked list and also if it is free.
 # 10/10/24
 ## Atomic Habits: Revisit
 - (1.01)^365 = 37%
