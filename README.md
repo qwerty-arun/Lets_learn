@@ -8,6 +8,10 @@
 - Habits shape your identity and your identity shape your habits.
 - Two step process: Decide the type of person you want to be and prove it to yourself with small wins.
 - Our focus should be on identity based change and who we want to become and not on results.
+## Project Based Learning in C
+- Learnt the concept of declaring a struct inside a union.
+- We are making use of union to ensure memory alignment at the end of heap.
+- Locking mechanism to prevent concurrent access from 2 or more threads. Before any action on memory, we need to acquire a lock, and once you are done, you'll release the lock.
 # 10/10/24
 ## Atomic Habits: Revisit
 - (1.01)^365 = 37%
