@@ -1,4 +1,7 @@
 # 11/10/24
+## OnShape
+- Trammel base plate design ready.
+- Screw slide and pin slides are ready.
 ## Atomic Habits
 - Purpose of setting goals is to win the game. The purpose of building systems is to continue playing the game.
 - The more evidence you have for a belief, the more strongly you'll believe it.
