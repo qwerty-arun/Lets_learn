@@ -1,3 +1,13 @@
+# 11/10/24
+## Atomic Habits
+- Purpose of setting goals is to win the game. The purpose of building systems is to continue playing the game.
+- The more evidence you have for a belief, the more strongly you'll believe it.
+- Habits + Frequency -> Indentity
+- Evern action you take is a vote for the type of person you wish to become.
+- Progress requires unlearning.
+- Habits shape your identity and your identity shape your habits.
+- Two step process: Decide the type of person you want to be and prove it to yourself with small wins.
+- Our focus should be on identity based change and who we want to become and not on results.
 # 10/10/24
 ## Atomic Habits: Revisit
 - (1.01)^365 = 37%
