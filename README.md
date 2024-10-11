@@ -1,4 +1,5 @@
 # 11/10/24
+- Had to uninstall neovim as there was a problem with treesitter highlighter file. Later, I reinstalled nvim. Seems like there is still a problem. Will look into it later.
 ## OnShape
 - Trammel base plate design ready.
 - Screw slide and pin slides are ready.
