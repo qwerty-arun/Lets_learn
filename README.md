@@ -1,4 +1,13 @@
 # 12/10/24
+## Project Based Learning in C
+- Completely understood all the functions: malloc(), calloc(), realloc() and free()
+- What is `memset` and  `memcpy`? They are functions which fill memory with a constant byte and copy memory respectively. Their function definitions are: `void *memcpy(void *dest, const void *src, size_t n);` and `void *memset(void *s, int c, size_t n);`
+- The memset() function fills the first n bytes of the memory area pointed to by s with the constant byte c.
+- The  memcpy()  function  copies  n bytes from memory area src to memory area dest.  The memory areas must not overlap.  Use memmove(3) if the memory areas do overlap.
+- For free(), we need to make sure that the block of memory to be freed is at the end of heap. Only then we can release it to the OS. \
+- Compiling: `$ gcc -o memalloc.so -fPIC -shared memalloc.c` , `$ export LD_PRELOAD=$PWD/memalloc.so` and we if want to stop using our allocator: unset LD_PRELOAD.
+- After running the first two commands, `ls` works using our allocator! But we can't load large files using this. For example, I tried opening a C file using vim, it crashed. So, I had to unset. 
+## Atomic Habits
 - Behaviors followed by satisfying consequences tend to be repeated.
 - Try, fail, learn and try differently. With practice, the useless movements fade away and useful actions get reinforced.
 - Habits are reliable solutions to recurring problems in our environment.
