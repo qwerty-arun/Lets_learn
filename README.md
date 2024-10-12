@@ -1,4 +1,9 @@
 # 12/10/24
+# OnShape
+- Animation Done.
+- Corner blocks and slide arm design.
+- Importance of orientation of mate connectors. Difference between slider mate and fastened mate.
+- Next up: Gears
 ## Project Based Learning in C
 - Completely understood all the functions: malloc(), calloc(), realloc() and free()
 - What is `memset` and  `memcpy`? They are functions which fill memory with a constant byte and copy memory respectively. Their function definitions are: `void *memcpy(void *dest, const void *src, size_t n);` and `void *memset(void *s, int c, size_t n);`
