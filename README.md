@@ -1,6 +1,7 @@
 # 12/10/24
 # OnShape
 - Animation Done.
+- When I used revolute mate for the sliding bar and the pins, for each pin there is a preview and it looks like OnShape undid other mates but its just a preview. 
 - Corner blocks and slide arm design.
 - Importance of orientation of mate connectors. Difference between slider mate and fastened mate.
 - Next up: Gears
