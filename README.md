@@ -1,3 +1,11 @@
+# 12/10/24
+- Behaviors followed by satisfying consequences tend to be repeated.
+- Try, fail, learn and try differently. With practice, the useless movements fade away and useful actions get reinforced.
+- Habits are reliable solutions to recurring problems in our environment.
+- Habits reduce our cognitive load and brings freedom.
+- Cue: Predicts reward. Craving: Wanting reward. Response: Obtaining reward.
+- Any one fails to be satisfied and habit won't be formed.
+- Cues are useless unless interpreted. So our thoughts and feelings leads to craving.
 # 11/10/24
 - Had to uninstall neovim as there was a problem with treesitter highlighter file. Later, I reinstalled nvim. Seems like there is still a problem. Will look into it later.
 ## OnShape
