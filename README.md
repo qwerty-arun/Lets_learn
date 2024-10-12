@@ -1,5 +1,8 @@
 # 12/10/24
-# OnShape
+- Fixed the Neovim issue by running the command 'Lazy sync' and then 'TSUpdate'. 
+- I am able to edit `.c` files now
+- Treesitter problem has been solved.
+## OnShape
 - Animation Done.
 - When I used revolute mate for the sliding bar and the pins, for each pin there is a preview and it looks like OnShape undid other mates but its just a preview. 
 - Corner blocks and slide arm design.
