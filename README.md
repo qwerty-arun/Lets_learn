@@ -1,7 +1,7 @@
 # 13/10/24
 - Added the autopairs feature in nvim. References: [YT](https://www.youtube.com/watch?v=_hbvvBgXlBo) and [Github repo](https://github.com/windwp/nvim-autopairs?tab=readme-ov-file)
 ## Project Based Learning in C: Building a interpreter
-- What does it take to name a language? It shouldn't be in use, it's easy to pronounce, it's distinct enough to search for, it should insult any culture.
+- What does it take to name a language? It shouldn't be in use, it's easy to pronounce, it's distinct enough to search for, it shouldn't insult any culture.
 - Code -> Machine level language: Scanner / Lexer converts a linear stream of characters into tokens, Parser takes the tokens and builds a tree structure (parse tree, AST or just tree).
 - Static Analysis: Binding / Resolution is the first step: for an identifier, find out where the name is defined and wire the two together.
 - Each stage of a compiler is to organize data in such a way that it is easier for the next stage to implement. Say you want to implement Pascal, C, and Fortran compilers, and you want to target x86, ARM, and, I dunno, SPARC. Normally, that means have to write nine full compilers: Pascal→x86, C→ARM, and every other combination. So between frontend and backend, there is IR: Intermediate Representations. So if we have a common IR, things get a lot easier.
