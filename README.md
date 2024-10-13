@@ -3,6 +3,17 @@
 - Process of behavior change always starts with awareness. You need to be aware of your habits before you change them.
 - Pointing and Calling raises your level of awareness from a non-conscious habit to a more conscious level by verbalizing your actions.
 - Habits Scorecard is a effective way to know what's going on. There is no need to change anything at first. You just need to acknowledge them at first, good or bad.
+## OnShape
+- [YT Video](https://www.youtube.com/watch?v=AxCgO_eJocc)
+- Design of 1:4 Gear Ratio
+- Concept of Move origin and also shifting sketches or extrudes across timelines so that if we need the newest added sketches, we can use that.
+- Actually in newer version, therefore we use transform feature and select the line of perfect length(the offset which we want).
+- While meshing, the pitch diameters of both the gears should meet at one point.
+- Use of project or convert option for the bores.
+- Adding gear relation in assembly. Even after that, the gears overlap and not proper.
+- Move feature inside the mate connector. You can choose any of them.
+- Backlash: For now, there is absolutely no backlash. In practical, it means there will be faster wear and tear because of high friction which we don't want.
+- There are two ways to set the backlash: one is to edit the sketch or directly in the spur gear in profile offsets tab.
 ## Pointers in C
 - Accessing 2D array elements through different elements.
 - Passing 2D arrays to functions using 3 different methods.
