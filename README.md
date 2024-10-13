@@ -1,4 +1,18 @@
 # 13/10/24
+## Project Based Learning in C: Building a interpreter
+- What does it take to name a language? It shouldn't be in use, it's easy to pronounce, it's distinct enough to search for, it should insult any culture.
+- Code -> Machine level language: Scanner / Lexer converts a linear stream of characters into tokens, Parser takes the tokens and builds a tree structure (parse tree, AST or just tree).
+- Static Analysis: Binding / Resolution is the first step: for an identifier, find out where the name is defined and wire the two together.
+- Each stage of a compiler is to organize data in such a way that it is easier for the next stage to implement. Say you want to implement Pascal, C, and Fortran compilers, and you want to target x86, ARM, and, I dunno, SPARC. Normally, that means have to write nine full compilers: Pascal→x86, C→ARM, and every other combination. So between frontend and backend, there is IR: Intermediate Representations. So if we have a common IR, things get a lot easier.
+- Next is optimization, for example: a expression evaluates to the same value everytime, we can compute it at compile time and replace it with the value.
+- Next up, code generation: bytecode.
+- Your compiler produced a bytecode.. it isn't over yet. No chip speaks that, you need to translate it. We have two options: write a mini-compiler for each of the target architecture, that converts the bytecode to native code for that machine or we can write a Virtual Machine (VM), a program that emulates a hypothetical chip supporting your virtual architecture at runtime.
+- What exactly is the difference between compilers and interpreters? Compiler involves converting source code to usually low level language. We then need to execute it. On the other hand, interpreters take the souce code and execute it immediately. `gcc` and `clang` are compilers. PH3 is an interpreter.
+### Challenges:
+- Pick an open source implementation of a language you like. Download the source code and poke around in it. Try to find the code that implements the scanner and parser. Are they handwritten, or generated using tools like Lex and Yacc? (.l or .y files usually imply the latter.)
+- Most Lisp implementations that compile to C also contain an interpreter that lets them execute Lisp code on the fly as well. Why?
+- Just-in-time compilation tends to be the fastest way to implement dynamically typed languages, but not all of them use it. What reasons are there to not JIT?
+## Atomic Habits
 - Four laws of behaviour change: Make it obvious, Make it attractive, Make it easy and Make it satisfying.
 - Process of behavior change always starts with awareness. You need to be aware of your habits before you change them.
 - Pointing and Calling raises your level of awareness from a non-conscious habit to a more conscious level by verbalizing your actions.
