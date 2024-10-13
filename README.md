@@ -8,6 +8,19 @@
 - Next up, code generation: bytecode.
 - Your compiler produced a bytecode.. it isn't over yet. No chip speaks that, you need to translate it. We have two options: write a mini-compiler for each of the target architecture, that converts the bytecode to native code for that machine or we can write a Virtual Machine (VM), a program that emulates a hypothetical chip supporting your virtual architecture at runtime.
 - What exactly is the difference between compilers and interpreters? Compiler involves converting source code to usually low level language. We then need to execute it. On the other hand, interpreters take the souce code and execute it immediately. `gcc` and `clang` are compilers. PH3 is an interpreter.
+### Lox Language
+- Its syntax is like that of C language.
+- It's dynamically typed:  Variables can store values of any type, and a single variable can even store values of different types at different times.
+- Data types in lox: boolean, numbers, strings and nil.
+- Operators just like C.
+- `print "language";` prints language.
+- Declare variables using the `var` statements.
+```
+var breakfast = "lox";
+print breakfast; 
+```
+- if-else conditions , while and for loops are just like C.
+- Define functions using 'fun' keyword.
 ### Challenges:
 - Pick an open source implementation of a language you like. Download the source code and poke around in it. Try to find the code that implements the scanner and parser. Are they handwritten, or generated using tools like Lex and Yacc? (.l or .y files usually imply the latter.)
 - Most Lisp implementations that compile to C also contain an interpreter that lets them execute Lisp code on the fly as well. Why?
