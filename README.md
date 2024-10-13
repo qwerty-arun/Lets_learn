@@ -1,3 +1,8 @@
+# 13/10/24
+- Four laws of behaviour change: Make it obvious, Make it attractive, Make it easy and Make it satisfying.
+- Process of behavior change always starts with awareness. You need to be aware of your habits before you change them.
+- Pointing and Calling raises your level of awareness from a non-conscious habit to a more conscious level by verbalizing your actions.
+- Habits Scorecard is a effective way to know what's going on. There is no need to change anything at first. You just need to acknowledge them at first, good or bad.
 # 12/10/24
 - Fixed the Neovim issue by running the command 'Lazy sync' and then 'TSUpdate'. 
 - I am able to edit `.c` files now
