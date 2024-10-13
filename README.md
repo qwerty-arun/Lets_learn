@@ -1,4 +1,5 @@
 # 13/10/24
+- Added the autopairs feature in nvim. References: [YT](https://www.youtube.com/watch?v=_hbvvBgXlBo) and [Github repo](https://github.com/windwp/nvim-autopairs?tab=readme-ov-file)
 ## Project Based Learning in C: Building a interpreter
 - What does it take to name a language? It shouldn't be in use, it's easy to pronounce, it's distinct enough to search for, it should insult any culture.
 - Code -> Machine level language: Scanner / Lexer converts a linear stream of characters into tokens, Parser takes the tokens and builds a tree structure (parse tree, AST or just tree).
