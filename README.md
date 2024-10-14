@@ -22,6 +22,9 @@ class Breakfast {
 - var breakfast = Breakfast();
 - We can freely add properties onto objects.
 - If you want to access a field or method on the current object from within a method, you use `this`.
+- Dynamic arrays provide: Cache-friendly, dense storage, Constant-time indexed element lookup, Constant-time appending to the end of the array.
+- In addition to the array itself, we keep two numbers: the number of elements in the array we have allocated (“capacity”) and how many of those allocated entries are actually in use (“count”).
+- If count < capacity, then space is available. If not, then we need to allocate more memory, then add the new element.
 ```
 // Store it in variables.
 var someVariable = Breakfast;
