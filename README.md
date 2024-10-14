@@ -1,3 +1,10 @@
+# 14/10/2024
+## ATOMIC HABITS
+### Make it Obvious:
+> 1) Habit Scorecard: You can't change your habits unless you are aware of them. So first you need to know what's happening.
+> 2) Implementation intentions: I will [Behavior] at [Time] in [Location].
+> 3) Diderot Effect: Chain reaction of purchases.
+> 4) Habit Stacking: After [current hsbit], I will [new habit]. This is a positive version of Diderot effect. Your cue should have the same frequency as the desired habit. If you want to do a habit everyday and you stack it onto a habit that happens only on mondays, well that's bad.
 # 13/10/24
 - Added the autopairs feature in nvim. References: [YT](https://www.youtube.com/watch?v=_hbvvBgXlBo) and [Github repo](https://github.com/windwp/nvim-autopairs?tab=readme-ov-file)
 ## Project Based Learning in C: Building a interpreter
