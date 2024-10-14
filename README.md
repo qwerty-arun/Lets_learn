@@ -5,6 +5,10 @@
 > 2) Implementation intentions: I will [Behavior] at [Time] in [Location].
 > 3) Diderot Effect: Chain reaction of purchases.
 > 4) Habit Stacking: After [current hsbit], I will [new habit]. This is a positive version of Diderot effect. Your cue should have the same frequency as the desired habit. If you want to do a habit everyday and you stack it onto a habit that happens only on mondays, well that's bad.
+> 5) Finding out the right trigger: Make two lists, one which lists the habits you do each day without fail and the other which happen to you each day without fail (sun rises, sets). Now begin searching for the best place to stack habits.
+> 6) Visual Cues are the most powerful. Small change in what you see can bring out a lot of change in what you do. Therefore your environment matters more often.
+> 7) Most persistant behaviors have multiple cues.
+> 8) Its easier to build new habits in a new environment because you aren't fighting against old cues.
 # 13/10/24
 - Added the autopairs feature in nvim. References: [YT](https://www.youtube.com/watch?v=_hbvvBgXlBo) and [Github repo](https://github.com/windwp/nvim-autopairs?tab=readme-ov-file)
 ## Project Based Learning in C: Building a interpreter
