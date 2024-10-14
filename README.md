@@ -1,4 +1,7 @@
 # 14/10/2024
+## Pointers in C
+- Revision of 2D arrays and accessing its elements
+- Interpretation of 3D arrays, accessing its elements and passing it to a function.
 ## ATOMIC HABITS
 ### Make it Obvious:
 > 1) Habit Scorecard: You can't change your habits unless you are aware of them. So first you need to know what's happening.
