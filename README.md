@@ -1,4 +1,38 @@
 # 14/10/2024
+## Project Based Learning in C
+- Difference between arguments and parameters? Arguments are actual values passed to functions. Parameter is a variable which holds the value of argument inside the body of the function.
+- If execution hits the end without a return, then nil is returned.
+- In dynamically typed language, objects are pretty handy. We need compound data types to handle stuff data. Lox is a OOP language.
+- In class based languages: there are mainly two concepts: classes and instances.
+### Classes in Lox:
+```
+class Breakfast {
+  cook() {
+    print "Eggs a-fryin'!";
+  }
+
+  serve(who) {
+    print "Enjoy your breakfast, " + who + ".";
+  }
+}
+```
+- Body of a class contains functions.
+- When the class declaration is executed, Lox creates a class object and stores that in a variable named after the class.
+- Call the class like a function, an instance is created.
+- var breakfast = Breakfast();
+- We can freely add properties onto objects.
+- If you want to access a field or method on the current object from within a method, you use `this`.
+```
+// Store it in variables.
+var someVariable = Breakfast;
+
+// Pass it to functions.
+someFunction(Breakfast);
+```
+- What is ByteCode? There are two points to keep in mind. On one end, a tree-walk interpreter is simple, portable, and slow. On the other, native code is complex and platform-specific but fast. Bytecode sits in the middle.
+- Structurally, bytecode resembles machine code. It’s a dense, linear sequence of binary instructions. That keeps overhead low and plays nice with the cache.
+- Emulator — a simulated chip written in software that interprets the bytecode one instruction at a time.
+- That emulation layer adds overhead, which is a key reason bytecode is slower than native code. But in return, it gives us portability. Write our VM in a language like C that is already supported on all the machines we care about, and we can run our emulator on top of any hardware we like. 
 ## Complete Understanding of Neovim
 - [Setup video by Creator himself](https://www.youtube.com/watch?v=m8C0Cq9Uv9o&t=12s) , you can learn every single line of the init.lua file.
 - [Treesitter explained](https://www.youtube.com/watch?v=09-9LltqWLY&t=764s), complete understanding of parsers.
