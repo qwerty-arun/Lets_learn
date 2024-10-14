@@ -1,4 +1,9 @@
 # 14/10/2024
+## Complete Understanding of Neovim
+- [Setup video by Creator himself](https://www.youtube.com/watch?v=m8C0Cq9Uv9o&t=12s) , you can learn every single line of the init.lua file.
+- [Treesitter explained](https://www.youtube.com/watch?v=09-9LltqWLY&t=764s), complete understanding of parsers.
+- [Learn X in Y minutes](https://learnxinyminutes.com/docs/lua/) for learning lua.
+- [Lua Guide](https://neovim.io/doc/user/lua-guide). 
 ## Pointers in C
 - Revision of 2D arrays and accessing its elements
 - Interpretation of 3D arrays, accessing its elements and passing it to a function.
