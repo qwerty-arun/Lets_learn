@@ -1,3 +1,12 @@
+# 15/10/2024
+## ATOMIC HABITS
+- Inversion of 1st law of behavioral change is 'make it invisible'.
+- Once a habit is formed, it is unlikely to be forgotten.
+- People with high self control tend to spend less time in tempting situations. Its easier to avoid temptation than resist it.
+- One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it.
+- Self control is a short term stratergy, not a long term.
+- People with the best self-control are typically the ones who need to use it the least.
+- Bad habits are autocatalytic: the process feeds itself. You feel bad, so you eat junk food. Because you eat junk food, you feel bad. 
 # 14/10/2024
 ## Project Based Learning in C
 - Difference between arguments and parameters? Arguments are actual values passed to functions. Parameter is a variable which holds the value of argument inside the body of the function.
