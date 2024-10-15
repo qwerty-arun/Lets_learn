@@ -1,4 +1,13 @@
 # 15/10/2024
+## OnShape
+- Gears: revisit
+- Made 1:1 gear ratio
+- Offset feature in Fastened mate.
+- For a complex gear system, you need to add more gear ratios.
+- And while fastening mate between gear and axle, you need to select the edge of the hole in the centre of the gear to find the correct centre.
+- Offest in angle to properly make things work.
+## Pointers in C
+- Returning 2D or 3D arrays from functions.
 - [How to Get Rich - Naval Ravikant](https://www.youtube.com/watch?v=1-TZqOsVCNM&t=50s)
 ## ATOMIC HABITS
 - Inversion of 1st law of behavioral change is 'make it invisible'.
