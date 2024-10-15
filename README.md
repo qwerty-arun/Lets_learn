@@ -1,4 +1,5 @@
 # 15/10/2024
+- [How to Get Rich - Naval Ravikant](https://www.youtube.com/watch?v=1-TZqOsVCNM&t=50s)
 ## ATOMIC HABITS
 - Inversion of 1st law of behavioral change is 'make it invisible'.
 - Once a habit is formed, it is unlikely to be forgotten.
