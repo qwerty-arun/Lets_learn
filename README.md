@@ -1,3 +1,6 @@
+# 16/10/2024
+## Pointers in C
+- Some basic programs based on pointers in C.
 # 15/10/2024
 ## OnShape
 - Gears: revisit
