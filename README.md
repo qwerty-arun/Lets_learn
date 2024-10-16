@@ -1,4 +1,15 @@
 # 16/10/2024
+## Project Based Learning in C: Interpreter in C
+- First building the basic block memory allocation: if space available, no problem, if not, then reallocate.
+- Building just one function for all memory allocation, freeing memory, changing size of existing allocation. Why is this important? Well, we will be building our own garbage collector in the future and it needs to keep track of how much memory is in use.
+- If oldSize=0 and newSize is non-zero, then we need to allocate a new block of memory.
+- If oldSize=non-zero and newSize=0, then we need to free the memory.
+- If newSize>oldSize , then we need to grow the memory.
+- But if newSize<oldSize, then we need to shrink the memory.
+- Handling the NULL case.
+- Writing the free() function on our own.
+- Well after freeing the memory, we need to initialise the block so that is is in free empty state.
+- Why is it not compiling as expected?
 ## Pointers in C
 - Some basic programs based on pointers in C.
 # 15/10/2024
