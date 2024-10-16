@@ -1,4 +1,19 @@
 # 16/10/2024
+- Understood the difference between VCs and Angel Investors.
+- Differences: 
+1. **Source of Funds**: 
+   - **Angel Investors** use their personal money to invest in startups, often at an early stage. They’re typically individuals who want to support promising new businesses.
+   - **Venture Capitalists** invest other people's money, usually from a fund they manage. They gather this money from various sources like large corporations, pension funds, and wealthy individuals.
+
+2. **Investment Size and Stage**:
+   - **Angel Investors** usually invest smaller amounts (tens of thousands to a few hundred thousand dollars) and often get involved early when the startup is just getting started.
+   - **VCs** generally invest larger amounts (often millions) and typically get involved in later stages when the business has started growing and showing potential.
+
+3. **Involvement and Expectations**:
+   - **Angel Investors** may or may not take an active role in the business. They might offer advice and guidance but are often more hands-off.
+   - **VCs** tend to be more involved, as they have teams that can provide expertise, connections, and support. They usually expect rapid growth and higher returns because they have a responsibility to their fund's investors.
+
+- In summary, angel investors are typically individuals investing smaller amounts of personal money early on, while VCs are firms investing larger sums from a pooled fund, usually at later stages, and are more involved in the company's growth.
 ## Project Based Learning in C: Interpreter in C
 - First building the basic block memory allocation: if space available, no problem, if not, then reallocate.
 - Building just one function for all memory allocation, freeing memory, changing size of existing allocation. Why is this important? Well, we will be building our own garbage collector in the future and it needs to keep track of how much memory is in use.
