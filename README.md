@@ -10,6 +10,24 @@
 - Writing the free() function on our own.
 - Well after freeing the memory, we need to initialise the block so that is is in free empty state.
 - Why is it not compiling as expected?
+### The error which I was getting for the command run: `gcc main.c`
+```
+/usr/bin/ld: /tmp/ccTHI6uV.o: in function `main':
+main.c:(.text+0x23): undefined reference to `initChunk'
+/usr/bin/ld: main.c:(.text+0x34): undefined reference to `writeChunk'
+/usr/bin/ld: main.c:(.text+0x4a): undefined reference to `disassembleChunk'
+/usr/bin/ld: main.c:(.text+0x56): undefined reference to `freeChunk'
+collect2: error: ld returned 1 exit status
+```
+- The command which I ran itself was wrong, it must include all the files (.c) involved in the directory.
+- `gcc main.c chunk.c debug.c memory.c -o output` is proper and will generate the binary file `output`.
+### Output of the binary
+```
+== test chunk ==
+0000 OP_RETURN
+```
+- Well, it works.
+- We can create a chunk, write an instruction to it, and then extract that instruction back out. Our encoding and decoding of the binary bytecode is working.
 ## Pointers in C
 - Some basic programs based on pointers in C.
 # 15/10/2024
