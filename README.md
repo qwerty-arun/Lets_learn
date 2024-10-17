@@ -1,3 +1,7 @@
+# 18/10/2024
+- Tried all the linux commands that I learnt yesterday.
+- Need to effectively use networking commands and grep.
+- Need to watch tutorial on that.
 # 17/10/2024
 - [Linux Commands to know!](https://www.youtube.com/watch?v=gd7BXuUQ91w&t=46s)
 - `ssh username@serverIP`, `touch file{1..10}`, `touch -d tomorrow huh.txt`, Add stuff to file: `echo " " > filename`, `shred filename` to shred all content in file, link command: `ln -s filename link` where s stands for soft, `useradd nick` -> `sudo useradd nick`, `adduser` to set some parameters, `su username` to switch user, `exit` to exit the current user, `sudo passwd nick` to change nick's password, `passwd` to change yours, `finger` command can be handy to keep an eye on a user, `whatis` tells you stuff in one sentence, `which finger` tells you which finger but doesn't mention all fingers whereas `whereis finger` will, `wget` will download anything for you, `curl url > file` to download, `zip file.zip what` to zip something, `unzip` to unzip, `less file` prints contents of file one page at a time, `cmp file1 file2` to compare the two files, `diff` to actually see what differs, `cat file | sort` to sort stuff in alphabetical order, `find / -name "stack*` will find in all directories starting with "stack", `sudo find . -type f -name ".*"` to find hidden files, `find . -type f -empty` to find empty files, `find . -perm /a=x` to find all executable files, `chmod +x` to make a file executable, `chown user file` to change ownership.
