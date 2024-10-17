@@ -1,4 +1,13 @@
 # 17/10/2024
+## Atomic Habits
+- Our ancestors didn't know when their next meal would be, so eating as much as possible was a good stratergy. They placed a high value on salt, sugar and fat. Such foods are calorie dense.
+- Now, we live in a calorie rich environment. We humans crave for food as if it were scarce but it is actually abundant. We don't need to value salt, sugar and fat as much. Still our craving persists because our reward centres haven't changed much.
+- Society is filled with highly engineered versions of reality.  The trend is for rewards to become more concentrated and stimuli to become more enticing. For ex: junk food is more concentrated form of calories than natural foods.
+- Habits are dopamine driven feedback loop. Dopamine is released not only when you experience it, but also when you anticipate it.
+- It is the anticipation of a reward-not the fulfillment of it that gets us to take action.
+- Temptation bundling works by linking an action you want to do with an action you need to do.
+- You will likely find a behavior attractive if you get to do one of your favourite things at the same time.
+- Habit Stacking + Temp. Building formula: After [Current habit] , I will [habit I need]. After [habit I need], I will [Habit I want]. 
 ## Project Based Learning in C: Interpreter in C
 - Without debug.c , if we run the code, it will display nothing of course, all we have done is push some bytes to memory. There is actually no way to see what is inside that chunk we made. To see that, we need a disassembler.
 - An assembler is an program that takes a file containing human-readable mnemonic names for CPU instructions like “ADD” and “MULT” and translates them to their binary machine code equivalent. A disassembler goes in the other direction—given a blob of machine code, it spits out a textual listing of the instructions.
