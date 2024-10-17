@@ -1,4 +1,9 @@
 # 17/10/2024
+## OnShape
+- Parametric Based Design course: You can import files of any kind, image, video, CAD files or even non-CAD files.
+- You can subscribe to third party applications in App Store.
+- Newly created features will not always be added to end of the feature list, if rollback bar is pulled up, it will create the feature right before the roll back position.
+- Part Studios are not referenced is assemblies.
 ## Atomic Habits
 - Our ancestors didn't know when their next meal would be, so eating as much as possible was a good stratergy. They placed a high value on salt, sugar and fat. Such foods are calorie dense.
 - Now, we live in a calorie rich environment. We humans crave for food as if it were scarce but it is actually abundant. We don't need to value salt, sugar and fat as much. Still our craving persists because our reward centres haven't changed much.
