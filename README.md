@@ -1,3 +1,14 @@
+# 17/10/2024
+## Project Based Learning in C: Interpreter in C
+- Without debug.c , if we run the code, it will display nothing of course, all we have done is push some bytes to memory. There is actually no way to see what is inside that chunk we made. To see that, we need a disassembler.
+- An assembler is an program that takes a file containing human-readable mnemonic names for CPU instructions like “ADD” and “MULT” and translates them to their binary machine code equivalent. A disassembler goes in the other direction—given a blob of machine code, it spits out a textual listing of the instructions.
+- Now that we have chunk structure, we can store code in chunks but what about data.
+- For now, we will only support double precision and floating point numbers.
+- We will have a seperate "constant data" region where all the constants are stored.
+- Each chunk will carry with it a list of the values that appear as literals in the program.
+- We will need two kinds constant instructions: one for immediate values and one for constants in constant table. So, we will need to worry about alignment, padding and endianness.
+- The constant pool is an array of values. An instruction to load a constant looks up the value by using index. We will again use a dynamic one.
+- We created a chunk for values too.
 # 16/10/2024
 - Understood the difference between VCs and Angel Investors.
 - Differences: 
