@@ -1,4 +1,10 @@
 # 19/10/2024
+## Windows commands to know
+- `ipconfig` or `ipconfig /all`, `ipconfig /all | findstr DNS` will only show DNS stuff.
+- `ipconfig /release` to release the current IP address and `ipconfig /renew` to reconnect and give a fresh IP address. It will refresh every instance on the computer. If you don't want that just specify, `ipconfig /renew "Wi-Fi"`
+- Troubleshooting DNS: `ipconfig /displaydns` but this is a pain to even look at it, forget about reading. `ipconfig /displaydns | clip` copies the stuff to clipboard.
+- Never forget to flush: `ipconfig /flushdns` will delete DNS Resolver cache on your computer removing any old DNS entries.
+- `nslookup site` to troubleshoot site. `nslookup site dnsserver`, `nslookup -type=mx site` or txt or ptr. 
 ## Atomic Habits
 - The Role of family and friends is immense in shaping your habits.
 - Society's practices sweep us along.
