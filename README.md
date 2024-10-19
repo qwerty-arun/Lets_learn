@@ -4,7 +4,29 @@
 - `ipconfig /release` to release the current IP address and `ipconfig /renew` to reconnect and give a fresh IP address. It will refresh every instance on the computer. If you don't want that just specify, `ipconfig /renew "Wi-Fi"`
 - Troubleshooting DNS: `ipconfig /displaydns` but this is a pain to even look at it, forget about reading. `ipconfig /displaydns | clip` copies the stuff to clipboard.
 - Never forget to flush: `ipconfig /flushdns` will delete DNS Resolver cache on your computer removing any old DNS entries.
-- `nslookup site` to troubleshoot site. `nslookup site dnsserver`, `nslookup -type=mx site` or txt or ptr. 
+- `nslookup site` to troubleshoot site. `nslookup site dnsserver`, `nslookup -type=mx site` or txt or ptr.
+- `getmac /v` to see all MAC addresses.
+- `powercfg /energy` to see power usages.
+- `powercfg /batteryreport` to see battery usage.
+- `assoc` shows which file types are associated with which programs. `assoc .mp4=VLC.vlc` to change mp4 media player to vlc.
+- `chkddsk /f` to check disk stuff and fix it. /r will might require reboot.
+- `sfc /scannow` system file checker checks all the files in the system and fix them if needed.
+- Still a problem? `DISM /Online /Cleanup /Checkhealth` Deployment, image servicing and management. /Cleanup - Image or /ScanHealth or even /RestoreHealth. After this again run `sfc /scannow`.
+- `tasklist | findstr script` to find scripts
+- `taskkill /f /pid no` /f is force /pid is pid.
+- `netsh wlan show wlanreport` to show report for your wireless stuff.
+- `netsh interface show interface` to list all your interfaces.
+- `netsh interface ip show address | findstr "IP Address"`
+- `netsh interface ip show dnsservers`
+- `netsh firewall set allprofiles state off` or even turn it on. This turns off firewall.
+- `ping -t site` pings the site non-stop.
+- `tracert site` traces the path to the website. try -d option for faster response.
+- `netstat` and also try -af. You can even see what ports are open. try -o for more details. `netstat -e -t 5` gives you sent/received stats.
+- `route print` prints all the routes you take.
+- `route add <> mask <> <>` last one is gateway and first one is the network you are trying to connect to.
+- `route delete <>` to delete it.
+- `shutdown /r /fw /f /t 0` will restart into your BIOS.
+- Wanna Learn More? [Click Here](https://www.youtube.com/watch?v=prVHU1fLR20&t=603s)
 ## Atomic Habits
 - The Role of family and friends is immense in shaping your habits.
 - Society's practices sweep us along.
