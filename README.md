@@ -1,4 +1,7 @@
 # 19/10/2024
+## OnShape
+- Editing public files like Fractal Vice.
+- Need to learn gears, principles of motion.
 ## Windows commands to know
 - `ipconfig` or `ipconfig /all`, `ipconfig /all | findstr DNS` will only show DNS stuff.
 - `ipconfig /release` to release the current IP address and `ipconfig /renew` to reconnect and give a fresh IP address. It will refresh every instance on the computer. If you don't want that just specify, `ipconfig /renew "Wi-Fi"`
