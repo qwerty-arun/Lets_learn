@@ -1,3 +1,15 @@
+# 19/10/2024
+## Atomic Habits
+- The Role of family and friends is immense in shaping your habits.
+- Society's practices sweep us along.
+- We imitate the habits of three groups in particular: Close, many, powerful.
+- One of the most effective things you can do to build better habits is to join a culture where your desired behavior is the normal behavior.
+- Surround yourself with people who have the habits you want to have yourself. You'll rise together.
+- Join a culture where: 1) your desired behavior is the normal behavior, 2) you already have something inn common with the group.
+- We humans always want to fit in. So imitate the majority giving us the feeling that we belong.
+- The normal behavior of the tribe often overpowers the desired behavior of the individual. There is internal pressure to comply with the norms of the group.
+- Most of the time, we'd rather be wrong with the crowd than be right by ourselves.
+- Humans everywhere pursue power, prestige and status. We are drawn to behaviors that earn us respect, approval, administration and status.
 # 18/10/2024
 - Tried all the linux commands that I learnt yesterday.
 - Need to effectively use networking commands and grep.
