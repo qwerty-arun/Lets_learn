@@ -1,4 +1,23 @@
 # 20/10/2024
+## ATtiny85 
+- References: [YT1](https://www.youtube.com/watch?v=AmpHIHM41Hw) , [YT2](https://www.youtube.com/watch?v=Z_MhVSlMZI8&list=WL&index=7), [MIT](https://highlowtech.org/?p=1695).
+- Write a simple program to on/off periodically the on-board LED.
+- Install the correct libraries, select the correct ports.
+```
+int led_int = 1;
+void setup()
+{
+  pinMode(led_int,OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(led_int,HIGH);
+  delay(100);
+  digitalWrite(led_int,LOW);
+  delay(100);
+}
+```
 ## OnShape
 - Making of Bevel Gears: Make a normal gear but with a draft.
 - Fastened mates between axles with proper offsets.
