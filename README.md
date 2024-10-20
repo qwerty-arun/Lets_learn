@@ -1,3 +1,26 @@
+# 21/10/2024
+## Revisiting vim commands
+- d$, d0, de, dw and db for delete operation.
+- `u` for undo.
+- `U` fixes the entire line.
+- Ctrl+R undo the undo's.
+- `ce` change operation. Although ce and dw looks the same, its not. ce adds a space in between and puts you in insert mode but dw doesn't. `cc` changes the entire line.
+- `c number [motion]` is the syntax.
+- p is for `put` not, paste, but ya, same thing.
+- `G` brings you to bottom of the file.
+- `gg` to the top.
+- Type the number of the line you were on and then  G .  This will return you to the line you were on when you first pressed CTRL-G.
+- `/` is the search command. `n` takes you to next occurance. `N` for previous. Or to search for a phrase in opposite direction, use '?' instead of '/'.
+- To go back to where you came from, Ctrl+O and you can repeat to go back even further.
+- Ctrl+I goes forward .
+- `%` is used for matching brackets.
+- `:s/old/new/g` changes old to new globally. Use gc for confirmation. But this change is only in a line and only for first occurance if `g` is not given.
+- `#,#s/old/new/g` where #,# are the line numbers of the range of lines where the substitution is to be done.
+- `:%s/old/new/g` to change every occurrence in the whole file.
+- `:%s/old/new/gc` to find every occurrence in the whole file, with a prompt whether to substitute or not.
+- Executing an external command: Type :! and an external command to execute the command. `!ls` executes ls as if you were in shell. You don't need to exit vim at all.
+- `:w TEST` This saves the whole file (the Vim Tutor) under the name TEST.
+- Wanna delete? `:!rm TEST` can do that. `:!ls` can verify it.
 # 20/10/2024
 ## ATtiny85 
 - References: [YT1](https://www.youtube.com/watch?v=AmpHIHM41Hw) , [YT2](https://www.youtube.com/watch?v=Z_MhVSlMZI8&list=WL&index=7), [MIT](https://highlowtech.org/?p=1695).
