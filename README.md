@@ -34,6 +34,15 @@ void loop()
 - Reprogram your brain to enjoy hard habits: You have to -> You get to. Highlight benefits than drawbacks. Exercise: Health > Short term tiredness. Finance: Live below current means to increase future means.
 - Our habits are modern day solutions to ancient desires.
 - Create a motivation ritual by doing something you enjoy immediately before a difficult habit.
+- Addition by subtraction: Remove points of friction and achieve more with less effort.
+- Prime your environment for future use: want to exercise more? set out your clothings, shoes and bottle ahead of time.
+- For bad habits, add more friction. Keep your phone in an other room. 
+### Making it easy:
+- We aare so focused on figuring out the best approach that we never get around to taking action. The best is the enemy of the good.
+- There is a difference between being in motion and taking action.
+- Motion allows us to feel like we're making progess without running the risk of failure.
+- If you want to master a habit, the key is to start with repitition, not perfection.
+- The amount of time you have been performing a habit is not as important as the number of times you have performed it. 
 # 19/10/2024
 ## OnShape
 - Editing public files like Fractal Vice.
