@@ -1,4 +1,12 @@
 # 20/10/2024
+## OnShape
+- Making of Bevel Gears: Make a normal gear but with a draft.
+- Fastened mates between axles with proper offsets.
+- Design of Rack and Pinion Assembly. Importance of slider mate and proper mate connectors.
+- Use of Rack and Pinion gear relation.
+## How to Get Rich Podcast
+- Take accountability, get leverage, use leverage to grow, apply your specific knowledge.
+- Surround yourself with smart people.
 ## Atomic Habits
 - There are many different ways to address the same underlying motive. You can deal with stress in many different ways.
 - Once you associate a solution with the problem you need to solve, you keep coming back to it.
