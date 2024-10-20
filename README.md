@@ -1,3 +1,12 @@
+# 20/10/2024
+## Atomic Habits
+- There are many different ways to address the same underlying motive. You can deal with stress in many different ways.
+- Once you associate a solution with the problem you need to solve, you keep coming back to it.
+- We keep predicting things all the time. The cause of our habits is actually the prediction that precedes them. They in turn lead to feelings.
+- Our feellings and emotions tell us whether to hold steady in our current state or to make a change. It is the emotion that allows you to mark things as good, bad etc.
+- Reprogram your brain to enjoy hard habits: You have to -> You get to. Highlight benefits than drawbacks. Exercise: Health > Short term tiredness. Finance: Live below current means to increase future means.
+- Our habits are modern day solutions to ancient desires.
+- Create a motivation ritual by doing something you enjoy immediately before a difficult habit.
 # 19/10/2024
 ## OnShape
 - Editing public files like Fractal Vice.
