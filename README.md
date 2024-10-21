@@ -1,4 +1,9 @@
 # 21/10/2024
+## OnShape
+- Setting the right limits for the Rack and Pinion Gear System. The axle shouldn't move beyond the pinion length.
+- Transforming and Rotating Parts in Part Studio: Draw a construction line, rotate the part around that line by using transform option.
+- Transorming and Rotating in Assembly: Well unfix the fixed part, rotate it by some angle which you want, fix it again. Other mates will automatically adjust. Select the part, using the arrows or pointers rotate that part.
+- What are STEP files?
 ## Revisiting vim commands
 - d$, d0, de, dw and db for delete operation.
 - `u` for undo.
