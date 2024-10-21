@@ -4,6 +4,8 @@
 - Transforming and Rotating Parts in Part Studio: Draw a construction line, rotate the part around that line by using transform option.
 - Transorming and Rotating in Assembly: Well unfix the fixed part, rotate it by some angle which you want, fix it again. Other mates will automatically adjust. Select the part, using the arrows or pointers rotate that part.
 - What are STEP files?
+- Importing step files in OnShape and importing in a single part studio. Put, all of them in one folder.
+- These pulleys aren't necessarily gears but they do have a gear relation. This only works if there is no slipping between pulleys and belt. Otherwise, if were frictionless, it doesn't make sense to make a gear relation. We are assuming that there is enough friction between pulley and belt which is necessary in practical cases.
 ## Revisiting vim commands
 - d$, d0, de, dw and db for delete operation.
 - `u` for undo.
