@@ -21,6 +21,16 @@
 - Executing an external command: Type :! and an external command to execute the command. `!ls` executes ls as if you were in shell. You don't need to exit vim at all.
 - `:w TEST` This saves the whole file (the Vim Tutor) under the name TEST.
 - Wanna delete? `:!rm TEST` can do that. `:!ls` can verify it.
+## Atomic Habits
+- We keep deciding everyday and these moments: decisive moments can turn a day into a productive or a non-productive one. Decisive moments are like fork in the road.
+- Habits can be completed in a few seconds but continue to impact your behavior for minutes or hours afterward.
+- The Two-Minute Rule, "When you start a new habit, it should take less than two minutes to do."
+- First master the art of showing up, the first two minutes simply become a ritual at the beginning of a larger routine.
+- You're not worried about getting in shape. You're focused on becoming the type of person who doesn't miss workouts.
+- Once you have established the habit of showing up, combine the 2-minute rule with the habit shaping technique.
+- Examples: Starting to exercise: Change to workout clothes, step out the door and walk, drive to the gym, workout for 5 minutes and leave, exercise for 15 minutes at least once per week, exercise three times per week.
+- The more your ritualize the beginning of a process, the more likely it becomes that you can slip into the state of deep focus that is required to do great things.
+- Standardize before you optimize. You can't improve a habit that doesn't exist.
 # 20/10/2024
 ## ATtiny85 
 - References: [YT1](https://www.youtube.com/watch?v=AmpHIHM41Hw) , [YT2](https://www.youtube.com/watch?v=Z_MhVSlMZI8&list=WL&index=7), [MIT](https://highlowtech.org/?p=1695).
