@@ -1,3 +1,12 @@
+# 22/10/2024
+## Atomic Habits
+- Commitment Devices are useful tools which make bad habits harder.
+- The key is to change the task such that it requires more work to get out of the good habit than to get started on it. If you're motivated to get in shape, pay for gym ahead of time. We are increasing the odds that you'll do the right thing in the future by making bad habits hard in the present.
+- Best way to break a bad habit is to make it impractical to do.
+- You can do one-time actions that lock in good habits. Nutrition: smaller plates to reduce caloric intake. Sleep: Get black curtains, good mattress, remove TV form bedroom.
+- Productivity: Unsubscribe from emails, turn off notifications, aeroplane mode, delete games and media apps, website blockers.
+- Finance: Enroll in automatic savings plan, cut cable service, ask servive providers to lower your bills, set up automatic bill pay.  
+- When working in your favor, automation can make your good habits inevitable and bad habits impossible. So using tech is most reliable.
 # 21/10/2024
 ## OnShape
 - Setting the right limits for the Rack and Pinion Gear System. The axle shouldn't move beyond the pinion length.
