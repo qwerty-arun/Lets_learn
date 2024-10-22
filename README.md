@@ -15,6 +15,16 @@
 - Productivity: Unsubscribe from emails, turn off notifications, aeroplane mode, delete games and media apps, website blockers.
 - Finance: Enroll in automatic savings plan, cut cable service, ask servive providers to lower your bills, set up automatic bill pay.  
 - When working in your favor, automation can make your good habits inevitable and bad habits impossible. So using tech is most reliable.
+- If an experience is satisfying, we are more likely to repeat it.
+- We have evolved from immediate-return environment to delayed-return environment.
+- The costs of your good habits are in the present. The costs of your bad habits are in the future.
+- What is immediately punished is avoided and what is immediatley rewarded is repeated. The road less traveled is the road of delayed gratification.
+- The last mile is always the least crowded.
+- The best way to do this is to add a little bit of immediate pleasure to the habits that pay off in the long run and a little bit of immediate pain to the ones that don't.
+- Reward for a good habit is the habit itself. In the beginning, you need a reason to stay on tracck. This is why immediate rewards are essential.
+- Whenever you pass on a purchase, put the same amount of money in the account. The immediate reward of seeing yourself save money toward the leather jacket feels a lot better than being deprived. You are making it satisfying to do nothing.
+- It is important to select short-term rewards that reinforce your identity rather than ones that conflict with it.
+- The first three laws increase the odds that a behavior will be performed this time. The fourth law increases the odds that a behavior will be repeated next time.
 # 21/10/2024
 ## OnShape
 - Setting the right limits for the Rack and Pinion Gear System. The axle shouldn't move beyond the pinion length.
