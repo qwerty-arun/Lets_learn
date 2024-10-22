@@ -1,3 +1,9 @@
+# 23/10/2024
+- Fixed the file explorer issue.
+- Setting up buffer is left.
+- Created the playground for 'C' language.
+- Set up Proper window management.
+- Reference: [YT](https://www.youtube.com/watch?v=KYDG3AHgYEs&t=58s)
 # 22/10/2024
 ## Pointers in C
 - Intermediate Programs in strings.
