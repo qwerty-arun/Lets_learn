@@ -1,4 +1,12 @@
 # 22/10/2024
+## Pointers in C
+- Intermediate Programs in strings.
+## OnShape
+- Worm Gear Assembly.
+- You can use shift+ to select the centre of a face that is involved in a mate.
+- Replicate option in Assembly: Select all that you want to replicate, it gets replicated as a group, so mates still stay as it is. You don't have to do it again. Then select match individual faces and then select a face where you want to replicate it.
+- Editing features in Replicate is not allowed. Why?
+- Note that we use the same gear relation and we use the same two revolute mate to define the ratio. The ratio might still be incorrect, so we just need to reciprocal it if needed.
 ## Atomic Habits
 - Commitment Devices are useful tools which make bad habits harder.
 - The key is to change the task such that it requires more work to get out of the good habit than to get started on it. If you're motivated to get in shape, pay for gym ahead of time. We are increasing the odds that you'll do the right thing in the future by making bad habits hard in the present.
