@@ -1,4 +1,18 @@
 # 23/10/2024
+## Atomic Habits
+- Visual measures are best. The best way to measure your progress is with a habit tracker.
+- You improve what you measure. "Don't break the chain" is a powerful mantra.
+- Habit tracking is obvious: When evidence is right in front of you, you're less likely to lie to yourself.
+- Habit trakcing is attractive: Provides visual proof of your hard work, so it motivates you. And that empty square you see each morning can motivate you to get started because you don't want to lose the progress.
+- Habit tracking is satisfying: You're focused on the progress rather than the result. Feels satisfying whenever you record another successful instance of your habit.
+- Habit stacking + Habit Tracking formula: After [Current habit] , I will [Track my habit].
+- Never miss twice. Or else it will be a start of a new habit.
+- First mistake is never the one that ruins you.
+- It is really valueable to show up on bad days. Don't put up a zero. Don't let losses eat into your compounding.
+- We optimize for what we measure. When a measure becomes a target, it ceases to be a good measure. Measurement is only a useful guide.
+- Just because you can measure something doesn't mean it is the most important thing. Just because you can't measure something doesn't mean it's not important at all.
+- If you aren't motivated by the number on the scale, perhaps it's time to focus on different measurement-one that gives you more signals of progress.
+## Neovim
 - Fixed the file explorer issue.
 - Setting up buffer is left.
 - Created the playground for 'C' language.
