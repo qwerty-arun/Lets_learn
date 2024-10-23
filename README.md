@@ -1,4 +1,7 @@
 # 23/10/2024
+## Mechanical Movements / Principles
+- [YT Video: 1](https://www.youtube.com/watch?v=M1-YeqGynlw&t=338s). [Pictures](https://brickexperimentchannel.wordpress.com/2022/11/14/20-mechanical-principles-machine/)
+- Schmidt Coupling, Universal joint (Steering Wheel), CV joint, Slider-Crank Linkage (Reciprocative Motion), Sun and Planet Gear, Scotch Yoke, Chebyshev Lambda Linkage, Chain Drive, Belt Drive, Constant Mesh Gear Box, Oscillating Direction Changer, Torque Limiter, Winch, Rack and Pinion, Offset Gears, Uni-Directional Drive, Camshaft, Intermittent Mechanism, Worm Gear.
 ## Atomic Habits
 - Visual measures are best. The best way to measure your progress is with a habit tracker.
 - You improve what you measure. "Don't break the chain" is a powerful mantra.
