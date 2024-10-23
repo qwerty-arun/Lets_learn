@@ -1,4 +1,7 @@
 # 23/10/2024
+## OnShape
+- Design of a simple first class lever. Importance of parallel mates to ensure gravity, load and effort all are parallel. Putting proper constraints of angle of rotation for beam. The beam shouldn't collide with the ground so if we use a equilateral triangle as a fulcrum, the angles won't be 60 degrees, it would rather be more like 30s or even 20s.
+- Design of a simple pin slot mate: Rotary to linear motion. I used many parts, actually that wasn't necessary. Selecting the mates for pin slot was tricky, moreover, the constraints should be put correctly.
 ## Mechanical Movements / Principles
 - [YT Video: 1](https://www.youtube.com/watch?v=M1-YeqGynlw&t=338s). [Pictures](https://brickexperimentchannel.wordpress.com/2022/11/14/20-mechanical-principles-machine/)
 - Schmidt Coupling, Universal joint (Steering Wheel), CV joint, Slider-Crank Linkage (Reciprocative Motion), Sun and Planet Gear, Scotch Yoke, Chebyshev Lambda Linkage, Chain Drive, Belt Drive, Constant Mesh Gear Box, Oscillating Direction Changer, Torque Limiter, Winch, Rack and Pinion, Offset Gears, Uni-Directional Drive, Camshaft, Intermittent Mechanism, Worm Gear.
