@@ -1,4 +1,14 @@
 # 24/10/2024
+## OnShape
+- Reference: [YT](https://www.youtube.com/watch?v=NM0YtGTQnDE)
+- Introduction to variables.
+- Automatic updation of varibles which are linked to each other.
+- In value section, while writing the formula, when using `+` or `-`, make sure you use `in` at last or else there will an error.
+- Configuration panel: List: Configure Features select the variables which you want, add their values.
+- Make another config: All its variables will have same exact values.
+- Notice that you have configurations tab on the left now which is default now. Change it to the new configuration you have.
+- You can still change the variables' value. The point of configurations is like adding a new version. You can go with any.
+- There are many different cams available, try making them?
 ## Pointers in C 
 - Chapter-2 : Arrays and Pointers Revisit
 ## Atomic Habits
