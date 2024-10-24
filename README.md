@@ -3,6 +3,8 @@
 - More costly the mistakes we make, the more faster we will learn from it.
 - More immediate the pain, the less likely the behavior. If you want to prevent bad habits, then adding extra cost to the action is a great way to reduce their odds.
 - To be productive, the cost of procrastination must be greater than the cost of action. To be healthy, the cost of laziness must be greater than the cost of exercise.
+- Knowing that someone is watching can be a powerful motivator. If you don't follow through, perhaps they'll see you as untrustworthy or lazy.
+- A habit contract can be used to add a social cost to any behavior. I makes the cost of violating your promises public and painful.
 # 23/10/2024
 ## OnShape
 - Design of a simple first class lever. Importance of parallel mates to ensure gravity, load and effort all are parallel. Putting proper constraints of angle of rotation for beam. The beam shouldn't collide with the ground so if we use a equilateral triangle as a fulcrum, the angles won't be 60 degrees, it would rather be more like 30s or even 20s.
