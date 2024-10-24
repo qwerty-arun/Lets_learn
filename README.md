@@ -1,4 +1,6 @@
 # 24/10/2024
+## Pointers in C 
+- Chapter-2 : Arrays and Pointers Revisit
 ## Atomic Habits
 - More costly the mistakes we make, the more faster we will learn from it.
 - More immediate the pain, the less likely the behavior. If you want to prevent bad habits, then adding extra cost to the action is a great way to reduce their odds.
