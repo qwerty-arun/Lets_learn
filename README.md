@@ -1,3 +1,5 @@
+# 25/10/24
+- Generation of elementary and single tone and composite signals using MATLAB. Elementary: Unit impulse, Unit step, Ramp signal, Exponential. Composite: Ramp Signal + Step signal.
 # 24/10/2024
 ## OnShape
 - Reference: [YT](https://www.youtube.com/watch?v=NM0YtGTQnDE)
