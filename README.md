@@ -1,4 +1,9 @@
 # 25/10/24
+## OnShape
+- Design of a box using parametric modelling.
+- Sheet Metal Feature: Wrapping of objects using sheet metal. What faces to exclude? What edges to bend? What material to use? What is K factor in bending? What is relief? Closed corner relief type is good.
+- Tried Flange feature, hem feature
+- Whenever we the sheet metal feature, an icon appears on the right. After clicking on it, you'll see flat view of your part. Edges which are meant to be bent are bent. 
 - Generation of elementary and single tone and composite signals using MATLAB. Elementary: Unit impulse, Unit step, Ramp signal, Exponential. Composite: Ramp Signal + Step signal.
 # 24/10/2024
 ## OnShape
