@@ -1,4 +1,18 @@
 # 25/10/24
+## Atomic Habits
+- Genes do not determine your destiny. They determine your areas of opportunity.
+>> FINDING A GAME WHERE ODDS ARE IN YOUR FAVOR:
+>> Easy way is to use the explore/exploit trade-off.
+>> Ask yourself these questions:
+>> What feels like fun to me, but work to others? It's not whether you love the work, it is whether you can handle the pain of the task easier than most people. When are you enjoying yourself while other people are complaining?
+>> What make me lose track of time? Flow is the mental state you enter when you are so focused on the task at hand that the rest of the world fades away.
+>> Where do I get greater returns than the average person? We are continually comparing ourselves to those around us, and a behavior is more likely to be satisfying when the comparision is in our favor.
+>> What comes naturally to me? Ignore what society has told you. Ignore what others expect of you. When have you felt alive. No more people pleasing. Whenever you feel authentic and genuine, you are headed in the right direction.
+- When you can't win by being better, you can win by being different. By combining your skills, you reduce the level of competition, which makes it easier to stand you.
+- Our genes do not eliminate the need for hard work. They clarify it. They tell us what to work hard on.
+- The secret to maximizing your odds of success is to choose the right field of competition.
+- Pick the right habit progress it easy. Pick the wrong habit and life is a struggle.
+- Play a game that favors your strengths. If you can't find a game that favors you, create one.
 ## OnShape
 - Design of a box using parametric modelling.
 - Sheet Metal Feature: Wrapping of objects using sheet metal. What faces to exclude? What edges to bend? What material to use? What is K factor in bending? What is relief? Closed corner relief type is good.
