@@ -1,3 +1,12 @@
+# 26/10/24
+## Atomic Habits
+- The human brain loves a challenge, but only if it is within an optimal zone of difficulty.
+- Goldilocks Rule: Humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right.
+- An elite coach who has trained many athletes once said: "At some point it comes down to who can handle the boredom of training every day, doing the same lifts over and over and over."
+- The greatest threat to success is not failure but boredom.  We get bored with habits because they stop delighting us. The outcome becomes expected. As our habits become ordinary, we start derailing our progress to seek novelty. That is why we get caught up in a never-ending cycle, jumping from one workout to next.
+- "Men desire novelty to such an extent that those who are doing well wish for a change as much as those who are doing badly."
+- Variable rewards are a powerful way to amplify the cravings we already experience because they reduce boredom. Ex: Slot machines.
+- Professionals stick to the schedule. Ameteurs let life get in the way. 
 # 25/10/24
 ## Atomic Habits
 - Genes do not determine your destiny. They determine your areas of opportunity.
