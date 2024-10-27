@@ -1,6 +1,13 @@
 # 17/10/24
 - Little bit of debugging on GDB.
 - Revision of Data Structures in C.
+## Atomic Habits
+- As habits become more and more automatic, you become less sensitive to feedback. You fall into mindless repetition. You let mistakes slide by.
+- Once a skill has been mastered there is usually a slight decline in performance over time.
+- Habits + Deliberate Practice = Mastery
+- After a habit has been mastered, you have to return to the effortful part of the work and begin building the next habit.
+- Be conscious of your performance over time, so that you improve.
+- Reflection and Review is important for long-term improvement.
 # 26/10/24
 ## Atomic Habits
 - The human brain loves a challenge, but only if it is within an optimal zone of difficulty.
