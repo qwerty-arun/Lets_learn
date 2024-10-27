@@ -1,3 +1,6 @@
+# 17/10/24
+- Little bit of debugging on GDB.
+- Revision of Data Structures in C.
 # 26/10/24
 ## Atomic Habits
 - The human brain loves a challenge, but only if it is within an optimal zone of difficulty.
