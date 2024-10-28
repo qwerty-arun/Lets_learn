@@ -1,4 +1,6 @@
-# 17/10/24
+# 28/10/24
+- College Stuff: Time Division Multiplexing (TDM) experiment as a part of Communication Engineering-2 Syllabus. VLSI: Basics of Mosfets. CE-2: Different Modulation techniques: QPSK, 8-PSK, QAM etc.
+# 27/10/24
 - Little bit of debugging on GDB.
 - Revision of Data Structures in C.
 ## Atomic Habits
