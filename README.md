@@ -1,4 +1,10 @@
 # 28/10/24
+## Atomic Habits
+- The more sacred the belief, the more deeply it is tied to our identity and more strongly we will defend it against criticism.
+- Keep your identity small. The more you let a single belief define you, the less capable you are of adapting when life challenges you.
+- If you have spent every waking moment working on your business, how will you feel after you sell the company?
+- "I'm an athlete" -> " I am the type of person who is mentally tough and loves a physical challenge."
+- "I'm the CEO" -> "I'm the type of person who builds and creates things."
 - College Stuff: Time Division Multiplexing (TDM) experiment as a part of Communication Engineering-2 Syllabus. VLSI: Basics of Mosfets. CE-2: Different Modulation techniques: QPSK, 8-PSK, QAM etc.
 # 27/10/24
 - Little bit of debugging on GDB.
