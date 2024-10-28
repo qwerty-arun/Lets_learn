@@ -1,4 +1,9 @@
 # 28/10/24
+## Project Based Learning in C: Building an Interpreter
+- We can store constants in chunk, but it may need some kind of execution like: `print 1;`. So we write a new instruction that loads the constant for use.
+- When a runtime error occurs, we need to show the user the line number of the code which is causing trouble.
+- So we create a new array. Each number in the array is the line number for corresponding byte in the bytecode.
+- When a runtime error occurs, we look up the line number at the same index as the current instruction’s offset in the code array. 
 ## OnShape
 - Frames Designing Course: For every profile, we should create a new frame. Limit frame options to precisely make a frame's length to exactly what we want. Not only that, it takes the shape of that part to which it is limited to. There are different types of frames, we can create a custom one.
 - Sketching on a mate connector.
