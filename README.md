@@ -1,4 +1,8 @@
 # 28/10/24
+## OnShape
+- Frames Designing Course: For every profile, we should create a new frame. Limit frame options to precisely make a frame's length to exactly what we want. Not only that, it takes the shape of that part to which it is limited to. There are different types of frames, we can create a custom one.
+- Sketching on a mate connector.
+- There is a Standard Library developed by OnShape.
 ## Atomic Habits
 - The more sacred the belief, the more deeply it is tied to our identity and more strongly we will defend it against criticism.
 - Keep your identity small. The more you let a single belief define you, the less capable you are of adapting when life challenges you.
