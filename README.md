@@ -1,4 +1,14 @@
 # 29/10/24
+## OnShape
+- Corner Override Feature and reversing direction.
+- Manipulator to adjust the profile.
+- Move Face Feature can be used to lengthen or shorten frames.
+- Mirroring Entities using mate connectors.
+- The whole point of mirroring about mate connectors is that we can avoid making new planes and stuff.
+- OnShape groups identical parts in the cut list.
+- Ordered groups in face trim option is handy when you want to trim many parts at once. There is a priority in the list selected. The parts at the top are not trimmed but the ones below will be trimmed to the faces of the parts mentioned above in the list.
+- You can reorder anytime.
+- You can hide parts to make sure whether parts are trimmed correctly or you can use interference detection for the same.
 ## Pointers in C
 > Chapter-4: Pointers and Structures: Sample Questions </br>
 ## College Stuff
