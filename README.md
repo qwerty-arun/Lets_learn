@@ -1,3 +1,10 @@
+# 29/10/24
+## Pointers in C
+> Chapter-4: Pointers and Structures: Sample Questions </br>
+## College Stuff
+> RF Circuits: Introductory Class: Why RF?
+> DTSP: Linear Convolution and Circular Convolution, Poles and Zeroes, Stability of system, Deconvolution, MATLAB Code for linear and circular convolution, What is DFT and how is it different from DTFT and DFS?
+> VLSI: Introduction to MOSFETS. Understanding of channels and how current flows.
 # 28/10/24
 ## Project Based Learning in C: Building an Interpreter
 - We can store constants in chunk, but it may need some kind of execution like: `print 1;`. So we write a new instruction that loads the constant for use.
