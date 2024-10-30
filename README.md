@@ -1,3 +1,8 @@
+# 30/10/24
+## College Stuff
+> Intellectual Properties: Patents, copyrights etc. Apply for patent, who can apply, what conditions should be met, international or terrotorial?
+> VLSI: Operating regions: Cutoff, linear and saturation.
+> RF Circuits: Various frequency bands. Introduction to mm Waves and microwaves. Advantages of Microwaves etc. Applications of microwaves.
 # 29/10/24
 ## OnShape
 - Corner Override Feature and reversing direction.
