@@ -1,3 +1,11 @@
+# 31/10/24
+## GDB Tutorial
+- `-g` is must for debugging.
+- `gui -tui <executable>` to run the gdb. 
+- Basic commands like step, next and continue and the difference between them.
+- Useful commands like info locals and info args.
+- Extremely useful command like watch (a variable). Everytime the variable under watch changes, a message is displayed.
+- Task: Look out for a good GDB Cheatsheet!
 # 30/10/24
 ## College Stuff
 > Intellectual Properties: Patents, copyrights etc. Apply for patent, who can apply, what conditions should be met, international or terrotorial?
