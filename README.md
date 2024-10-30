@@ -3,6 +3,13 @@
 > Intellectual Properties: Patents, copyrights etc. Apply for patent, who can apply, what conditions should be met, international or terrotorial?
 > VLSI: Operating regions: Cutoff, linear and saturation.
 > RF Circuits: Various frequency bands. Introduction to mm Waves and microwaves. Advantages of Microwaves etc. Applications of microwaves.
+## OnShape
+- Use Shift-Enter to create several of the same features in a row. Same feature but a new one will automatically be created.
+- Introduction to Split Feature. Splitting the skeleton creates additional paths for frame members and reduces the amount of sketches required.
+- Hide other parts in the part studio.
+- Frame trim: ordered groups and their priority.
+- Visualising step by step the procedure I followed to get to the final frame structure.
+- Configuration Panel.
 # 29/10/24
 ## OnShape
 - Corner Override Feature and reversing direction.
