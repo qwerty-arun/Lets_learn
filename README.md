@@ -1,4 +1,13 @@
 # 31/10/24
+## OnShape
+- Configuration based designing.
+- Creating multiple configuration inputs and adding appropriate config features in them.
+- Suppressing required parts in a certain configuration.
+- You can select a frame itself for configuration. This allows us to suppress or unsupress the frames.
+- Introduction to end caps. Different types, offsets, thickness
+- Interference Detection is a very powerful tool which can help make sure there is no interference between frames. You can use frame trim or move face features to avoid it.
+- Gussets are commonly used for reinforcement in welded frame structures to provide stiffness and strength.
+- Types of gussets: triangular and rectangular, offsets etc.
 ## GDB Tutorial
 - `-g` is must for debugging.
 - `gui -tui <executable>` to run the gdb. 
@@ -8,6 +17,9 @@
 - Task: Look out for a good GDB Cheatsheet!
 - `list` command doesn't work in `tui` mode. But in normal it does. `list` prints next 10 lines of code. `list 10,13` lists code from line no 10 to line 13.
 - `info source` displays details of current source file.
+- If you are working on multiple files, then its good to mention file name while adding breakpoint: `b factorial.c:14`
+- Initialise variables using `p a=1` and so on.
+- You don't have to exit gdb to run makefiles. Run it inside the gdb itself. 
 # 30/10/24
 ## College Stuff
 > Intellectual Properties: Patents, copyrights etc. Apply for patent, who can apply, what conditions should be met, international or terrotorial?
