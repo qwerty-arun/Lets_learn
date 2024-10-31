@@ -6,6 +6,8 @@
 - Useful commands like info locals and info args.
 - Extremely useful command like watch (a variable). Everytime the variable under watch changes, a message is displayed.
 - Task: Look out for a good GDB Cheatsheet!
+- `list` command doesn't work in `tui` mode. But in normal it does. `list` prints next 10 lines of code. `list 10,13` lists code from line no 10 to line 13.
+- `info source` displays details of current source file.
 # 30/10/24
 ## College Stuff
 > Intellectual Properties: Patents, copyrights etc. Apply for patent, who can apply, what conditions should be met, international or terrotorial?
