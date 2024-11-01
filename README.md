@@ -1,3 +1,7 @@
+# 1/11/24
+## Pointers in C
+- Application of linked list: Addition of two Polynomials.
+- Merging two linked list program.
 # 31/10/24
 ## OnShape
 - Configuration based designing.
