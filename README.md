@@ -1,4 +1,10 @@
 # 1/11/24
+## OnShape
+- Composite parts.
+- Cut list feature introduction. Column override option.
+- Exporting a cut list to another application.
+- You can make several cutlists for the same part studio.
+- Completed an exercise which made me create multiple cut lists for a reason. 
 ## Pointers in C
 - Application of linked list: Addition of two Polynomials.
 - Merging two linked list program.
