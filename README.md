@@ -4,7 +4,8 @@
 - Cut list feature introduction. Column override option.
 - Exporting a cut list to another application.
 - You can make several cutlists for the same part studio.
-- Completed an exercise which made me create multiple cut lists for a reason. 
+- Completed an exercise which made me create multiple cut lists for a reason.
+- Delete part options: delete composite parts, dissolve composite parts or ignore composite parts. If you want to remove a composite part which you created, use the dissolve option. Don't just go to part list and delete, it will delete the entire list parts present in the composite part.
 ## Pointers in C
 - Application of linked list: Addition of two Polynomials.
 - Merging two linked list program.
