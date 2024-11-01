@@ -1,4 +1,22 @@
 # 1/11/24
+## Buffer Overflow and GDB Analysis
+- Reference: [YT](https://www.youtube.com/watch?v=V9lMxx3iFWU&t=431s)
+- Wrote a program that inputs a string and depending on the input, the user is granted access if the password is correct.
+- `gcc -fno-stack
+- Write another text file containing only a single letter, but many.
+- Feed the text file while executing (even in GDB). `run < attack.txt`.
+- This will result in an error in both terminal and GDB.
+- `info func` to list out all the particular functions that exist in this particular binary.
+- PLT: Procedure linkage table.
+- `disas main`: disassemble main() will display function and their addresses.
+- `b *<address>` will place a breakpoint at that address. `*` is important here.
+- `lea`: Load effective address instruction.
+- Place breakpoints before and after the scanf statement.
+- `esp` is a stack pointer. We will list out addresses contained in the esp register by using `x/20x $esp`
+- For some reason, my computer says it can't access memory at address.
+- [Q/A regarding esp](https://stackoverflow.com/questions/7848771/how-can-one-see-content-of-stack-with-gdb)
+- For me, this worked: x/100x $sp. It displays stack memory.
+- `^Z` runs gdb in background.
 ## OnShape
 - Composite parts.
 - Cut list feature introduction. Column override option.
