@@ -1,4 +1,5 @@
 # 2/11/24
+- Neovim perfect setup for C. Can run program within neovim itself and display output on another buffer. You make changes to the program and enter `:w`, output will change automatically.
 ## OnShape
 - While inserting  frames in to assemblies, make sure you insert composite parts and not individual parts. Else, each part will be listed uniquely on the BOM.
 - You can insert drawings into sheet similar to inserting composite part in assemblies. Just select composite option.
