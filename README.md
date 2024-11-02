@@ -1,4 +1,9 @@
 # 2/11/24
+## PCB Designing
+- Just went through some datasheets of ESP32 and ESP32S series.
+- Learnt how to analyze schematics and place components accordingly.
+- Only place components if they are in stock.
+- Read application circuits in datasheets for better understanding.
 - Neovim perfect setup for C. Can run program within neovim itself and display output on another buffer. You make changes to the program and enter `:w`, output will change automatically.
 ## OnShape
 - While inserting  frames in to assemblies, make sure you insert composite parts and not individual parts. Else, each part will be listed uniquely on the BOM.
