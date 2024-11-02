@@ -1,3 +1,16 @@
+# 2/11/24
+## OnShape
+- While inserting  frames in to assemblies, make sure you insert composite parts and not individual parts. Else, each part will be listed uniquely on the BOM.
+- You can insert drawings into sheet similar to inserting composite part in assemblies. Just select composite option.
+- You can insert cutlists too, if there are many, then select the one which you want.
+- You can insert individual parts too and insert different views to that.
+- If there are configurations, then you can choose that too. Values will change automatically. You just need to right click and select configurations option.
+- You can add callouts to the drawings and display cut list properties too. This is possible even in BOM table too.
+- Changes in part studio will be refected to drawings sheet if we click on update button.
+- Creating custom profiles: Just Started
+## Pointers In C
+- Sorting linked list program by two ways: one just exchange data dand the other, by rearranging pointers.
+- Binary tree implementation. Basic terminology.
 # 1/11/24
 ## Buffer Overflow and GDB Analysis
 - Reference: [YT](https://www.youtube.com/watch?v=V9lMxx3iFWU&t=431s)
