@@ -1,3 +1,9 @@
+# 3/11/24
+## OnShape
+- Tag Profile Option.
+- Move Document option for a part studio.
+- Once the tab is moved, Frame 1 now references the Castle profile as a Linked Document. Taking advantage of Linked Documents to have greater control over the Share permissions and updating.
+- Done with frames course. Need to use it on daily basis now.
 # 2/11/24
 ## PCB Designing
 - Just went through some datasheets of ESP32 and ESP32S series.
