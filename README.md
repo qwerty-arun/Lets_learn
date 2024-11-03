@@ -1,4 +1,15 @@
 # 3/11/24
+## Time and Space Complexity: [Reference](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
+- Learnt about Time and Space Complexity basics.
+- Big-O-Notation, Omega notation, Theta notation.
+- Big-O: Worst case scenario, Omega: Best case, Theta: Avg.
+- n!, 2^n, n^2, nlogn, n, logn, 1.
+## PCB Designing
+- Placed all the components required for connection.
+- Made some connections around ESP32 Board.
+- It's always good to refer back to datasheet for recommended values of resistors, capacitors etc. Schematics tend to use different values.
+- NC: No Connection.
+- Instead of searching for a part online, use the same manufacturer, copy paste its no. in the library search box and changes values, you will get different value components.
 ## OnShape
 - Tag Profile Option.
 - Move Document option for a part studio.
