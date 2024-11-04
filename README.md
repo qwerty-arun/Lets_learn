@@ -1,4 +1,11 @@
 # 4/11/24
+## OnShape 
+### [Laser joint](https://youtu.be/YfDmlx2LpFo)
+- Included Custom joints feature like laser and dovetail.
+- Auto layout feature added.
+- Introduction to thicken command.
+- Suppose you want to export it for laser cutting, you will have to layout it corectly right. So the custom feature lays down all the parts flat and also asking details like spacing between them, sheet thickness, sheet length and width (total) so that arrangement is as tight as possible.
+- Add a drawing sheet and then export it to dxf file format or whatever format your cutter uses.
 ## College Stuff
 - Communication Lab Experiment: Frequency Shift Keying(FSK).
 - VLSI: Introduction to fourth terminal: bulk or substrate. Current equation for linear and saturation region.
