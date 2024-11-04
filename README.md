@@ -1,3 +1,8 @@
+# 4/11/24
+## College Stuff
+- Communication Lab Experiment: Frequency Shift Keying(FSK).
+- VLSI: Introduction to fourth terminal: bulk or substrate. Current equation for linear and saturation region.
+- Communication: Source Encoding, Channel Encoding and modulation. Talk related to satellite communication. 
 # 3/11/24
 ## Time and Space Complexity: [Reference](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
 - Learnt about Time and Space Complexity basics.
