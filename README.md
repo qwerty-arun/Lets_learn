@@ -1,3 +1,8 @@
+# 5/11/24
+## College Stuff
+- VLSI: Leakage current analysis.
+- RF Circuits: Transmission lines.
+- DSP: Circular convolution.
 # 4/11/24
 ## OnShape 
 ### [Laser joint](https://youtu.be/YfDmlx2LpFo)
