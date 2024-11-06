@@ -1,3 +1,15 @@
+# 6/11/24
+## Non-technical book: Be so good they can't ignore you
+- "Follow your passion and happiness follows" is a terrible advice.
+- Why? Because it is flawed. We tend to assume so much in advance that we don't actually see reality.
+- Instead let passion follow you. It takes a lot of time though. Build skills that you don't want to first, give value to the world and only then we get better.
+- Job is for paying bills, carrier is there to improvise everyday.
+- Most people end up liking their work is because they have spent enough time in it and their work becomes a play and they know their colleagues very well and so their relationships with them is great.
+- The young generation has high expectations for work. Job satisfaction rate is steadily decreasing.
+## College Stuff
+- RF Circuits: Basic differential equations and and its solutions.
+- DSP: Circulare Shifting in DFT.
+- VLSI: Punch through and Carrier Mobility Degradation.
 # 5/11/24
 ## College Stuff
 - VLSI: Leakage current analysis.
