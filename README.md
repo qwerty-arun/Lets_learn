@@ -1,3 +1,9 @@
+# 7/11/24
+## Non-technical book: Be so good they can't ignore you
+- Well if you want great work, then you must adopt craftsmanship approach which states that you must offer something of great value in return.
+- Traits that define great work: creativity, impact and control.
+- Focus on developing your skills in such a way that you become too valuable to be ignored.
+- When should you not use the Craftsman mindset? When the job focuses on things that are useless, it forces you work with people you dislike, provides very few opportunities that help you improve your skills that are rare and valuable.
 # 6/11/24
 ## Non-technical book: Be so good they can't ignore you
 - "Follow your passion and happiness follows" is a terrible advice.
