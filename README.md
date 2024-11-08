@@ -1,4 +1,9 @@
 # 8/11/24
+## Programming in C++
+- Basic programs in cpp
+- The playground was very helpful
+- Don't use namespace std
+- Difference between '\n' and 'endl' and why you should use "\n" instead
 - Set up a playground for programming in C++. Just like I did for C, added a custom command such that when I write into a file, it automatically prints the output for the respective program. 
 # 7/11/24
 ## Non-technical book: Be so good they can't ignore you
