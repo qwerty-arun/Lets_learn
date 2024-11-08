@@ -1,4 +1,13 @@
 # 8/11/24
+## Non-technical book: Be so good they can't ignore you
+- What makes an expert different from the intermediate? How to become an expert?
+- Stretch your ability.
+- Get timely feedback.
+- There is a 10 year rule or 10000 hours rule. Just this isn't enough. What you do in those hours matter.
+- Get into serious study. Why? Because feedback is immediate. Whereas in a tournament, your opponent might be much better than you or even worse making the possiblity of improving your skill zero.
+- Deliberate practice is the key to becoming so good that they can't ignore you.
+- If you just show up and work hard, you'll soon hit a performance plateau beyond which you fail to get any better.
+- There must be a thirst to even get slightly better.  
 ## Programming in C++
 - Basic programs in cpp
 - The playground was very helpful
