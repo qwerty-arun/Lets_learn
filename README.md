@@ -1,3 +1,5 @@
+# 8/11/24
+- Set up a playground for programming in C++. Just like I did for C, added a custom command such that when I write into a file, it automatically prints the output for the respective program. 
 # 7/11/24
 ## Non-technical book: Be so good they can't ignore you
 - Well if you want great work, then you must adopt craftsmanship approach which states that you must offer something of great value in return.
