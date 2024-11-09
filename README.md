@@ -1,3 +1,9 @@
+# 9/11/24
+## Questions
+- How does the government regulate AI companies?
+## Non-technical book: Be so good they can't ignore you
+- Focus on difficult activities, carefully choose to stretch your abilities where they need stretching and that provide immediate feedback.
+- For example: If you are a guitarist and play the same songs again and again, you'll only stay intermediate. On the other hand, if you play a new song of the same genre, you will improve at least by a little because you are familiar with the style and also there is something new to learn. There is a high chance of improving your skills.
 # 8/11/24
 ## Non-technical book: Be so good they can't ignore you
 - What makes an expert different from the intermediate? How to become an expert?
