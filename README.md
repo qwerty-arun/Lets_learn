@@ -1,3 +1,9 @@
+# 10/11/24
+## PCB Designing
+- Fixed the issue of +3V3 label. One connection was wrong in the schematic and this voltage source was connected to ground. Fixed it,had to update the PCB, so that changes reflect onto the PCB. Just saving the files won't help.
+- Done placing all the components onto the PCB.
+## OnShape
+- Designing a Robot Gripper. 
 # 9/11/24
 ## Questions
 - How does the government regulate AI companies?
