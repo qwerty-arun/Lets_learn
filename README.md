@@ -1,4 +1,9 @@
 # 11/11/24
+## OnShape
+- Understood the proper meanings or usage of project/convert option, creating a mate connector with a suitable offset, merge scope option only when you add an extrude to existing part.
+- Replicate option in assembly won't work if the part you are trying to replicate has two mates already assigned. Remove one, and then try. Anyways even if it works only one mate is copied.
+- Well, linear pattern can sometimes do the job that mirror can't. Just select instance, edge for direction and suitable offset.
+- Well, even mates get patterned, isn't that powerful?!
 ## Be so good they can't ignore you
 - Results only work environment(ROWE). Giving people more control over what they do and how they do it increases their happiness, engagement and sense of fulfillment.
 - Greatest thing you can have in work is control.
