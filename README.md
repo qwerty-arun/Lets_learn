@@ -1,11 +1,15 @@
 # 11/11/24
+## College Stuff
+- Communication Lab: Quadrature Phase Shift Keying (QPSK). Is it possible to write C or C++ code for this?
+- Signal Processing Lab: Circular Convolution and finding impulse response of LTI system. Can I code this?
+- Communication class: Geometric interpretation of signals, signal vectors, response of bank of correlators with noisy input.
 ## OnShape
 - Understood the proper meanings or usage of project/convert option, creating a mate connector with a suitable offset, merge scope option only when you add an extrude to existing part.
 - Replicate option in assembly won't work if the part you are trying to replicate has two mates already assigned. Remove one, and then try. Anyways even if it works only one mate is copied.
 - Well, linear pattern can sometimes do the job that mirror can't. Just select instance, edge for direction and suitable offset.
 - Well, even mates get patterned, isn't that powerful?!
 ## Be so good they can't ignore you
-- Results only work environment(ROWE). Giving people more control over what they do and how they do it increases their happiness, engagement and sense of fulfillment.
+- Results only work environment(ROWE). Giving people more control over what they do and how they do it increases their happiness, engagement and sense of fulfilment.
 - Greatest thing you can have in work is control.
 - Control acquired without career capital is unsustainable. You must first generate this capital by becoming good at something rare and valuable,  then invest it in traits that help make great work great. Never skip this.
 - Once you have enough capital to gain control, you have become valuable enough to your employer that they will fight your efforts to gain more autonomy.
