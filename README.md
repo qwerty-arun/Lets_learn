@@ -1,3 +1,9 @@
+# 11/1124
+## PCB Designing
+- Started with tracing routes
+- How to avoid yellow 'X' marks
+- How to trace around vias
+- Why do we need vias?
 # 10/11/24
 ## PCB Designing
 - Fixed the issue of +3V3 label. One connection was wrong in the schematic and this voltage source was connected to ground. Fixed it,had to update the PCB, so that changes reflect onto the PCB. Just saving the files won't help.
