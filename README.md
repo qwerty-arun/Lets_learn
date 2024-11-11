@@ -5,6 +5,7 @@
 - Control acquired without career capital is unsustainable. You must first generate this capital by becoming good at something rare and valuable,  then invest it in traits that help make great work great. Never skip this.
 - Once you have enough capital to gain control, you have become valuable enough to your employer that they will fight your efforts to gain more autonomy.
 - Finding yourself stuck in a boring job is exactly the point where breaking away to pave your own non-conformist path becomes tempting.
+- When nobody cares about what you do with your working life, you probably don't have enough career capital to do anything interesting. But once you have capital, your employer will resist your efforts. This is the point where you are vulnerable and your employer will try to prevent you from making the change.
 ## PCB Designing
 - Started with tracing routes
 - How to avoid yellow 'X' marks
