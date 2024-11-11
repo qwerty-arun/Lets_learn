@@ -1,4 +1,10 @@
-# 11/1124
+# 11/11/24
+## Be so good they can't ignore you
+- Results only work environment(ROWE). Giving people more control over what they do and how they do it increases their happiness, engagement and sense of fulfillment.
+- Greatest thing you can have in work is control.
+- Control acquired without career capital is unsustainable. You must first generate this capital by becoming good at something rare and valuable,  then invest it in traits that help make great work great. Never skip this.
+- Once you have enough capital to gain control, you have become valuable enough to your employer that they will fight your efforts to gain more autonomy.
+- Finding yourself stuck in a boring job is exactly the point where breaking away to pave your own non-conformist path becomes tempting.
 ## PCB Designing
 - Started with tracing routes
 - How to avoid yellow 'X' marks
