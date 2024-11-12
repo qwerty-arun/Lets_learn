@@ -6,6 +6,7 @@
 ## Be so good they can't ignore you
 - Law of financial viability: When deciding whether to follow an appealing pursuit that will introduce more control into your work life seek evidence of whether people are willing to pay for it. If you find evidence, continue. If not, move on.
 - In other words, do what people are willing to pay for.
+- To identify a mission for your working life, you must first get to the cutting edge. A good career mission is similar to a scientific breakthrough, it's an innovation waiting to be discovered in the adjacent possible of your field.
 # 11/11/24
 ## College Stuff
 - Communication Lab: Quadrature Phase Shift Keying (QPSK). Is it possible to write C or C++ code for this?
