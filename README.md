@@ -1,4 +1,8 @@
-3 12/11/24
+# 12/11/24
+## PCB Designing
+- Only 10 minutes of tutorial covered today. But learnt a lot.
+- Rerouting is a pain.
+- Placing labels accidently on ground whereas it should have been connected to another pin is even more painful.
 ## Be so good they can't ignore you
 - Law of financial viability: When deciding whether to follow an appealing pursuit that will introduce more control into your work life seek evidence of whether people are willing to pay for it. If you find evidence, continue. If not, move on.
 - In other words, do what people are willing to pay for.
