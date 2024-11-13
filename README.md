@@ -1,4 +1,5 @@
 # 13/11/24
+## [How to build a CNC plasma cutter](https://www.youtube.com/watch?v=mbo6soXn_kQ&list=WL&index=5)
 ## College Stuff
 - VLSI: CMOS technology introduction. Why is nMOS strong 0 and why is pMOS strong 1?
 - Intellectual Properties: Patents, trademarks and rights.
