@@ -4,6 +4,12 @@
 - Intellectual Properties: Patents, trademarks and rights.
 - RF Circuits: Special cases of lossless transmission lines.
 - Communication: Analysis of signals with added noise.
+## Be so good they can't ignore you
+- Mission requires capital.
+- Mission requires little bets. You must deploy small, concrete experiments that concrete feedback. These bets allow you to tentatively explore specific avenues surrounding your general mission.
+- Great missions are transformed into great successes as the result of using small and achievable projects.
+- The law of remarkability: An idea inspires people to remark about it, and is launched in a venue where such remarking is made easy.
+- For a mission-driven project to succeed, it should be remarkable in two different ways. First, it must compel people who encounter it to remark about it to others. Second, it must be launched in a venue that supports such remarking.
 # 12/11/24
 ## PCB Designing
 - Only 10 minutes of tutorial covered today. But learnt a lot.
