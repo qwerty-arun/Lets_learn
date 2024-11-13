@@ -1,3 +1,9 @@
+# 13/11/24
+## College Stuff
+- VLSI: CMOS technology introduction. Why is nMOS strong 0 and why is pMOS strong 1?
+- Intellectual Properties: Patents, trademarks and rights.
+- RF Circuits: Special cases of lossless transmission lines.
+- Communication: Analysis of signals with added noise.
 # 12/11/24
 ## PCB Designing
 - Only 10 minutes of tutorial covered today. But learnt a lot.
