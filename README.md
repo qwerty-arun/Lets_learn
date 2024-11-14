@@ -1,3 +1,14 @@
+# 14/11/24
+## C++ Programming
+- Introduction to variable and types.
+- Understanding of <complex> header file which deals with comples numbers. Can I use this powerful library to understand Transmission lines which often involves the usage of complex numbers.
+- `auto` keyword. '=' is used so that no type conversion involved.
+- `const`: "I promise not to change" and `constexpr`:"To be evaluated at compile time"
+## PCB Designing
+- Almost done with tracking.
+- Updating PCB when schematic is changed.
+## So Good They Can't Ignore You
+- Conclusions: How the author himself applies the rules.
 # 13/11/24
 ## [How to build a CNC plasma cutter](https://www.youtube.com/watch?v=mbo6soXn_kQ&list=WL&index=5)
 ## College Stuff
