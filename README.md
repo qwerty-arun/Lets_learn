@@ -1,3 +1,11 @@
+# 15/11/24
+## C++ Programming
+- Types of `for` loop used
+- Allocation using `new`
+- Usage of enum
+- Difference between `enum` and `enum class`
+- Introduction to classes
+- Focus on programming techniques, not language features.
 # 14/11/24
 ## C++ Programming
 - Introduction to variable and types.
