@@ -1,4 +1,13 @@
 # 15/11/24
+## Zero To One
+- 0 to 1 is tech and 1 to n is globalization.
+- Don't oppose the croud, but think for yourself.
+- Startup is a largest group of people you can convince of a plan to build a different future.
+- Question everything and think business from scratch.
+## So Good They Can't Ignore You
+- Made a summary of the book in 2 pages.
+- Making track of hours spent on deliberate practice.
+- Need to make a weekly plan and a weekly review.
 ## C++ Programming
 - Types of `for` loop used
 - Allocation using `new`
