@@ -4,6 +4,8 @@
 - You could give a out a lot of value whereas your company won't be valuable enough. Ex: Airlines
 - Firms in monopoly and perfect competition, both lie. Monopolies lie that they are just a part of a bigger market. Same goes with firms in competition.
 - All failed businesses are same, they failed to escape competition.
+- If you are less sensitive to social cues, you are less likely to do the same things that others are doing.
+- Competition is dangerous. Is it because all are different or is it because everyone is same.
 # 15/11/24
 ## Zero To One
 - 0 to 1 is tech and 1 to n is globalization.
