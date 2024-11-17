@@ -1,3 +1,20 @@
+# 17/11/24
+## Zero To One
+- A business is the sum of all the money it will make in the future.
+- Technology componies first lose money. It takes time to build valuable things.
+- For a company to be valuable, it must grow and endure.
+- Will this business still be around a decade from now?
+- Characteristics of monopoly: Proprietary Technology, Scale, Network effects and branding.
+- Greatest advantage of a company is to build a product difficult or impossible to replicate. Well it must be at leat 10 times better than its closest substitute in some important dimension or the other.
+- Network effects make a product more useful as more people use it. It can be powerful, but you'll never reap them unless your product is valuable to its very first users when the network is small.
+- A monopoly business gets stronger as it gets bigger: the fixed costs of creating a product can be spread out over greater quantities of sales. For software, cost can be literally zero.
+- Service based businesses are very difficult to make monopolies.
+- Strong brand is a powerful way to claim a monopoly.
+- Building a Monopoly: Start small and monopolize
+- A startup should start with a very small market. The perfect target group for a startup is a small group of particular people concentrated together and served by few or no competitors.
+- Once you create and dominate a niche market, you should gradually expand into related and slightly broarder markets.
+- Don't disrupt: avoid competition as much as possible.
+- Last mover: make the last great development in a specific market and enjoy years of monopoly profits.
 # 16/11/24
 ## Zero To One
 - What valuable company is nobody building?
