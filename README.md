@@ -1,3 +1,5 @@
+# 19//11/24
+- [A guide to Open Source](https://www.youtube.com/watch?v=mklEhT_RLos&list=WL&index=14)
 # 18/11/24
 ## Zero To One
 - Definite planning is important for long term growth.
