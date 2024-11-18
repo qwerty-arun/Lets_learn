@@ -1,3 +1,15 @@
+# 18/11/24
+## Zero To One
+- Definite planning is important for long term growth.
+- Making small changes to things that already exit might lead you to a local maximum, but won't help you find the global maximum.
+- Iteration without a bold plan won't get you from 0 to 1.
+- Power law: a small handful of companies radically outperform all others. If you focus on diversification instead of single minded pursuit of the very few companies that can b
+- Big secret in venture capital is that the best investment in a successful fund equals or outperforms the entire rest of the fund combined.
+- You must focus relentlessly on something you are good at doing and ask yourself whether it will be valuable in the future of not.
+## OnShape
+- 3D curves
+- Isoparametric curves
+- Offset Curves
 # 17/11/24
 ## Zero To One
 - A business is the sum of all the money it will make in the future.
