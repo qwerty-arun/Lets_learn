@@ -1,4 +1,10 @@
-# 19//11/24
+# 20/11/24
+- Open Source Video
+- Zero To One Book: Getting the right people on board, why should the 20th or 39th candidate join your company?
+- CAD: 3D Split curves, intersection curves, fill the curves.
+- PCB: Completed the ESP32 Tutorial
+- C++: Small Programs
+# 19/11/24
 - [A guide to Open Source](https://www.youtube.com/watch?v=mklEhT_RLos&list=WL&index=14)
 # 18/11/24
 ## Zero To One
