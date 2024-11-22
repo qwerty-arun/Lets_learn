@@ -1,3 +1,7 @@
+# 22/11/24
+## Good reads for open source
+- https://www.conventionalcommits.org/en/v1.0.0/
+- https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/
 # 20/11/24
 - Open Source Video
 - Zero To One Book: Getting the right people on board, why should the 20th or 39th candidate join your company?
