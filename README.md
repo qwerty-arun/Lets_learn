@@ -1,3 +1,13 @@
+# 23/11/24
+## Zero To One
+- Selling is as important as product development
+- Man-machine combo is complementary. Together, they bring magic. Computers can never be a replacement, but they will good tools.
+## College Stuff
+- Linear Convolution
+- Circular Convolution
+- DFT method
+- Properties of DFT: Linearity, time shifting, frequency shifting, conjugate symmetry.
+- When is the linear convolution equal to circular convolution?
 # 22/11/24
 ## Good reads for open source
 - https://www.conventionalcommits.org/en/v1.0.0/
