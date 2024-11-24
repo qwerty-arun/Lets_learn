@@ -1,3 +1,12 @@
+# 24/11/24
+## College stuff
+- Revised Transmission lines
+- Revised Intellectual property rights
+- Revised VLSI: Basics of MOSFETs and CMOS Inverter Design
+## PCB Designing
+- Done with connections
+- Added neat labels and also sectioned schematics
+- Added important notes regarding circuitry
 # 23/11/24
 ## Zero To One
 - Selling is as important as product development
