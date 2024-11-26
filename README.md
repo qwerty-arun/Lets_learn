@@ -1,3 +1,6 @@
+# 26/11/24
+## Insights on how to start learning AI and ML
+- https://www.youtube.com/watch?v=H-RKfV2ZJbI
 # 24/11/24
 ## College stuff
 - Revised Transmission lines
