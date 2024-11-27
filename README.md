@@ -1,3 +1,13 @@
+# 27/11/24
+## Zero To One: The seven questions you need to ask
+- Engineering question: Can you create breakthrough instead incremental inprovements?
+- Timing question: Is now the right time to start your particular business?
+- Monopoly question: Are you starting with a big share of a small market?
+- People question: Do you have the right team?
+- Distribution question: Do you have a way to not just create but deliver your product?
+- Will your market position be defensible 10 and 20 years into the future?
+- Secret market: Have you identified a unique opportunity that others don't see?
+- The best projects and problems to work on are the ones nobody else even tries to solve.
 # 26/11/24
 ## Insights on how to start learning AI and ML
 - https://www.youtube.com/watch?v=H-RKfV2ZJbI
