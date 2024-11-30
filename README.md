@@ -1,3 +1,14 @@
+# 30/11/24
+## PCB Designing
+- Done with placement of all components
+- Outline of board done
+## OnShape
+- Design of my bottle. Trying to revise the curves course which I took.
+## Non-Technical Book
+- Word power made easy: Some new words I learnt
+## College Stuff
+- Searched for some project ideas for VLSI
+- Revision of FFT: DIT and DIF methods
 # 27/11/24
 ## Zero To One: The seven questions you need to ask
 - Engineering question: Can you create breakthrough instead incremental inprovements?
