@@ -1,4 +1,5 @@
 # 30/11/24
+- Created a playground for Latex too just like I did for C and C++. I write into the file and automatically the pdf opens in another window.
 ## PCB Designing
 - Done with placement of all components
 - Outline of board done
