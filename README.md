@@ -1,3 +1,6 @@
+# 1/12/24
+- Learnt the difference between shell and kernel.
+- 'type' command in linux let's you know what type of command is that you are using, whether it is shell default or installed or aliased.
 # 30/11/24
 - Created a playground for Latex too just like I did for C and C++. I write into the file and automatically the pdf opens in another window.
 ## PCB Designing
