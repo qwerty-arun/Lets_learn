@@ -1,3 +1,14 @@
+# 3/12/24
+## Latex
+- Learnt the basics: What is a preamble: title, author, date etc.
+- Setting font size.
+- Set up a playground for Latex.
+- `\emph` command
+- `\textbf`, `\textit` and `\underline` commands.
+## PCB Designing
+- Done with designing the STM32 board with basic functionalities.
+- Need to revise both the EasyEDA software and KiCAD software.
+- Now its time to design my own PCBs.
 # 1/12/24
 - Learnt the difference between shell and kernel.
 - 'type' command in linux let's you know what type of command is that you are using, whether it is shell default or installed or aliased.
