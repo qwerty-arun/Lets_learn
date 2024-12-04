@@ -1,3 +1,8 @@
+# 4/12/24
+## Latex
+- For some, images don't show up after compiling and writing into the file.
+- Ordered list and unordered list using `\itemize` and `\enumerate` respectively.
+- $..$ and \(..\) for math equations.
 # 3/12/24
 ## Latex
 - Learnt the basics: What is a preamble: title, author, date etc.
