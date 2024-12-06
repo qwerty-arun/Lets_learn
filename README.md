@@ -1,3 +1,10 @@
+# 6/12/24
+## C++
+- Where is C++ useful? Video games, embedded systems, audio and video processing, AI and neural networks, graphics and simulation.
+- [Compilers and interpreters](https://stackoverflow.com/questions/38491212/difference-between-compiled-and-interpreted-languages/38491646#38491646)
+- [GCC optimization](https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html)
+- Build and debug configs
+- [Why we shouldn't use namespace std?](https://stackoverflow.com/questions/1452721/whats-the-problem-with-using-namespace-std)
 # 4/12/24
 ## Latex
 - For some, images don't show up after compiling and writing into the file.
