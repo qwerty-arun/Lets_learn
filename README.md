@@ -1,3 +1,21 @@
+# 10/12/24
+## Skill Lab Day-2
+- MATLAB and Simulink hardware support for arduino packages
+- Basic idea about simulink
+- Expts with LEDs, ultrasound sensor and buzzer
+## C++
+- Different types of initialization
+- Understanding the working of cout and cin
+- What is a buffer and how is it flushed
+- Why is std::endl inefficient sometimes and why is '\n' preferred
+- Different types of input given to cin
+## YT
+- CPU vs GPU vs NPU
+- Windows shortcut keys
+- Difference between AI and AGI
+# 9/12/24
+## Skill Lab Day-1
+- All about latex
 # 6/12/24
 ## C++
 - Where is C++ useful? Video games, embedded systems, audio and video processing, AI and neural networks, graphics and simulation.
