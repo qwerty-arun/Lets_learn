@@ -1,3 +1,19 @@
+# 12/12/24
+## Skill Lab Day-3
+- Android development using android studio
+- Flutter installation
+- Basic Calculator app
+## Latex
+- It seems like my playground setup doesn't work when images are involved no matter what folder I keep my images in.
+- Thus, I decided that from now on, I am going to use `vert terminal` and `hor terminal` which creates vertical terminal and horizontal terimal respectively
+- I created aliases `vt` and `ht` for vertical and horizontal terminals respectively.
+## C++
+- Using uninitialised variables, tricking the compiler to think that the variable is being used, make a new function pass the variable as parameter.
+- Conventions in writing code: indentation, comments, naming of variables.
+## Simulink tutorial
+- Simple block diagrams
+- Usage of PID and transfer function blocks.
+- Analysing respone: which one is better. By changing the values of numerator and denominator of the transfer function.
 # 10/12/24
 ## Skill Lab Day-2
 - MATLAB and Simulink hardware support for arduino packages
