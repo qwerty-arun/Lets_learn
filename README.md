@@ -1,3 +1,13 @@
+# 14/12/24
+## C++
+- 2 hours of basics: expressions and statements
+- Importance of maintaining code
+- Cleanup code involves: removing temperory / debugging code, adding comments, handling error cases, formatting code
+- To print a period and a newline, use ".\n" and not '.\n'
+## OnShape
+- Revised conics and splines
+- Used the concept to create an airfoil model but not of specific dimensions
+- Learnt about [NACA nomemclature](https://garudauniverse.com/naca-airfoils-nomenclature/)
 # 13/12/24
 ## Skill Lab Day-4
 - Introduction to tools like ADS and AWR.
