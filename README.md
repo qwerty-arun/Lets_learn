@@ -1,3 +1,10 @@
+# 13/12/24
+## Skill Lab Day-4
+- Introduction to tools like ADS and AWR.
+- Basic problems on impedance matching on ADS.
+- Tools used: smith chart and linecal.
+- Using mminimum no. of elements in our circuit.
+- Introduction to stubs(microstrip lines)
 # 12/12/24
 ## Skill Lab Day-3
 - Android development using android studio
