@@ -1,3 +1,31 @@
+# 15/12/24
+- Tried installing Kali Linux on my Virtual Machine, but it seems to enter low memory mode. Will try again after a few weeks.
+## C++
+- 3 hours of basic stuff: functions
+- unreferenced parameters: when to not give a name, when to comment out
+- auto keyword is not allowed in function prototype
+## Latex
+- `\listoffigures`
+- `\listoftables`
+- `\newpage`
+- `\renewcommand{\listfigurename}{List of plots}`, you can do the same with tables
+- using the package: glossaries
+- \makeglossaries is a must before entering new glossary
+```latex
+\newglossaryentry{latex}
+{
+  name=latex,
+  description={Is a markup language specially suited for scientific documents}
+}
+```
+- `\gls`, `\Gls` is used for referencing the glossary
+- `\printglossaries` is used for printing the glossary
+- What is `.glo` and `.gls` files and why is it important?
+- For some reason, glossaries weren't printing, so I replaced `\makeglossaries` to `\makenoidxglossaries` and `\printglossaries` to `\printnoidxglossaries`.
+- This fixed the issue.
+## PCB designing
+- STM32 + RF + USB Hardware Design on KiCAD - Phil's Lab
+- [YT tutorial](https://www.youtube.com/watch?v=14_jh3nLSsU&list=PLXSyc11qLa1b9VA7nw8-DiLRXVhZ2iUN2&index=5)
 # 14/12/24
 ## C++
 - 2 hours of basics: expressions and statements
