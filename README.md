@@ -1,4 +1,14 @@
 # 16/12/24
+## C++ 
+- namespaces
+- multiple files
+- concept of two functions calling each other
+## Unexpected
+- There was some problem with my root file system, my VM wouldn't turn on.
+- It asked me to run `fsck` manually
+- /dev/sda3 contains a file system with errors, check forced. Inodes that were a part of a corrupted orphan linked lost found was the error
+- I ran `fsck -yf /dev/sda3` and it fixed the issue right away.
+- [More details](https://askubuntu.com/questions/885062/root-file-system-requires-manual-fsck)
 ## RF workshop
 - Why to automate the process of fabricating the antenna?
 - Microstrip patch antenna in cylindrical configuration, spherical configuration, superstrates
